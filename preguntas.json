@@ -1,0 +1,1682 @@
+[
+    {
+        "pregunta": "1.      Los interesados en un procedimiento administrativo, tienen derecho a (señala la incorrecta):",
+        "opciones": [
+            "conocer, antes del trámite de audiencia, el estado de la tramitación de los procedimientos en los que tengan la condición de interesados",
+            "conocer el sentido del silencio administrativo que corresponda, en caso de que la Administración no dicte ni notifique resolución expresa en plazo",
+            "conocer el órgano competente para la instrucción de los procedimientos en los que tengan la condición de interesados",
+            "acceder y a obtener copia de los documentos contenidos en los procedimientos en los que tengan la condición de interesados"
+        ],
+        "correcta": "conocer, antes del trámite de audiencia, el estado de la tramitación de los procedimientos en los que tengan la condición de interesados"
+    },
+    {
+        "pregunta": "2.      Los interesados en un procedimiento administrativo, tienen derecho a (señala la incorrecta):",
+        "opciones": [
+            "identificar a las autoridades y al personal al servicio de las Administraciones Públicas bajo cuya responsabilidad se tramiten los procedimientos",
+            "no presentar documentos originales en ningún caso",
+            "no presentar datos y documentos no exigidos por las normas aplicables al procedimiento de que se trate, que ya se encuentren en poder de las Administraciones Públicas o que hayan sido elaborados por éstas",
+            "formular alegaciones, utilizar los medios de defensa admitidos por el Ordenamiento Jurídico, y a aportar documentos en cualquier fase del procedimiento anterior al trámite de audiencia, que deberán ser tenidos en cuenta por el órgano competente al redactar la propuesta de resolución"
+        ],
+        "correcta": "no presentar documentos originales en ningún caso"
+    },
+    {
+        "pregunta": "3.      Los interesados en un procedimiento administrativo, tienen derecho a (señala la incorrecta):",
+        "opciones": [
+            "obtener información y orientación acerca de los requisitos jurídicos o técnicos que las disposiciones vigentes impongan a los proyectos, actuaciones o solicitudes que se propongan realizar",
+            "actuar asistidos de asesor cuando lo consideren conveniente en defensa de sus intereses",
+            "cumplir las obligaciones de pago a través de los medios electrónicos",
+            "cualesquiera que les reconozcan la Constitución, las leyes o los reglamentos"
+        ],
+        "correcta": "cualesquiera que les reconozcan la Constitución, las leyes o los reglamentos"
+    },
+    {
+        "pregunta": "4.      En el caso de procedimientos administrativos de naturaleza sancionadora, los presuntos responsables tendrán derecho a:",
+        "opciones": [
+            "ser notificado de los hechos que se le imputen, de las infracciones que tales hechos puedan constituir y de las sanciones que, en su caso, se les pudieran imponer",
+            "ser notificado de la identidad del instructor, de la autoridad competente para imponer la sanción y de la norma que atribuya tal competencia",
+            "la presunción de no existencia de responsabilidad administrativa mientras no se demuestre lo contrario",
+            "todas son correctas"
+        ],
+        "correcta": "todas son correctas"
+    },
+    {
+        "pregunta": "5.      Respecto a la iniciación del procedimiento no es correcto:",
+        "opciones": [
+            "los procedimientos podrán iniciarse de oficio o a solicitud del interesado",
+            "con anterioridad al inicio del procedimiento, el órgano competente abrirá un período de información o actuaciones previas con el fin de conocer las circunstancias del caso concreto y la conveniencia o no de iniciar el procedimiento",
+            "en el caso de procedimientos de naturaleza sancionadora las actuaciones previas se orientarán a determinar, con la mayor precisión posible, los hechos susceptibles de motivar la incoación del procedimiento, la identificación de la persona o personas que pudieran resultar responsables y las circunstancias relevantes que concurran en unos y otros",
+            "las actuaciones previas serán realizadas por los órganos que tengan atribuidas funciones de investigación, averiguación e inspección en la materia y, en defecto de éstos, por la persona u órgano administrativo que se determine por el órgano competente para la iniciación o resolución del procedimiento"
+        ],
+        "correcta": "con anterioridad al inicio del procedimiento, el órgano competente abrirá un período de información o actuaciones previas con el fin de conocer las circunstancias del caso concreto y la conveniencia o no de iniciar el procedimiento"
+    },
+    {
+        "pregunta": "6.      Podrá adoptar las medidas provisionales que estime oportunas para asegurar la eficacia de la resolución que pudiera recaer:",
+        "opciones": [
+            "antes de iniciar el procedimiento, el órgano administrativo competente para iniciar o instruir, de oficio o a instancia de parte y de forma motivada",
+            "iniciado el procedimiento, el órgano administrativo competente para resolver, de oficio o a instancia de parte y de forma motivada",
+            "antes de iniciar el procedimiento, el órgano administrativo competente para resolver, de oficio o a instancia de parte y de forma motivada",
+            "iniciado el procedimiento, el órgano administrativo competente para iniciar o instruir, de oficio y de forma motivada"
+        ],
+        "correcta": "iniciado el procedimiento, el órgano administrativo competente para resolver, de oficio o a instancia de parte y de forma motivada"
+    },
+    {
+        "pregunta": "7.      En los casos de urgencia inaplazable y para la protección provisional de los intereses implicados, podrá adoptar de forma motivada las medidas provisionales que resulten necesarias y proporcionadas:",
+        "opciones": [
+            "el órgano competente para iniciar o instruir el procedimiento, de oficio, iniciado el procedimiento administrativo",
+            "el órgano competente para resolver el procedimiento, de oficio, antes de la iniciación del procedimiento administrativo",
+            "el órgano competente para iniciar o instruir el procedimiento, de oficio o a instancia de parte, antes de la iniciación del procedimiento administrativo",
+            "el órgano competente para resolver el procedimiento, de oficio o a instancia de parte, iniciado el procedimiento administrativo"
+        ],
+        "correcta": "el órgano competente para iniciar o instruir el procedimiento, de oficio o a instancia de parte, antes de la iniciación del procedimiento administrativo"
+    },
+    {
+        "pregunta": "8.      Las medidas provisionales deberán ser confirmadas, modificadas o levantadas en el acuerdo de iniciación del procedimiento, que deberá efectuarse dentro de los:",
+        "opciones": [
+            "10 días siguientes a su adopción, el cual no podrá ser objeto de recurso",
+            "15 días siguientes a su adopción, el cual podrá ser objeto del recurso que proceda",
+            "15 días siguientes a su adopción, el cual no podrá ser objeto de recurso",
+            "10 días siguientes a su adopción, el cual podrá ser objeto del recurso que proceda"
+        ],
+        "correcta": "15 días siguientes a su adopción, el cual podrá ser objeto del recurso que proceda"
+    },
+    {
+        "pregunta": "9.      Podrán acordarse las siguientes medidas provisionales (señala la incorrecta):",
+        "opciones": [
+            "suspensión definitiva de actividades",
+            "prestación de fianzas",
+            "suspensión temporal de servicios por razones de sanidad, higiene o seguridad",
+            "embargo preventivo de bienes, rentas y cosas fungibles computables en metálico por aplicación de precios ciertos"
+        ],
+        "correcta": "suspensión definitiva de actividades"
+    },
+    {
+        "pregunta": "10.      Podrán acordarse las siguientes medidas provisionales (señala la incorrecta):",
+        "opciones": [
+            "depósito, retención o inmovilización de cosa mueble",
+            "intervención y depósito de ingresos obtenidos mediante una actividad que se considere lícita",
+            "consignación o constitución de depósito de las cantidades que se reclamen",
+            "retención de ingresos a cuenta que deban abonar las Administraciones Públicas"
+        ],
+        "correcta": "intervención y depósito de ingresos obtenidos mediante una actividad que se considere lícita"
+    },
+    {
+        "pregunta": "11.      Respecto a las medidas provisionales:",
+        "opciones": [
+            "no se podrán adoptar si pueden causar perjuicio de difícil o imposible reparación a los interesados o implicar violación de derechos amparados por las leyes",
+            "no podrán ser alzadas o modificadas durante la tramitación del procedimiento en virtud de circunstancias sobrevenidas o que no pudieron ser tenidas en cuenta en el momento de su adopción",
+            "se consolidarán cuando surta efectos la resolución administrativa que ponga fin al procedimiento correspondiente",
+            "todas son correctas"
+        ],
+        "correcta": "no se podrán adoptar si pueden causar perjuicio de difícil o imposible reparación a los interesados o implicar violación de derechos amparados por las leyes"
+    },
+    {
+        "pregunta": "12.      El órgano administrativo que inicie o tramite un procedimiento siempre que sea el mismo órgano quien deba tramitar y resolver el procedimiento:",
+        "opciones": [
+            "cuando se haya iniciado de oficio, podrá disponer, también de oficio, su acumulación a otros con los que guarde identidad sustancial o íntima conexión",
+            "cuando se haya iniciado a instancia de parte, podrá disponer, también a instancia de parte, su acumulación a otros con los que guarde identidad sustancial o íntima conexión",
+            "cualquiera que haya sido la forma de su iniciación, podrá disponer, de oficio, su acumulación a otros con los que guarde identidad sustancial o íntima conexión",
+            "cualquiera que haya sido la forma de su iniciación, podrá disponer, de oficio o a instancia de parte, su acumulación a otros con los que guarde identidad sustancial o íntima conexión"
+        ],
+        "correcta": "cualquiera que haya sido la forma de su iniciación, podrá disponer, de oficio o a instancia de parte, su acumulación a otros con los que guarde identidad sustancial o íntima conexión"
+    },
+    {
+        "pregunta": "13.      Contra el acuerdo de acumulación:",
+        "opciones": [
+            "podrá imponerse recurso de alzada",
+            "podrá imponerse recurso potestativo de reposición",
+            "podrá imponerse recurso extraordinario de revisión",
+            "no procederá recurso alguno"
+        ],
+        "correcta": "no procederá recurso alguno"
+    },
+    {
+        "pregunta": "14.      Los procedimientos se iniciarán de oficio por acuerdo del órgano competente:",
+        "opciones": [
+            "por propia iniciativa o como consecuencia de orden superior",
+            "a petición razonada de otros órganos",
+            "por denuncia",
+            "todas son correctas"
+        ],
+        "correcta": "todas son correctas"
+    },
+    {
+        "pregunta": "15.      Se entiende por inicio del procedimiento a propia iniciativa:",
+        "opciones": [
+            "el acto por el que cualquier persona, en cumplimiento o no de una obligación legal, pone en conocimiento de un órgano administrativo la existencia de un determinado hecho que pudiera justificar la iniciación de oficio de un procedimiento administrativo",
+            "la actuación derivada del conocimiento directo o indirecto de las circunstancias, conductas o hechos objeto del procedimiento por el órgano que tiene atribuida la competencia de iniciación",
+            "la propuesta de iniciación del procedimiento formulada por cualquier órgano administrativo que no tiene competencia para iniciar el mismo y que ha tenido conocimiento de las circunstancias, conductas o hechos objeto del procedimiento",
+            "la orden emitida por un órgano administrativo superior jerárquico del competente para la iniciación del procedimiento"
+        ],
+        "correcta": "la actuación derivada del conocimiento directo o indirecto de las circunstancias, conductas o hechos objeto del procedimiento por el órgano que tiene atribuida la competencia de iniciación"
+    },
+    {
+        "pregunta": "16.      Se entiende por inicio del procedimiento como consecuencia de orden superior:",
+        "opciones": [
+            "el acto por el que cualquier persona, en cumplimiento o no de una obligación legal, pone en conocimiento de un órgano administrativo la existencia de un determinado hecho que pudiera justificar la iniciación de oficio de un procedimiento administrativo",
+            "la actuación derivada del conocimiento directo o indirecto de las circunstancias, conductas o hechos objeto del procedimiento por el órgano que tiene atribuida la competencia de iniciación",
+            "la propuesta de iniciación del procedimiento formulada por cualquier órgano administrativo que no tiene competencia para iniciar el mismo y que ha tenido conocimiento de las circunstancias, conductas o hechos objeto del procedimiento",
+            "la orden emitida por un órgano administrativo superior jerárquico del competente para la iniciación del procedimiento"
+        ],
+        "correcta": "la orden emitida por un órgano administrativo superior jerárquico del competente para la iniciación del procedimiento"
+    },
+    {
+        "pregunta": "17.      En los procedimientos de naturaleza sancionadora, la orden de inicio del procedimiento expresará, en la medida de lo posible:",
+        "opciones": [
+            "las conductas o hechos que pudieran constituir infracción administrativa y su tipificación",
+            "el lugar, la fecha, fechas o período de tiempo continuado en que los hechos se produjeron",
+            "la persona o personas presuntamente responsables",
+            "todas son correctas"
+        ],
+        "correcta": "todas son correctas"
+    },
+    {
+        "pregunta": "18.      Se entiende por inicio del procedimiento por petición razonada de otros órganos:",
+        "opciones": [
+            "el acto por el que cualquier persona, en cumplimiento o no de una obligación legal, pone en conocimiento de un órgano administrativo la existencia de un determinado hecho que pudiera justificar la iniciación de oficio de un procedimiento administrativo",
+            "la actuación derivada del conocimiento directo o indirecto de las circunstancias, conductas o hechos objeto del procedimiento por el órgano que tiene atribuida la competencia de iniciación",
+            "la propuesta de iniciación del procedimiento formulada por cualquier órgano administrativo que no tiene competencia para iniciar el mismo y que ha tenido conocimiento de las circunstancias, conductas o hechos objeto del procedimiento",
+            "la orden emitida por un órgano administrativo superior jerárquico del competente para la iniciación del procedimiento"
+        ],
+        "correcta": "la propuesta de iniciación del procedimiento formulada por cualquier órgano administrativo que no tiene competencia para iniciar el mismo y que ha tenido conocimiento de las circunstancias, conductas o hechos objeto del procedimiento"
+    },
+    {
+        "pregunta": "19.      Una vez realizada la propuesta de iniciación del procedimiento:",
+        "opciones": [
+            "la petición vincula al órgano competente para iniciar el procedimiento",
+            "la petición no vincula al órgano competente para iniciar el procedimiento, y tampoco es necesario comunicar al órgano que la hubiera formulado los motivos por los que no procede la iniciación",
+            "la petición no vincula al órgano competente para iniciar el procedimiento, si bien deberá comunicar al órgano que la hubiera formulado los motivos por los que, en su caso, no procede la iniciación",
+            "ninguna es correcta"
+        ],
+        "correcta": "la petición no vincula al órgano competente para iniciar el procedimiento, si bien deberá comunicar al órgano que la hubiera formulado los motivos por los que, en su caso, no procede la iniciación"
+    },
+    {
+        "pregunta": "20.      En los procedimientos de responsabilidad patrimonial, la petición deberá individualizar (señala la incorrecta):",
+        "opciones": [
+            "la lesión producida en una persona o grupo de personas",
+            "su relación de causalidad con el funcionamiento del servicio público",
+            "su evaluación económica en todo caso",
+            "el momento en que la lesión efectivamente se produjo"
+        ],
+        "correcta": "su evaluación económica en todo caso"
+    },
+    {
+        "pregunta": "1.      Respecto al inicio del procedimiento de oficio se entiende por denuncia:",
+        "opciones": [
+            "el acto por el que cualquier persona, en cumplimiento o no de una obligación legal, pone en conocimiento de un órgano administrativo la existencia de un determinado hecho que pudiera justificar la iniciación de oficio de un procedimiento administrativo",
+            "la actuación derivada del conocimiento directo o indirecto de las circunstancias, conductas o hechos objeto del procedimiento por el órgano que tiene atribuida la competencia de iniciación",
+            "la propuesta de iniciación del procedimiento formulada por cualquier órgano administrativo que no tiene competencia para iniciar el mismo y que ha tenido conocimiento de las circunstancias, conductas o hechos objeto del procedimiento",
+            "la orden emitida por un órgano administrativo superior jerárquico del competente para la iniciación del procedimiento"
+        ],
+        "correcta": "el acto por el que cualquier persona, en cumplimiento o no de una obligación legal, pone en conocimiento de un órgano administrativo la existencia de un determinado hecho que pudiera justificar la iniciación de oficio de un procedimiento administrativo"
+    },
+    {
+        "pregunta": "2.      Respecto al inicio del procedimiento por denuncia (señala la incorrecta):",
+        "opciones": [
+            "las denuncias deberán expresar la identidad de la persona o personas que las presentan y el relato de los hechos que se ponen en conocimiento de la Administración",
+            "cuando los hechos pudieran constituir una infracción administrativa, recogerán la fecha de su comisión y, cuando sea posible, la identificación de los presuntos responsables",
+            "cuando la denuncia invocara un perjuicio en el patrimonio de las Administraciones Públicas la iniciación del procedimiento deberá ser motivada",
+            "cuando la denuncia invocara un perjuicio en el patrimonio de las Administraciones Públicas se notificará a los denunciantes la decisión de si se ha iniciado o no el procedimiento"
+        ],
+        "correcta": "cuando la denuncia invocara un perjuicio en el patrimonio de las Administraciones Públicas la iniciación del procedimiento deberá ser motivada"
+    },
+    {
+        "pregunta": "3.      Respecto al inicio del procedimiento por denuncia, cuando el denunciante haya participado en la comisión de una infracción de esta naturaleza y existan otros infractores, el órgano competente para resolver el procedimiento, siempre y cuando en el momento de aportarse aquellos no se disponga de elementos suficientes para ordenar la misma, deberá eximir al denunciante del pago de la multa que le correspondería u otro tipo de sanción de carácter no pecuniario:",
+        "opciones": [
+            "cuando aporte elementos de prueba que permitan iniciar el procedimiento o comprobar la infracción, independientemente de que se repare o no el perjuicio causado",
+            "cuando sea el primero en aportar elementos de prueba que permitan iniciar el procedimiento o comprobar la infracción, y se repare el perjuicio causado",
+            "cuando aporte elementos de prueba que permitan iniciar el procedimiento o comprobar la infracción, y se repare el perjuicio causado",
+            "cuando sea el primero en aportar elementos de prueba que permitan iniciar el procedimiento o comprobar la infracción, independientemente de que se repare o no el perjuicio causado"
+        ],
+        "correcta": "cuando sea el primero en aportar elementos de prueba que permitan iniciar el procedimiento o comprobar la infracción, y se repare el perjuicio causado"
+    },
+    {
+        "pregunta": "4.      La presentación de una denuncia:",
+        "opciones": [
+            "no confiere, por sí sola, la condición de interesado en el procedimiento",
+            "confiere la condición de interesado en el procedimiento cuando aporte elementos de prueba que permitan iniciarlo",
+            "confiere, por sí sola, la condición de interesado en el procedimiento",
+            "ninguna es correcta"
+        ],
+        "correcta": "no confiere, por sí sola, la condición de interesado en el procedimiento"
+    },
+    {
+        "pregunta": "5.      Los procedimientos de naturaleza sancionadora se iniciarán:",
+        "opciones": [
+            "de oficio por acuerdo del órgano competente o a instancia de parte y establecerán la debida separación entre la fase instructora y la sancionadora, que se encomendarán a los mismos órganos",
+            "siempre de oficio por acuerdo del órgano competente y establecerán la debida separación entre la fase instructora y la sancionadora, que se encomendará a órganos distintos",
+            "de oficio por acuerdo del órgano competente o a instancia de parte y establecerán la debida separación entre la fase instructora y la sancionadora, que se encomendará a órganos distintos",
+            "siempre de oficio por acuerdo del órgano competente y establecerán la debida separación entre la fase instructora y la sancionadora, que se encomendarán a los mismos órganos"
+        ],
+        "correcta": "siempre de oficio por acuerdo del órgano competente y establecerán la debida separación entre la fase instructora y la sancionadora, que se encomendará a órganos distintos"
+    },
+    {
+        "pregunta": "6.      Respecto a los procedimientos de naturaleza sancionadora no es correcto:",
+        "opciones": [
+            "se considerará que un órgano es competente para iniciar el procedimiento cuando así lo determinen las normas reguladoras del mismo",
+            "excepcionalmente por razones de urgencia se podrá imponer una sanción sin que se haya tramitado el oportuno procedimiento",
+            "no se podrán iniciar nuevos procedimientos de carácter sancionador por hechos o conductas tipificadas como infracciones en cuya comisión el infractor persista de forma continuada, en tanto no haya recaído una primera resolución sancionadora, con carácter ejecutivo",
+            "ninguna es correcta"
+        ],
+        "correcta": "excepcionalmente por razones de urgencia se podrá imponer una sanción sin que se haya tramitado el oportuno procedimiento"
+    },
+    {
+        "pregunta": "7.      El acuerdo de iniciación en los procedimientos de naturaleza sancionadora se comunicará a:",
+        "opciones": [
+            "el órgano encargado de resolver el procedimiento, con traslado de la documentación generada hasta ese momento, y se notificará a los interesados, con excepción, en su caso, del inculpado",
+            "el órgano encargado de resolver el procedimiento, con traslado de cuantas actuaciones existan al respecto, y se notificará a los interesados, entendiendo en todo caso por tal al inculpado",
+            "el instructor del procedimiento, con traslado de la documentación generada hasta ese momento, y se notificará a los interesados, con excepción, en su caso, del inculpado",
+            "el instructor del procedimiento, con traslado de cuantas actuaciones existan al respecto, y se notificará a los interesados, entendiendo en todo caso por tal al inculpado"
+        ],
+        "correcta": "el instructor del procedimiento, con traslado de cuantas actuaciones existan al respecto, y se notificará a los interesados, entendiendo en todo caso por tal al inculpado"
+    },
+    {
+        "pregunta": "8.      El acuerdo de iniciación en los procedimientos de naturaleza sancionadora deberá contener al menos:",
+        "opciones": [
+            "identificación de la persona o personas presuntamente responsables",
+            "hechos que motivan la incoación del procedimiento, su posible calificación y las sanciones que pudieran corresponder",
+            "identificación del instructor y, en su caso, Secretario del procedimiento",
+            "todas son correctas"
+        ],
+        "correcta": "todas son correctas"
+    },
+    {
+        "pregunta": "9.      El acuerdo de iniciación en los procedimientos de naturaleza sancionadora deberá contener al menos:",
+        "opciones": [
+            "órgano competente para la resolución del procedimiento y norma que le atribuya tal competencia, indicando la prohibición de que el presunto responsable pueda reconocer voluntariamente su responsabilidad",
+            "medidas de carácter provisional que se hayan acordado por el órgano competente para iniciar el procedimiento sancionador, sin perjuicio de las que se puedan adoptar durante el mismo",
+            "indicación del derecho a formular alegaciones y a la audiencia en el procedimiento y de los plazos para su ejercicio, así como indicación de que, en caso de no efectuar alegaciones en el plazo previsto sobre el contenido del acuerdo de iniciación, éste en ningún caso podrá ser considerado propuesta de resolución",
+            "todas son correctas"
+        ],
+        "correcta": "medidas de carácter provisional que se hayan acordado por el órgano competente para iniciar el procedimiento sancionador, sin perjuicio de las que se puedan adoptar durante el mismo"
+    },
+    {
+        "pregunta": "10.      Respecto a los procedimientos de naturaleza sancionadora cuando en el momento de dictar el acuerdo de iniciación no existan elementos suficientes para la calificación inicial de los hechos que motivan la incoación del procedimiento, la citada calificación podrá realizarse:",
+        "opciones": [
+            "en una fase posterior mediante la elaboración de un Pliego de cargos, que deberá ser notificado a los interesados",
+            "en ese mismo momento mediante la elaboración de un Pliego de cargos provisional, que deberá ser notificado a los interesados",
+            "en ese mismo momento mediante la elaboración de un Pliego de cargos provisional, que únicamente será notificado a los interesados cuando se convierta en definitivo",
+            "ninguna es correcta"
+        ],
+        "correcta": "en una fase posterior mediante la elaboración de un Pliego de cargos, que deberá ser notificado a los interesados"
+    },
+    {
+        "pregunta": "11.      Respecto al inicio de oficio de los procedimientos de responsabilidad patrimonial:",
+        "opciones": [
+            "cuando las Administraciones Públicas decidan iniciar de oficio un procedimiento de responsabilidad patrimonial será necesario que haya prescrito el derecho a la reclamación del interesado",
+            "el acuerdo de iniciación del procedimiento se notificará a los particulares presuntamente lesionados, concediéndoles un plazo de diez días para que aporten cuantas alegaciones, documentos o información estimen conveniente a su derecho y propongan cuantas pruebas sean pertinentes para el reconocimiento del mismo",
+            "el procedimiento iniciado se instruirá siempre que los particulares presuntamente lesionados se personen en el plazo establecido",
+            "todas son correctas"
+        ],
+        "correcta": "el acuerdo de iniciación del procedimiento se notificará a los particulares presuntamente lesionados, concediéndoles un plazo de diez días para que aporten cuantas alegaciones, documentos o información estimen conveniente a su derecho y propongan cuantas pruebas sean pertinentes para el reconocimiento del mismo"
+    },
+    {
+        "pregunta": "12.      Respecto al inicio del procedimiento a solicitud del interesado las solicitudes que se formulen deberán contener (señala la incorrecta):",
+        "opciones": [
+            "nombre y apellidos del interesado y, en su caso, de la persona que lo represente",
+            "identificación del medio electrónico, o en su defecto, lugar físico en que desea que se practique la notificación",
+            "hechos, razones y petición en que se haga una breve descripción de la solicitud",
+            "todas son correctas"
+        ],
+        "correcta": "hechos, razones y petición en que se haga una breve descripción de la solicitud"
+    },
+    {
+        "pregunta": "13.      Respecto al inicio del procedimiento a solicitud del interesado las solicitudes que se formulen deberán contener (señala la incorrecta):",
+        "opciones": [
+            "lugar y fecha",
+            "firma del solicitante o acreditación de la autenticidad de su voluntad expresada mediante poder notarial",
+            "órgano, centro o unidad administrativa a la que se dirige y su correspondiente código de identificación",
+            "todas son correctas"
+        ],
+        "correcta": "firma del solicitante o acreditación de la autenticidad de su voluntad expresada mediante poder notarial"
+    },
+    {
+        "pregunta": "14.      Respecto al inicio del procedimiento a solicitud del interesado no es correcto:",
+        "opciones": [
+            "las oficinas de asistencia en materia de registros estarán obligadas a facilitar a los interesados el código de identificación si el interesado lo desconoce",
+            "las Administraciones Públicas deberán mantener y actualizar en la sede electrónica correspondiente un listado con los códigos de identificación vigentes",
+            "cuando las pretensiones correspondientes a una pluralidad de personas tengan un contenido y fundamento idéntico o sustancialmente similar, serán en todo caso formuladas en una única solicitud",
+            "de las solicitudes, comunicaciones y escritos que presenten los interesados electrónicamente o en las oficinas de asistencia en materia de registros de la Administración, podrán éstos exigir el correspondiente recibo que acredite la fecha y hora de presentación"
+        ],
+        "correcta": "cuando las pretensiones correspondientes a una pluralidad de personas tengan un contenido y fundamento idéntico o sustancialmente similar, serán en todo caso formuladas en una única solicitud"
+    },
+    {
+        "pregunta": "15.      Respecto al inicio del procedimiento a solicitud del interesado no es correcto:",
+        "opciones": [
+            "las Administraciones Públicas deberán establecer modelos y sistemas de presentación masiva que permitan a los interesados presentar simultáneamente varias solicitudes",
+            "los modelos y sistemas de presentación masiva, de uso voluntario, estarán a disposición de los interesados en las correspondientes sedes electrónicas y en las oficinas de asistencia en materia de registros de las Administraciones Públicas",
+            "los solicitantes podrán acompañar los elementos que estimen convenientes para precisar o completar los datos del modelo, los cuales podrán no ser admitidos por el órgano al que se dirijan",
+            "cuando la Administración en un procedimiento concreto establezca expresamente modelos específicos de presentación de solicitudes, éstos serán de uso obligatorio por los interesados"
+        ],
+        "correcta": "los solicitantes podrán acompañar los elementos que estimen convenientes para precisar o completar los datos del modelo, los cuales podrán no ser admitidos por el órgano al que se dirijan"
+    },
+    {
+        "pregunta": "16.      Respecto a las solicitudes de iniciación en los procedimientos de responsabilidad patrimonial no es correcto:",
+        "opciones": [
+            "los interesados sólo podrán solicitar el inicio de un procedimiento de responsabilidad patrimonial, cuando no haya prescrito su derecho a reclamar",
+            "el derecho a reclamar prescribirá al año de producido el hecho o el acto que motive la indemnización o se manifieste su efecto lesivo",
+            "en caso de daños de carácter físico o psíquico a las personas, el plazo empezará a computarse desde la curación o la determinación del alcance de las secuelas",
+            "en los casos en que proceda reconocer derecho a indemnización por anulación en vía administrativa o contencioso-administrativa de un acto o disposición de carácter general, el derecho a reclamar prescribirá al año de haberse dictado la resolución administrativa o la sentencia definitiva"
+        ],
+        "correcta": "en los casos en que proceda reconocer derecho a indemnización por anulación en vía administrativa o contencioso-administrativa de un acto o disposición de carácter general, el derecho a reclamar prescribirá al año de haberse dictado la resolución administrativa o la sentencia definitiva"
+    },
+    {
+        "pregunta": "17.      Si la solicitud de iniciación no reúne los requisitos que señala el artículo 66, y, en su caso, los que señala el artículo 67 u otros exigidos por la legislación específica aplicable, se requerirá al interesado para que subsane la falta o acompañe los documentos preceptivos en un plazo de:",
+        "opciones": [
+            "5 días",
+            "10 días",
+            "15 días",
+            "20 días"
+        ],
+        "correcta": "10 días"
+    },
+    {
+        "pregunta": "18.      A petición del interesado o a iniciativa del órgano, cuando la aportación de los documentos requeridos presente dificultades especiales:",
+        "opciones": [
+            "siempre que se trate de procedimientos selectivos o de concurrencia competitiva, este plazo podrá ser ampliado prudencialmente, hasta 5 días",
+            "siempre que no se trate de procedimientos selectivos o de concurrencia competitiva, este plazo podrá ser ampliado prudencialmente, hasta 5 días",
+            "siempre que se trate de procedimientos selectivos o de concurrencia competitiva, este plazo podrá ser ampliado prudencialmente, hasta 7 días",
+            "siempre que no se trate de procedimientos selectivos o de concurrencia competitiva, este plazo podrá ser ampliado prudencialmente, hasta 7 días"
+        ],
+        "correcta": "siempre que no se trate de procedimientos selectivos o de concurrencia competitiva, este plazo podrá ser ampliado prudencialmente, hasta 5 días"
+    },
+    {
+        "pregunta": "19.      Respecto a la subsanación y mejora de la solicitud no es correcto:",
+        "opciones": [
+            "en los procedimientos iniciados a solicitud de los interesados, el órgano competente podrá recabar del solicitante la modificación o mejora voluntarias de los términos de aquélla",
+            "de la modificación o mejora voluntarias se levantará acta sucinta, que se incorporará al procedimiento",
+            "si alguno de los sujetos obligados a relacionarse a través de medios electrónicos con las Administraciones Públicas presenta su solicitud presencialmente, éstas requerirán al interesado para que la subsane a través de su presentación electrónica",
+            "en caso de haber presentado solicitud presencialmente y ser requerido para la presentación electrónica, se considerará como fecha de presentación la de la solicitud presencial"
+        ],
+        "correcta": "en caso de haber presentado solicitud presencialmente y ser requerido para la presentación electrónica, se considerará como fecha de presentación la de la solicitud presencial"
+    },
+    {
+        "pregunta": "20.      A los efectos de esta Ley, se entenderá por declaración responsable el documento suscrito por un interesado en el que éste manifiesta, bajo su responsabilidad:",
+        "opciones": [
+            "que cumple con los requisitos establecidos en la normativa vigente para obtener el reconocimiento de un derecho o facultad o para su ejercicio y que dispone de la documentación que así lo acredita",
+            "que pondrá a disposición de la Administración la documentación cuando le sea requerida",
+            "que se compromete a mantener el cumplimiento de las obligaciones anteriores durante el período de tiempo inherente a dicho reconocimiento o ejercicio",
+            "todas son correctas"
+        ],
+        "correcta": "todas son correctas"
+    },
+    {
+        "pregunta": "1.     Respecto a la declaración responsable, las Administraciones podrán requerir que se aporte la documentación que acredite el cumplimiento de los requisitos para obtener el reconocimiento de un derecho o facultad o para su ejercicio:",
+        "opciones": [
+            "en cualquier momento y el interesado podrá no aportarla",
+            "durante la fase de ordenación y el interesado podrá no aportarla",
+            "en cualquier momento y el interesado deberá aportarla",
+            "durante la fase de ordenación y el interesado deberá aportarla"
+        ],
+        "correcta": "en cualquier momento y el interesado deberá aportarla"
+    },
+    {
+        "pregunta": "2.     A los efectos de esta Ley, se entenderá por comunicación aquel documento mediante el que los interesados ponen en conocimiento de la Administración Pública competente:",
+        "opciones": [
+            "sus datos identificativos",
+            "cualquier dato relevante para el inicio de una actividad",
+            "cualquier dato relevante para el ejercicio de un derecho",
+            "todas son correctas"
+        ],
+        "correcta": "todas son correctas"
+    },
+    {
+        "pregunta": "3.     Sin perjuicio de las facultades de comprobación, control e inspección que tengan atribuidas las Administraciones Públicas, las declaraciones responsables y las comunicaciones permitirán, el reconocimiento o ejercicio de un derecho o bien el inicio de una actividad:",
+        "opciones": [
+            "desde el día de su presentación",
+            "desde el día siguiente de su presentación",
+            "desde el día de su publicación",
+            "desde el día de su creación"
+        ],
+        "correcta": "desde el día de su presentación"
+    },
+    {
+        "pregunta": "4.     Señala la correcta:",
+        "opciones": [
+            "la declaración responsable y la comunicación podrán presentarse dentro de un plazo posterior al inicio de la actividad cuando la legislación correspondiente lo prevea expresamente",
+            "la declaración responsable podrá presentarse dentro de un plazo posterior al inicio de la actividad cuando la legislación correspondiente lo prevea expresamente",
+            "la comunicación podrá presentarse dentro de un plazo posterior al inicio de la actividad cuando la legislación correspondiente lo prevea expresamente",
+            "la declaración responsable y la comunicación, en ningún caso, podrán presentarse con posterioridad al inicio de la actividad"
+        ],
+        "correcta": "la comunicación podrá presentarse dentro de un plazo posterior al inicio de la actividad cuando la legislación correspondiente lo prevea expresamente"
+    },
+    {
+        "pregunta": "5.     Determinará la imposibilidad de continuar con el ejercicio del derecho o actividad afectada desde el momento en que se tenga constancia de tales hechos, sin perjuicio de las responsabilidades penales, civiles o administrativas a que hubiera lugar:",
+        "opciones": [
+            "la inexactitud, falsedad u omisión, de carácter esencial, de cualquier dato o información que se incorpore a una declaración responsable o a una comunicación",
+            "la no presentación ante la Administración competente de la declaración responsable o la comunicación",
+            "la no presentación ante la Administración competente de la documentación que sea en su caso requerida para acreditar el cumplimiento de lo declarado",
+            "todas son correctas"
+        ],
+        "correcta": "todas son correctas"
+    },
+    {
+        "pregunta": "6.     Respecto a la declaración responsable y la comunicación, la resolución de la Administración Pública que declare la imposibilidad de continuar con el ejercicio del derecho o actividad afectada podrá determinar (señala la incorrecta):",
+        "opciones": [
+            "la obligación del interesado de restituir la situación jurídica al momento previo al reconocimiento o al ejercicio del derecho",
+            "la obligación del interesado de restituir la situación jurídica al momento previo al inicio de la actividad correspondiente",
+            "la imposibilidad de instar un nuevo procedimiento con el mismo objeto nunca más",
+            "todas son correctas"
+        ],
+        "correcta": "la imposibilidad de instar un nuevo procedimiento con el mismo objeto nunca más"
+    },
+    {
+        "pregunta": "7.     Respecto a la declaración responsable y la comunicación:",
+        "opciones": [
+            "las Administraciones Públicas tendrán permanentemente publicados y actualizados modelos de declaración responsable y de comunicación, fácilmente accesibles a los interesados",
+            "para iniciar una actividad u obtener el reconocimiento de un derecho o facultad para su ejercicio, será exigible tanto una declaración responsable como una comunicación",
+            "a y b son correctas",
+            "a y b son incorrectas"
+        ],
+        "correcta": "las Administraciones Públicas tendrán permanentemente publicados y actualizados modelos de declaración responsable y de comunicación, fácilmente accesibles a los interesados"
+    },
+    {
+        "pregunta": "8.     Se entiende por expediente administrativo:",
+        "opciones": [
+            "el conjunto ordenado de documentos que sirven de antecedente y fundamento a la instrucción del procedimiento, así como las diligencias encaminadas a ejecutarla",
+            "el conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución administrativa, así como las diligencias encaminadas a ejecutarla",
+            "el conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la instrucción del procedimiento, así como las diligencias encaminadas a ejecutarla",
+            "el conjunto ordenado de documentos que sirven de antecedente y fundamento a la resolución administrativa, así como las diligencias encaminadas a ejecutarla"
+        ],
+        "correcta": "el conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución administrativa, así como las diligencias encaminadas a ejecutarla"
+    },
+    {
+        "pregunta": "9.     Respecto a los expedientes administrativos no es correcto:",
+        "opciones": [
+            "tendrán formato no electrónico",
+            "se formarán mediante la agregación ordenada de cuantos documentos, pruebas, dictámenes, informes, acuerdos, notificaciones y demás diligencias deban integrarlos",
+            "tendrán un índice numerado de todos los documentos que contenga cuando se remita",
+            "deberá constar en el expediente copia electrónica certificada de la resolución adoptada"
+        ],
+        "correcta": "tendrán formato no electrónico"
+    },
+    {
+        "pregunta": "10.     Cuando en virtud de una norma sea preciso remitir el expediente electrónico:",
+        "opciones": [
+            "se hará de acuerdo con lo previsto en el Esquema Nacional de Interoperabilidad",
+            "se hará de acuerdo con lo previsto en las correspondientes Normas Técnicas de Interoperabilidad",
+            "se enviará completo, foliado, autentificado y acompañado de un índice, asimismo autentificado, de los documentos que contenga",
+            "todas son correctas"
+        ],
+        "correcta": "todas son correctas"
+    },
+    {
+        "pregunta": "11.     La autenticación del índice garantizará la integridad e inmutabilidad del expediente electrónico generado desde el momento de:",
+        "opciones": [
+            "su presentación y permitirá su recuperación siempre que sea preciso, siendo admisible que un mismo documento forme parte de distintos expedientes electrónicos",
+            "su firma y permitirá su recuperación siempre que sea preciso, siendo admisible que un mismo documento forme parte de distintos expedientes electrónicos",
+            "su presentación y permitirá su recuperación siempre que sea preciso, no siendo admisible que un mismo documento forme parte de distintos expedientes electrónicos",
+            "su firma y permitirá su recuperación siempre que sea preciso, no siendo admisible que un mismo documento forme parte de distintos expedientes electrónicos"
+        ],
+        "correcta": "su firma y permitirá su recuperación siempre que sea preciso, siendo admisible que un mismo documento forme parte de distintos expedientes electrónicos"
+    },
+    {
+        "pregunta": "12.     Formará parte del expediente administrativo:",
+        "opciones": [
+            "información que tenga carácter auxiliar o de apoyo",
+            "información contenida en aplicaciones, ficheros y bases de datos informáticas, notas, borradores, opiniones, resúmenes, comunicaciones e informes internos o entre órganos o entidades administrativas",
+            "juicios de valor emitidos por las Administraciones Públicas",
+            "informes, preceptivos y facultativos, solicitados antes de la resolución administrativa que ponga fin al procedimiento"
+        ],
+        "correcta": "informes, preceptivos y facultativos, solicitados antes de la resolución administrativa que ponga fin al procedimiento"
+    },
+    {
+        "pregunta": "13.     El procedimiento, sometido al principio de celeridad, se impulsará de oficio en todos sus trámites y:",
+        "opciones": [
+            "a través de medios electrónicos, respetando los principios de transparencia, publicidad y buena fe",
+            "a través de medios electrónicos, respetando los principios de transparencia y publicidad",
+            "a través de medios no electrónicos, respetando los principios de transparencia, publicidad y buena fe",
+            "a través de medios no electrónicos, respetando los principios de transparencia y publicidad"
+        ],
+        "correcta": "a través de medios electrónicos, respetando los principios de transparencia y publicidad"
+    },
+    {
+        "pregunta": "14.     Respecto al impulso del procedimiento no es correcto:",
+        "opciones": [
+            "en el despacho de los expedientes se guardará, en todo caso, el orden riguroso de incoación en asuntos de homogénea naturaleza",
+            "el incumplimiento de lo dispuesto en cuanto al despacho de los expedientes dará lugar a la exigencia de responsabilidad disciplinaria del infractor y, en su caso, será causa de remoción del puesto de trabajo",
+            "las personas designadas como órgano instructor o, en su caso, los titulares de las unidades administrativas que tengan atribuida tal función serán responsables directos de la tramitación del procedimiento y, en especial, del cumplimiento de los plazos establecidos",
+            "ninguna es correcta"
+        ],
+        "correcta": "en el despacho de los expedientes se guardará, en todo caso, el orden riguroso de incoación en asuntos de homogénea naturaleza"
+    },
+    {
+        "pregunta": "15.     De acuerdo con el principio de simplificación administrativa:",
+        "opciones": [
+            "se acordarán en un solo acto todos los trámites que, por su naturaleza, admitan un impulso simultáneo y sea obligado su cumplimiento sucesivo",
+            "se acordarán en sucesivos actos todos los trámites que, por su naturaleza, admitan un impulso simultáneo y no sea obligado su cumplimiento sucesivo",
+            "se acordarán en un solo acto todos los trámites que, por su naturaleza, admitan un impulso simultáneo y no sea obligado su cumplimiento sucesivo",
+            "se acordarán en sucesivos actos todos los trámites que, por su naturaleza, admitan un impulso simultáneo y sea obligado su cumplimiento sucesivo"
+        ],
+        "correcta": "se acordarán en un solo acto todos los trámites que, por su naturaleza, admitan un impulso simultáneo y no sea obligado su cumplimiento sucesivo"
+    },
+    {
+        "pregunta": "16.     Salvo en el caso de que en la norma correspondiente se fije plazo distinto, los trámites que deban ser cumplimentados por los interesados deberán realizarse en el plazo de:",
+        "opciones": [
+            "5 días a partir del día de la notificación del correspondiente acto",
+            "10 días a partir del siguiente al de la notificación del correspondiente acto",
+            "5 días a partir del siguiente al de la notificación del correspondiente acto",
+            "10 días a partir del día de la notificación del correspondiente acto"
+        ],
+        "correcta": "10 días a partir del siguiente al de la notificación del correspondiente acto"
+    },
+    {
+        "pregunta": "17.     Cuando la Administración considere que alguno de los actos de los interesados no reúne los requisitos necesarios, lo pondrá en conocimiento de su autor:",
+        "opciones": [
+            "con anterioridad trámite de audiencia, concediéndole un plazo de 5 días para cumplimentarlo",
+            "en cualquier momento del procedimiento, concediéndole un plazo de 5 días para cumplimentarlo",
+            "en cualquier momento del procedimiento, concediéndole un plazo de 10 días para cumplimentarlo",
+            "con anterioridad trámite de audiencia, concediéndole un plazo de 10 días para cumplimentarlo"
+        ],
+        "correcta": "en cualquier momento del procedimiento, concediéndole un plazo de 10 días para cumplimentarlo"
+    },
+    {
+        "pregunta": "18.     A los interesados que no cumplan lo dispuesto en cuanto al cumplimiento de trámites se les podrá declarar decaídos en su derecho al trámite correspondiente. No obstante, se admitirá la actuación del interesado y producirá sus efectos legales, si se produjera:",
+        "opciones": [
+            "antes del día que se notifique la resolución en la que se tenga por transcurrido el plazo",
+            "antes o dentro del día que se notifique la resolución en la que se tenga por transcurrido el plazo",
+            "hasta 24 horas después del día que se notifique la resolución en la que se tenga por transcurrido el plazo",
+            "hasta 48 horas después del día que se notifique la resolución en la que se tenga por transcurrido el plazo"
+        ],
+        "correcta": "antes o dentro del día que se notifique la resolución en la que se tenga por transcurrido el plazo"
+    },
+    {
+        "pregunta": "19.     Las cuestiones incidentales que se susciten en el procedimiento:",
+        "opciones": [
+            "incluso las que se refieran a la nulidad de actuaciones, suspenderán la tramitación del mismo, salvo la abstención",
+            "excepto las que se refieran a la nulidad de actuaciones, suspenderán la tramitación del mismo, salvo la recusación",
+            "incluso las que se refieran a la nulidad de actuaciones, no suspenderán la tramitación del mismo, salvo la recusación",
+            "excepto las que se refieran a la nulidad de actuaciones, no suspenderán la tramitación del mismo, salvo la abstención"
+        ],
+        "correcta": "incluso las que se refieran a la nulidad de actuaciones, no suspenderán la tramitación del mismo, salvo la recusación"
+    },
+    {
+        "pregunta": "20.     Los actos de instrucción necesarios para la determinación, conocimiento y comprobación de los hechos en virtud de los cuales deba pronunciarse la resolución:",
+        "opciones": [
+            "se realizarán de oficio o a instancia de parte y a través de medios electrónicos, por el órgano que inicie el procedimiento",
+            "se realizarán de oficio y a través de medios no electrónicos, por el órgano que inicie el procedimiento",
+            "se realizarán de oficio o a instancia de parte y a través de medios no electrónicos, por el órgano que tramite el procedimiento",
+            "se realizarán de oficio y a través de medios electrónicos, por el órgano que tramite el procedimiento"
+        ],
+        "correcta": "se realizarán de oficio y a través de medios electrónicos, por el órgano que tramite el procedimiento"
+    },
+    {
+        "pregunta": "1.     Los actos de instrucción necesarios para la determinación, conocimiento y comprobación de los hechos en virtud de los cuales deba pronunciarse la resolución se realizarán de oficio, y a través de medios electrónicos, por el órgano que tramite el procedimiento, sin perjuicio del derecho de los interesados a proponer aquellas actuaciones:",
+        "opciones": [
+            "que requieran su intervención",
+            "que constituyan trámites legalmente establecidos",
+            "que constituyan trámites reglamentariamente establecidos",
+            "todas son correctas"
+        ],
+        "correcta": "todas son correctas"
+    },
+    {
+        "pregunta": "2.     Las aplicaciones y sistemas de información utilizados para la instrucción de los procedimientos deberán:",
+        "opciones": [
+            "garantizar el control de los tiempos y plazos",
+            "garantizar la identificación de los órganos responsables y la tramitación ordenada de los expedientes",
+            "facilitar la simplificación y la publicidad de los procedimientos",
+            "todas son correctas"
+        ],
+        "correcta": "todas son correctas"
+    },
+    {
+        "pregunta": "3.     Los actos de instrucción que requieran la intervención de los interesados habrán de practicarse en la forma que resulte más conveniente para ellos y sea compatible, en la medida de lo posible, con sus obligaciones:",
+        "opciones": [
+            "familiares",
+            "laborales o profesionales",
+            "personales",
+            "administrativas"
+        ],
+        "correcta": "laborales o profesionales"
+    },
+    {
+        "pregunta": "4.     En cuanto a los actos de instrucción, el órgano instructor adoptará las medidas necesarias para lograr el pleno respeto a:",
+        "opciones": [
+            "los principios de eficacia y de proporcionalidad de los interesados en el procedimiento",
+            "los principios de contradicción y de igualdad de los interesados en el procedimiento",
+            "los principios de cooperación y de buena regulación de los interesados en el procedimiento",
+            "los principios de eficiencia y de necesidad de los interesados en el procedimiento"
+        ],
+        "correcta": "los principios de contradicción y de igualdad de los interesados en el procedimiento"
+    },
+    {
+        "pregunta": "5.     Los interesados podrán, aducir alegaciones y aportar documentos u otros elementos de juicio:",
+        "opciones": [
+            "en todo momento",
+            "en cualquier momento del procedimiento anterior al acuerdo de iniciación",
+            "en cualquier momento del procedimiento anterior al trámite de audiencia",
+            "en cualquier momento del procedimiento anterior al trámite de información pública"
+        ],
+        "correcta": "en cualquier momento del procedimiento anterior al trámite de audiencia"
+    },
+    {
+        "pregunta": "6.     Al redactar la correspondiente propuesta de resolución serán tenidos en cuenta por el órgano competente:",
+        "opciones": [
+            "las alegaciones de los interesados",
+            "los documentos u otros elementos de juicio que presenten los interesados",
+            "a y b son correctas",
+            "a y b son incorrectas"
+        ],
+        "correcta": "a y b son correctas"
+    },
+    {
+        "pregunta": "7.     Los interesados podrán alegar los defectos de tramitación y, en especial, los que supongan paralización, infracción de los plazos preceptivamente señalados o la omisión de trámites que pueden ser subsanados antes de la resolución definitiva del asunto:",
+        "opciones": [
+            "en todo momento",
+            "en cualquier momento del procedimiento anterior al acuerdo de iniciación",
+            "en cualquier momento del procedimiento anterior al trámite de audiencia",
+            "en cualquier momento del procedimiento anterior al trámite de información pública"
+        ],
+        "correcta": "en todo momento"
+    },
+    {
+        "pregunta": "8.     Los hechos relevantes para la decisión de un procedimiento podrán acreditarse por cualquier medio de prueba admisible en Derecho, cuya valoración se realizará de acuerdo con los criterios establecidos en:",
+        "opciones": [
+            "la Ley de Enjuiciamiento Civil",
+            "la Ley Procesal",
+            "la Ley de Enjuiciamiento Criminal",
+            "la Ley del Jurado"
+        ],
+        "correcta": "la Ley de Enjuiciamiento Civil"
+    },
+    {
+        "pregunta": "9.     Cuando la Administración no tenga por ciertos los hechos alegados por los interesados o la naturaleza del procedimiento lo exija, el instructor del mismo acordará la apertura de un período de prueba por un plazo:",
+        "opciones": [
+            "no superior a 30 días ni inferior a 10",
+            "no superior a 20 días ni inferior a 10",
+            "no superior a 15 días ni inferior a 10",
+            "no superior a 30 días ni inferior a 20"
+        ],
+        "correcta": "no superior a 30 días ni inferior a 10"
+    },
+    {
+        "pregunta": "10.     Cuando lo considere necesario, el instructor, a petición de los interesados, podrá decidir la apertura de un período extraordinario de prueba por un plazo:",
+        "opciones": [
+            "no superior a 2 días",
+            "no superior a 5 días",
+            "no superior a 7 días",
+            "no superior a 10 días"
+        ],
+        "correcta": "no superior a 10 días"
+    },
+    {
+        "pregunta": "11.     El instructor del procedimiento:",
+        "opciones": [
+            "podrá rechazar libremente las pruebas que considere innecesarias",
+            "sólo podrá rechazar las pruebas propuestas por los interesados cuando sean manifiestamente improcedentes o innecesarias, mediante resolución motivada",
+            "no podrá rechazar ninguna de las pruebas propuestas por los interesados",
+            "ninguna es correcta"
+        ],
+        "correcta": "sólo podrá rechazar las pruebas propuestas por los interesados cuando sean manifiestamente improcedentes o innecesarias, mediante resolución motivada"
+    },
+    {
+        "pregunta": "12.     Respecto a los medios y período de prueba no es correcto:",
+        "opciones": [
+            "en los procedimientos de carácter sancionador, los hechos declarados probados por resoluciones judiciales penales firmes vincularán a las Administraciones Públicas respecto de los procedimientos sancionadores que substancien",
+            "los documentos formalizados por los funcionarios a los que se reconoce la condición de autoridad y en los que, observándose los requisitos legales correspondientes se recojan los hechos constatados por aquéllos harán prueba de éstos salvo que se acredite lo contrario",
+            "cuando la prueba consista en la emisión de un informe de un órgano administrativo, organismo público o Entidad de derecho público, se entenderá que éste tiene carácter facultativo",
+            "cuando la valoración de las pruebas practicadas pueda constituir el fundamento básico de la decisión que se adopte en el procedimiento, por ser pieza imprescindible para la correcta evaluación de los hechos, deberá incluirse en la propuesta de resolución"
+        ],
+        "correcta": "cuando la prueba consista en la emisión de un informe de un órgano administrativo, organismo público o Entidad de derecho público, se entenderá que éste tiene carácter facultativo"
+    },
+    {
+        "pregunta": "13.     La Administración comunicará a los interesados el inicio de las actuaciones necesarias para la realización de las pruebas que hayan sido admitidas:",
+        "opciones": [
+            "con 24 horas de antelación",
+            "con 48 horas de antelación",
+            "con 72 horas de antelación",
+            "con antelación suficiente"
+        ],
+        "correcta": "con antelación suficiente"
+    },
+    {
+        "pregunta": "14.     En los casos en que, a petición del interesado, deban efectuarse pruebas cuya realización implique gastos:",
+        "opciones": [
+            "que deba soportar la Administración, ésta podrá exigir el anticipo de los mismos, a reserva de la liquidación definitiva, una vez practicada la prueba",
+            "que no deba soportar la Administración, ésta podrá exigir el anticipo de los mismos, a reserva de la liquidación definitiva, antes de practicar la prueba",
+            "que deba soportar la Administración, ésta podrá exigir el anticipo de los mismos, a reserva de la liquidación definitiva, antes de practicar la prueba",
+            "que no deba soportar la Administración, ésta podrá exigir el anticipo de los mismos, a reserva de la liquidación definitiva, una vez practicada la prueba"
+        ],
+        "correcta": "que no deba soportar la Administración, ésta podrá exigir el anticipo de los mismos, a reserva de la liquidación definitiva, una vez practicada la prueba"
+    },
+    {
+        "pregunta": "15.     Respecto a la petición de informes:",
+        "opciones": [
+            "a efectos de la resolución del procedimiento, se solicitarán aquellos informes que sean preceptivos por las disposiciones legales",
+            "a efectos de la resolución del procedimiento, se solicitarán aquellos informes que se juzguen necesarios para resolver, citándose el precepto que los exija o fundamentando, en su caso, la conveniencia de reclamarlos",
+            "en la petición de informe se concretará el extremo o extremos acerca de los que se solicita",
+            "todas son correctas"
+        ],
+        "correcta": "todas son correctas"
+    },
+    {
+        "pregunta": "16.     Salvo disposición expresa en contrario, los informes serán:",
+        "opciones": [
+            "preceptivos y no vinculantes",
+            "facultativos y  vinculantes",
+            "facultativos y no vinculantes",
+            "preceptivos y vinculantes"
+        ],
+        "correcta": "facultativos y no vinculantes"
+    },
+    {
+        "pregunta": "17.     Los informes serán emitidos a través de medios electrónicos y, salvo que una disposición o el cumplimiento del resto de los plazos del procedimiento permita o exija otro plazo mayor o menor, en el plazo de:",
+        "opciones": [
+            "10 días",
+            "15 días",
+            "20 días",
+            "30 días"
+        ],
+        "correcta": "10 días"
+    },
+    {
+        "pregunta": "18.     De no emitirse el informe en el plazo señalado, y sin perjuicio de la responsabilidad en que incurra el responsable de la demora:",
+        "opciones": [
+            "se suspenderá el plazo máximo legal para resolver el procedimiento hasta que se emita el informe",
+            "se podrán proseguir las actuaciones salvo cuando se trate de un informe preceptivo, en cuyo caso se podrá suspender el transcurso del plazo máximo legal para resolver el procedimiento",
+            "supondrá el fin del procedimiento en caso de tratarse de informes preceptivos",
+            "se podrán continuar con el procedimiento y no se tendrá en cuenta el informe si se emitiera fuera de plazo"
+        ],
+        "correcta": "se podrán proseguir las actuaciones salvo cuando se trate de un informe preceptivo, en cuyo caso se podrá suspender el transcurso del plazo máximo legal para resolver el procedimiento"
+    },
+    {
+        "pregunta": "19.     Si el informe debiera ser emitido por una Administración Pública distinta de la que tramita el procedimiento en orden a expresar el punto de vista correspondiente a sus competencias respectivas, y transcurriera el plazo sin que aquél se hubiera emitido:",
+        "opciones": [
+            "se podrán proseguir las actuaciones",
+            "se suspenderá el procedimiento",
+            "se podrá ampliar el plazo para emitir el informe hasta 5 días más",
+            "se podrá ampliar el plazo para emitir el informe hasta 10 días más"
+        ],
+        "correcta": "se podrán proseguir las actuaciones"
+    },
+    {
+        "pregunta": "20.     El informe emitido fuera de plazo:",
+        "opciones": [
+            "será tenido en cuenta al adoptar la correspondiente resolución",
+            "podrá no ser tenido en cuenta al adoptar la correspondiente resolución",
+            "supondrá la anulación del procedimiento",
+            "supondrá la nulidad del procedimiento"
+        ],
+        "correcta": "podrá no ser tenido en cuenta al adoptar la correspondiente resolución"
+    },
+    {
+        "pregunta": "1.     En el caso de los procedimientos de responsabilidad patrimonial será:",
+        "opciones": [
+            "facultativo solicitar informe al servicio cuyo funcionamiento haya ocasionado la presunta lesión indemnizable, no pudiendo exceder de 5 días el plazo de su emisión",
+            "preceptivo solicitar informe al servicio cuyo funcionamiento haya ocasionado la presunta lesión indemnizable, no pudiendo exceder de 10 días el plazo de su emisión",
+            "facultativo solicitar informe al servicio cuyo funcionamiento haya ocasionado la presunta lesión indemnizable, no pudiendo exceder de 10 días el plazo de su emisión",
+            "preceptivo solicitar informe al servicio cuyo funcionamiento haya ocasionado la presunta lesión indemnizable, no pudiendo exceder de 5 días el plazo de su emisión"
+        ],
+        "correcta": "preceptivo solicitar informe al servicio cuyo funcionamiento haya ocasionado la presunta lesión indemnizable, no pudiendo exceder de 10 días el plazo de su emisión"
+    },
+    {
+        "pregunta": "2.      Será preceptivo solicitar dictamen del Consejo de Estado o, en su caso, del órgano consultivo de la Comunidad Autónoma cuando las indemnizaciones reclamadas sean de cuantía igual o superior a:",
+        "opciones": [
+            "10.000 euros",
+            "20.000 euros",
+            "50.000 euros",
+            "100.000 euros"
+        ],
+        "correcta": "50.000 euros"
+    },
+    {
+        "pregunta": "3.     Cuando sea preceptivo solicitar dictamen del Consejo de Estado o, en su caso, del órgano consultivo de la Comunidad Autónoma el órgano instructor remitirá al órgano competente para solicitar el dictamen una propuesta de resolución o, en su caso, la propuesta de acuerdo por el que se podría terminar convencionalmente el procedimiento, y lo hará en el plazo de:",
+        "opciones": [
+            "5 días a contar desde la finalización del trámite de audiencia",
+            "10 días a contar desde la finalización del trámite de información pública",
+            "5 días a contar desde la finalización del trámite de información pública",
+            "10 días a contar desde la finalización del trámite de audiencia"
+        ],
+        "correcta": "10 días a contar desde la finalización del trámite de audiencia"
+    },
+    {
+        "pregunta": "4.     El dictamen del Consejo de Estado o, en su caso, del órgano consultivo de la Comunidad Autónoma, cuando sea necesario, se emitirá en el plazo de:",
+        "opciones": [
+            "10 días",
+            "un mes",
+            "dos meses",
+            "tres meses"
+        ],
+        "correcta": "dos meses"
+    },
+    {
+        "pregunta": "5.     El dictamen del Consejo de Estado o, en su caso, del órgano consultivo de la Comunidad Autónoma deberá pronunciarse:",
+        "opciones": [
+            "sobre la existencia o no de relación de causalidad entre el funcionamiento del servicio público y la lesión producida",
+            "en su caso, sobre la valoración del daño causado",
+            "en su caso, sobre la cuantía y modo de la indemnización de acuerdo con los criterios establecidos en esta Ley",
+            "todas son correctas"
+        ],
+        "correcta": "todas son correctas"
+    },
+    {
+        "pregunta": "6.     En el caso de reclamaciones en materia de responsabilidad patrimonial del Estado por el funcionamiento anormal de la Administración de Justicia, será preceptivo el informe del Consejo General del Poder Judicial que será evacuado en el plazo máximo de:",
+        "opciones": [
+            "10 días",
+            "un mes",
+            "dos meses",
+            "tres meses"
+        ],
+        "correcta": "dos meses"
+    },
+    {
+        "pregunta": "7.     El trámite de audiencia se realiza:",
+        "opciones": [
+            "inmediatamente después de la práctica de la prueba",
+            "inmediatamente antes de la información pública",
+            "inmediatamente antes de redactar la propuesta de resolución",
+            "inmediatamente después del acuerdo de iniciación del procedimiento"
+        ],
+        "correcta": "inmediatamente antes de redactar la propuesta de resolución"
+    },
+    {
+        "pregunta": "8.     La audiencia a los interesados:",
+        "opciones": [
+            "será anterior a la solicitud del informe del órgano competente para el asesoramiento jurídico o a la solicitud del Dictamen del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma, en el caso que éstos formaran parte del procedimiento",
+            "será simultánea a la solicitud del informe del órgano competente para el asesoramiento jurídico o a la solicitud del Dictamen del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma, en el caso que éstos formaran parte del procedimiento",
+            "será posterior a la solicitud del informe del órgano competente para el asesoramiento jurídico o a la solicitud del Dictamen del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma, en el caso que éstos formaran parte del procedimiento",
+            "ninguna es correcta"
+        ],
+        "correcta": "será anterior a la solicitud del informe del órgano competente para el asesoramiento jurídico o a la solicitud del Dictamen del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma, en el caso que éstos formaran parte del procedimiento"
+    },
+    {
+        "pregunta": "9.      Los interesados podrán alegar y presentar los documentos y justificaciones que estimen pertinentes:",
+        "opciones": [
+            "en un plazo no inferior a 10 días ni superior a 30",
+            "en un plazo no inferior a 10 días ni superior a 20",
+            "en un plazo no inferior a 10 días ni superior a 15",
+            "en un plazo no inferior a 15 días ni superior a 30"
+        ],
+        "correcta": "en un plazo no inferior a 10 días ni superior a 15"
+    },
+    {
+        "pregunta": "10.     Respecto al trámite de audiencia:",
+        "opciones": [
+            "si antes del vencimiento del plazo los interesados manifiestan su decisión de no efectuar alegaciones ni aportar nuevos documentos o justificaciones, se tendrá por realizado el trámite",
+            "se podrá prescindir del trámite de audiencia cuando no figuren en el procedimiento ni sean tenidos en cuenta en la resolución otros hechos ni otras alegaciones y pruebas que las aducidas por el interesado",
+            "en los procedimientos de responsabilidad patrimonial a los que se refiere el artículo 32.9 de la Ley de Régimen Jurídico del Sector Público, será necesario en todo caso dar audiencia al contratista, notificándole cuantas actuaciones se realicen en el procedimiento, al efecto de que se persone en el mismo, exponga lo que a su derecho convenga y proponga cuantos medios de prueba estime necesarios",
+            "todas son correctas"
+        ],
+        "correcta": "todas son correctas"
+    },
+    {
+        "pregunta": "11.     Cuando la naturaleza del procedimiento lo requiera, podrá acordar un período de información pública:",
+        "opciones": [
+            "el órgano al que corresponda iniciar el procedimiento",
+            "el órgano al que corresponda la instrucción del procedimiento",
+            "el órgano al que corresponda la resolución del procedimiento",
+            "cualquiera de los anteriores"
+        ],
+        "correcta": "el órgano al que corresponda la resolución del procedimiento"
+    },
+    {
+        "pregunta": "12.     Si se acuerda un período de información pública se publicará un anuncio en:",
+        "opciones": [
+            "un periódico local a fin de que cualquier persona física pueda examinar el expediente, o la parte del mismo que se acuerde",
+            "el Diario oficial correspondiente a fin de que cualquier persona física o jurídica pueda examinar el expediente, o la parte del mismo que se acuerde",
+            "el Diario oficial correspondiente a fin de que cualquier persona física pueda examinar el expediente, o la parte del mismo que se acuerde",
+            "un periódico local a fin de que cualquier persona física o jurídica pueda examinar el expediente, o la parte del mismo que se acuerde"
+        ],
+        "correcta": "el Diario oficial correspondiente a fin de que cualquier persona física o jurídica pueda examinar el expediente, o la parte del mismo que se acuerde"
+    },
+    {
+        "pregunta": "13.     El anuncio del acuerdo de información pública señalará el lugar de exhibición, debiendo estar en todo caso a disposición de las personas que lo soliciten a través de medios electrónicos en la sede electrónica correspondiente, y determinará el plazo para formular alegaciones, que en ningún caso podrá ser:",
+        "opciones": [
+            "inferior a 10 días",
+            "superior a 20 días",
+            "superior a 10 días",
+            "inferior a 20 días"
+        ],
+        "correcta": "inferior a 20 días"
+    },
+    {
+        "pregunta": "14.     Respecto a la información pública es correcto:",
+        "opciones": [
+            "la incomparecencia en este trámite impedirá a los interesados interponer los recursos procedentes contra la resolución definitiva del procedimiento",
+            "la comparecencia en el trámite de información pública otorga, por sí misma, la condición de interesado",
+            "quienes presenten alegaciones u observaciones en este trámite tienen derecho a obtener de la Administración una respuesta razonada, que será única y diferente para todas las alegaciones aunque planteen cuestiones sustancialmente iguales",
+            "las Administraciones Públicas podrán establecer otras formas, medios y cauces de participación de las personas, directamente o a través de las organizaciones y asociaciones reconocidas por la ley en el procedimiento en el que se dictan los actos administrativos"
+        ],
+        "correcta": "las Administraciones Públicas podrán establecer otras formas, medios y cauces de participación de las personas, directamente o a través de las organizaciones y asociaciones reconocidas por la ley en el procedimiento en el que se dictan los actos administrativos"
+    },
+    {
+        "pregunta": "15.     Pondrán fin al procedimiento (señala la incorrecta):",
+        "opciones": [
+            "la resolución",
+            "el desistimiento",
+            "la renuncia al derecho en que se funde la solicitud, cuando tal renuncia esté prohibida por el ordenamiento jurídico",
+            "la declaración de caducidad"
+        ],
+        "correcta": "la renuncia al derecho en que se funde la solicitud, cuando tal renuncia esté prohibida por el ordenamiento jurídico"
+    },
+    {
+        "pregunta": "16.     La imposibilidad material de continuarlo por causas sobrevenidas:",
+        "opciones": [
+            "producirá la terminación del procedimiento, la resolución que se dicte no necesitará ser motivada",
+            "no producirá la terminación del procedimiento, pero se dictará resolución que deberá ser motivada en todo caso",
+            "producirá la terminación del procedimiento, la resolución que se dicte deberá ser motivada en todo caso",
+            "no producirá la terminación del procedimiento, pero se dictará resolución que no necesitará ser motivada"
+        ],
+        "correcta": "producirá la terminación del procedimiento, la resolución que se dicte deberá ser motivada en todo caso"
+    },
+    {
+        "pregunta": "17.     La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas en su artículo 85 establece respecto a la terminación en los procedimientos sancionadores:",
+        "opciones": [
+            "iniciado un procedimiento sancionador, aunque el infractor no reconozca su responsabilidad, se podrá resolver el procedimiento con la imposición de la sanción que proceda",
+            "iniciado un procedimiento sancionador, si el infractor reconoce su responsabilidad, se podrá resolver el procedimiento con la imposición de la sanción que proceda",
+            "iniciado un procedimiento sancionador, en ningún caso se podrá resolver el procedimiento con la imposición de una sanción",
+            "iniciado un procedimiento sancionador, en todo caso se podrá resolver el procedimiento con la imposición de una sanción"
+        ],
+        "correcta": "iniciado un procedimiento sancionador, si el infractor reconoce su responsabilidad, se podrá resolver el procedimiento con la imposición de la sanción que proceda"
+    },
+    {
+        "pregunta": "18.     Respecto a la terminación en los procedimientos sancionadores cuando la sanción tenga únicamente carácter pecuniario o bien quepa imponer una sanción pecuniaria y otra de carácter no pecuniario pero se ha justificado la improcedencia de la segunda, el pago voluntario por el presunto responsable:",
+        "opciones": [
+            "en cualquier momento anterior al trámite de audiencia, implicará la terminación del procedimiento, salvo en lo relativo a la reposición de la situación alterada o a la determinación de la indemnización por los daños y perjuicios causados por la comisión de la infracción",
+            "en cualquier momento anterior al trámite de audiencia, implicará la terminación del procedimiento, incluido lo relativo a la reposición de la situación alterada o a la determinación de la indemnización por los daños y perjuicios causados por la comisión de la infracción",
+            "en cualquier momento anterior a la resolución, implicará la terminación del procedimiento, incluido lo relativo a la reposición de la situación alterada o a la determinación de la indemnización por los daños y perjuicios causados por la comisión de la infracción",
+            "en cualquier momento anterior a la resolución, implicará la terminación del procedimiento, salvo en lo relativo a la reposición de la situación alterada o a la determinación de la indemnización por los daños y perjuicios causados por la comisión de la infracción"
+        ],
+        "correcta": "en cualquier momento anterior a la resolución, implicará la terminación del procedimiento, salvo en lo relativo a la reposición de la situación alterada o a la determinación de la indemnización por los daños y perjuicios causados por la comisión de la infracción"
+    },
+    {
+        "pregunta": "19.     En ambos casos, cuando la sanción tenga únicamente carácter pecuniario, el órgano competente para resolver el procedimiento aplicará reducciones de, al menos:",
+        "opciones": [
+            "el 10 % sobre el importe de la sanción propuesta, siendo éstos acumulables entre sí",
+            "el 20 % sobre el importe de la sanción propuesta, siendo éstos acumulables entre sí",
+            "el 10 % sobre el importe de la sanción propuesta, no siendo éstos acumulables entre sí",
+            "el 20 % sobre el importe de la sanción propuesta, no siendo éstos acumulables entre sí"
+        ],
+        "correcta": "el 20 % sobre el importe de la sanción propuesta, siendo éstos acumulables entre sí"
+    },
+    {
+        "pregunta": "20.     Respecto a las reducciones del importe de las sanciones:",
+        "opciones": [
+            "las citadas reducciones, deberán estar determinadas en la notificación de iniciación del procedimiento",
+            "su efectividad estará condicionada al desistimiento o renuncia de cualquier acción o recurso en vía administrativa contra la sanción",
+            "el porcentaje de reducción previsto en este apartado podrá ser incrementado reglamentariamente",
+            "todas son correctas"
+        ],
+        "correcta": "todas son correctas"
+    },
+    {
+        "pregunta": "1.      Las Administraciones Públicas podrán celebrar acuerdos, pactos, convenios o contratos, siempre que:",
+        "opciones": [
+            "no sean contrarios al ordenamiento jurídico",
+            "versen sobre materias no susceptibles de transacción",
+            "no tengan por objeto satisfacer el interés público que tienen encomendado",
+            "todas son correctas"
+        ],
+        "correcta": "no sean contrarios al ordenamiento jurídico"
+    },
+    {
+        "pregunta": "2.      Las Administraciones Públicas podrán celebrar acuerdos, pactos, convenios o contratos con:",
+        "opciones": [
+            "personas de Derecho público",
+            "personas de Derecho privado",
+            "tanto personas de Derecho público como privado",
+            "ninguna es correcta"
+        ],
+        "correcta": "tanto personas de Derecho público como privado"
+    },
+    {
+        "pregunta": "3.     Las Administraciones Públicas podrán celebrar acuerdos, pactos, convenios o contratos, con el alcance, efectos y régimen jurídico específico que, en su caso, prevea la disposición que lo regule:",
+        "opciones": [
+            "pudiendo tales actos tener la consideración de finalizadores de los procedimientos administrativos o insertarse en los mismos con carácter posterior, vinculante, a la resolución que les ponga fin",
+            "no pudiendo tales actos tener la consideración de finalizadores de los procedimientos administrativos o insertarse en los mismos con carácter previo, vinculante o no, a la resolución que les ponga fin",
+            "no pudiendo tales actos tener la consideración de finalizadores de los procedimientos administrativos o insertarse en los mismos con carácter posterior, vinculante, a la resolución que les ponga fin",
+            "pudiendo tales actos tener la consideración de finalizadores de los procedimientos administrativos o insertarse en los mismos con carácter previo, vinculante o no, a la resolución que les ponga fin"
+        ],
+        "correcta": "pudiendo tales actos tener la consideración de finalizadores de los procedimientos administrativos o insertarse en los mismos con carácter previo, vinculante o no, a la resolución que les ponga fin"
+    },
+    {
+        "pregunta": "4.     Los acuerdos, pactos, convenios o contratos que celebren las Administraciones Públicas deberán establecer como contenido mínimo: (señala la incorrecta)",
+        "opciones": [
+            "la identificación de las partes intervinientes",
+            "el ámbito personal, funcional y territorial",
+            "el plazo de vigencia",
+            "las causas de su resolución"
+        ],
+        "correcta": "las causas de su resolución"
+    },
+    {
+        "pregunta": "5.     Los acuerdos, pactos, convenios o contratos que celebren las Administraciones Públicas:",
+        "opciones": [
+            "deberán publicarse en el Diario oficial correspondiente en el plazo de 10 días desde su firma",
+            "deberán publicarse en la sede electrónica correspondiente en el plazo de 15 días desde su firma",
+            "deberán publicarse o no según su naturaleza y las personas a las que estuvieran destinados",
+            "deberán publicarse cuando así se establezca en los mismos"
+        ],
+        "correcta": "deberán publicarse o no según su naturaleza y las personas a las que estuvieran destinados"
+    },
+    {
+        "pregunta": "6.     Respecto a la terminación convencional no es correcto:",
+        "opciones": [
+            "requerirán en todo caso la aprobación expresa del Consejo de Ministros u órgano equivalente de las Comunidades Autónomas, los acuerdos que versen sobre materias que no sean competencia de dicho órgano",
+            "los acuerdos que se suscriban no supondrán alteración de las competencias atribuidas a los órganos administrativos",
+            "los acuerdos que se suscriban no supondrán alteración de las responsabilidades que correspondan a las autoridades y funcionarios, relativas al funcionamiento de los servicios públicos",
+            "en los casos de procedimientos de responsabilidad patrimonial, el acuerdo alcanzado entre las partes deberá fijar la cuantía y modo de indemnización de acuerdo con los criterios que para calcularla y abonarla establece el artículo 34 de la Ley de Régimen Jurídico del Sector Público"
+        ],
+        "correcta": "requerirán en todo caso la aprobación expresa del Consejo de Ministros u órgano equivalente de las Comunidades Autónomas, los acuerdos que versen sobre materias que no sean competencia de dicho órgano"
+    },
+    {
+        "pregunta": "7.     Respecto a las actuaciones complementarias:",
+        "opciones": [
+            "antes de dictar resolución, el órgano competente para resolver podrá decidir, mediante acuerdo motivado, la realización de las actuaciones complementarias indispensables para resolver el procedimiento",
+            "los informes que preceden inmediatamente a la resolución final del procedimiento tendrán la consideración de actuaciones complementarias",
+            "la realización de las actuaciones complementarias no supondrá la suspensión del plazo para resolver el procedimiento",
+            "todas son correctas"
+        ],
+        "correcta": "antes de dictar resolución, el órgano competente para resolver podrá decidir, mediante acuerdo motivado, la realización de las actuaciones complementarias indispensables para resolver el procedimiento"
+    },
+    {
+        "pregunta": "8.     El acuerdo de realización de actuaciones complementarias se notificará a los interesados, concediéndoseles un plazo para formular las alegaciones que tengan por pertinentes tras la finalización de las mismas de:",
+        "opciones": [
+            "5 días",
+            "7 días",
+            "10 días",
+            "15 días"
+        ],
+        "correcta": "7 días"
+    },
+    {
+        "pregunta": "9.     Las actuaciones complementarias deberán practicarse en un plazo:",
+        "opciones": [
+            "superior a 10 días",
+            "no superior a 10 días",
+            "superior a 15 días",
+            "no superior a 15 días"
+        ],
+        "correcta": "no superior a 15 días"
+    },
+    {
+        "pregunta": "10.     Respecto a la resolución no es correcto:",
+        "opciones": [
+            "la resolución que ponga fin al procedimiento decidirá únicamente las cuestiones planteadas por los interesados",
+            "en los procedimientos tramitados a solicitud del interesado, la resolución será congruente con las peticiones formuladas por éste, sin que en ningún caso pueda agravar su situación inicial",
+            "las resoluciones contendrán la decisión, que será motivada en los casos a que se refiere el artículo 35",
+            "en los procedimientos tramitados a solicitud del interesado, la resolución será congruente con las peticiones formuladas por éste, sin perjuicio de la potestad de la Administración de incoar de oficio un nuevo procedimiento, si procede"
+        ],
+        "correcta": "la resolución que ponga fin al procedimiento decidirá únicamente las cuestiones planteadas por los interesados"
+    },
+    {
+        "pregunta": "11.     Respecto al contenido de la resolución cuando se trate de cuestiones conexas que no hubieran sido planteadas por los interesados, el órgano competente podrá pronunciarse sobre las mismas, poniéndolo antes de manifiesto a aquéllos para que formulen las alegaciones que estimen pertinentes y aporten, en su caso, los medios de prueba por un plazo:",
+        "opciones": [
+            "superior a 10 días",
+            "no superior a 10 días",
+            "superior a 15 días",
+            "no superior a 15 días"
+        ],
+        "correcta": "no superior a 15 días"
+    },
+    {
+        "pregunta": "12.     Respecto al contenido de la resolución no es correcto:",
+        "opciones": [
+            "las resoluciones expresarán los recursos que contra la misma procedan, órgano administrativo o judicial ante el que hubieran de presentarse y plazo para interponerlos, sin que sea posible interponer otro recurso distinto a los señalados",
+            "sin perjuicio de la forma y lugar señalados por el interesado para la práctica de las notificaciones, la resolución del procedimiento se dictará electrónicamente",
+            "la resolución del procedimiento garantizará la identidad del órgano competente, así como la autenticidad e integridad del documento que se formalice mediante el empleo de alguno de los instrumentos previstos en esta Ley",
+            "ninguna es correcta"
+        ],
+        "correcta": "las resoluciones expresarán los recursos que contra la misma procedan, órgano administrativo o judicial ante el que hubieran de presentarse y plazo para interponerlos, sin que sea posible interponer otro recurso distinto a los señalados"
+    },
+    {
+        "pregunta": "13.     En ningún caso podrá la Administración abstenerse de resolver so pretexto de silencio, oscuridad o insuficiencia de los preceptos legales aplicables al caso:",
+        "opciones": [
+            "ni podrá acordarse la inadmisión de las solicitudes de reconocimiento de derechos no previstos en el ordenamiento jurídico o manifiestamente carentes de fundamento, sin perjuicio del derecho de petición previsto por el artículo 27 de la Constitución",
+            "aunque podrá acordarse la inadmisión de las solicitudes de reconocimiento de derechos no previstos en el ordenamiento jurídico o manifiestamente carentes de fundamento, sin perjuicio del derecho de petición previsto por el artículo 27 de la Constitución",
+            "aunque podrá acordarse la inadmisión de las solicitudes de reconocimiento de derechos no previstos en el ordenamiento jurídico o manifiestamente carentes de fundamento, sin perjuicio del derecho de petición previsto por el artículo 29 de la Constitución",
+            "ni podrá acordarse la inadmisión de las solicitudes de reconocimiento de derechos no previstos en el ordenamiento jurídico o manifiestamente carentes de fundamento, sin perjuicio del derecho de petición previsto por el artículo 29 de la Constitución"
+        ],
+        "correcta": "aunque podrá acordarse la inadmisión de las solicitudes de reconocimiento de derechos no previstos en el ordenamiento jurídico o manifiestamente carentes de fundamento, sin perjuicio del derecho de petición previsto por el artículo 29 de la Constitución"
+    },
+    {
+        "pregunta": "14.     Respecto al contenido de la resolución no es correcto:",
+        "opciones": [
+            "la aceptación de informes o dictámenes no servirá por si misma de motivación a la resolución cuando se incorporen al texto de la misma",
+            "cuando la competencia para instruir y resolver un procedimiento no recaiga en un mismo órgano, será necesario que el instructor eleve al órgano competente para resolver un propuesta de resolución",
+            "en los procedimientos de carácter sancionador, la propuesta de resolución deberá ser notificada a los interesados",
+            "todas son correctas"
+        ],
+        "correcta": "la aceptación de informes o dictámenes no servirá por si misma de motivación a la resolución cuando se incorporen al texto de la misma"
+    },
+    {
+        "pregunta": "15.     Respecto a la propuesta de resolución en los procedimientos de carácter sancionador, el órgano instructor resolverá la finalización del procedimiento, con archivo de las actuaciones, sin que sea necesaria la formulación de la propuesta de resolución, cuando en la instrucción procedimiento se ponga de manifiesto que concurre alguna de las siguientes circunstancias (señala la incorrecta):",
+        "opciones": [
+            "la inexistencia de los hechos que pudieran constituir la infracción",
+            "cuando los hechos resulten acreditados",
+            "los hechos probados no constituyan, de modo manifiesto, infracción administrativa",
+            "todas son correctas"
+        ],
+        "correcta": "cuando los hechos resulten acreditados"
+    },
+    {
+        "pregunta": "16.     Respecto a la propuesta de resolución en los procedimientos de carácter sancionador, el órgano instructor resolverá la finalización del procedimiento, con archivo de las actuaciones, sin que sea necesaria la formulación de la propuesta de resolución, cuando en la instrucción procedimiento se ponga de manifiesto que concurre alguna de las siguientes circunstancias (señala la incorrecta):",
+        "opciones": [
+            "cuando no exista o no se haya podido identificar a la persona o personas responsables",
+            "cuando la persona o personas responsables aparezcan exentos de responsabilidad",
+            "cuando se concluyera, antes de la fase de instrucción, que ha prescrito la infracción",
+            "todas son correctas"
+        ],
+        "correcta": "cuando se concluyera, antes de la fase de instrucción, que ha prescrito la infracción"
+    },
+    {
+        "pregunta": "17.     Respecto a la propuesta de resolución en los procedimientos de carácter sancionador no es correcto:",
+        "opciones": [
+            "en el caso de procedimientos de carácter sancionador, una vez concluida la instrucción del procedimiento, el órgano instructor formulará una propuesta de resolución que no se notificará a los interesados",
+            "la propuesta de resolución deberá indicar la puesta de manifiesto del procedimiento y el plazo para formular alegaciones y presentar los documentos e informaciones que se estimen pertinentes",
+            "en la propuesta de resolución se fijarán de forma motivada los hechos que se consideren probados y su exacta calificación jurídica, se determinará la infracción que, en su caso, aquéllos constituyan, la persona o personas responsables y la sanción que se proponga",
+            "en la propuesta de resolución se fijará la valoración de las pruebas practicadas, en especial aquellas que constituyan los fundamentos básicos de la decisión, así como las medidas provisionales que, en su caso, se hubieran adoptado"
+        ],
+        "correcta": "en el caso de procedimientos de carácter sancionador, una vez concluida la instrucción del procedimiento, el órgano instructor formulará una propuesta de resolución que no se notificará a los interesados"
+    },
+    {
+        "pregunta": "18.     En el caso de procedimientos de carácter sancionador la resolución incluirá:",
+        "opciones": [
+            "la valoración de las pruebas practicadas, en especial aquellas que constituyan los fundamentos básicos de la decisión",
+            "fijarán los hechos y, en su caso, la persona o personas responsables",
+            "fijarán la infracción o infracciones cometidas y la sanción o sanciones que se imponen, o bien la declaración de no existencia de infracción o responsabilidad",
+            "todas son correctas"
+        ],
+        "correcta": "todas son correctas"
+    },
+    {
+        "pregunta": "19.     Respecto a la resolución en los procedimientos sancionadores:",
+        "opciones": [
+            "en la resolución se podrán aceptar hechos distintos de los determinados en el curso del procedimiento, con independencia de su diferente valoración jurídica",
+            "la resolución que ponga fin al procedimiento será ejecutiva cuando no quepa contra ella ningún recurso ordinario en vía administrativa",
+            "en la resolución que ponga fin al procedimiento se podrán adoptar las disposiciones cautelares precisas para garantizar su eficacia cuando sea ejecutiva y que podrán consistir en el mantenimiento de las medidas provisionales que en su caso se hubieran adoptado",
+            "todas son correctas"
+        ],
+        "correcta": "la resolución que ponga fin al procedimiento será ejecutiva cuando no quepa contra ella ningún recurso ordinario en vía administrativa"
+    },
+    {
+        "pregunta": "20.     Respecto a la resolución en los procedimientos sancionadores, cuando el órgano competente para resolver considere que la infracción o la sanción revisten mayor gravedad que la determinada en la propuesta de resolución, se notificará al inculpado para que aporte cuantas alegaciones estime convenientes en el plazo de:",
+        "opciones": [
+            "10 días",
+            "15 días",
+            "20 días",
+            "30 días"
+        ],
+        "correcta": "15 días"
+    },
+    {
+        "pregunta": "1.     Cuando la resolución sea ejecutiva, se podrá suspender cautelarmente, si el interesado manifiesta a la Administración su intención de:",
+        "opciones": [
+            "interponer recurso de alzada contra la resolución firme en vía administrativa",
+            "interponer recurso contencioso-administrativo contra la resolución firme en vía administrativa",
+            "interponer recurso de alzada contra la resolución que no sea firme en vía administrativa",
+            "interponer recurso contencioso-administrativo contra la resolución que no sea firme en vía administrativa"
+        ],
+        "correcta": "interponer recurso contencioso-administrativo contra la resolución firme en vía administrativa"
+    },
+    {
+        "pregunta": "2.     Respecto a la pregunta anterior, dicha suspensión cautelar finalizará cuando:",
+        "opciones": [
+            "haya transcurrido el plazo legalmente previsto sin que el interesado haya interpuesto recurso contencioso administrativo",
+            "habiendo el interesado interpuesto recurso contencioso-administrativo, no se haya solicitado en el mismo trámite la suspensión cautelar de la resolución impugnada",
+            "habiendo el interesado interpuesto recurso contencioso-administrativo, el órgano judicial se pronuncie sobre la suspensión cautelar solicitada, en los términos previstos en ella",
+            "todas son correctas"
+        ],
+        "correcta": "todas son correctas"
+    },
+    {
+        "pregunta": "3.     Respecto a la resolución en los procedimientos de carácter sancionador no es correcto:",
+        "opciones": [
+            "cuando las conductas sancionadas hubieran causado daños o perjuicios a las Administraciones y la cuantía destinada a indemnizar estos daños no hubiera quedado determinada en el expediente, se fijará mediante un procedimiento complementario, cuya resolución será inmediatamente ejecutiva",
+            "este procedimiento será susceptible de terminación convencional, ésta o la aceptación por el infractor de la resolución que pudiera recaer implicarán el reconocimiento voluntario de su responsabilidad",
+            "la resolución del procedimiento pondrá fin a la vía administrativa",
+            "ninguna es correcta"
+        ],
+        "correcta": "este procedimiento será susceptible de terminación convencional, ésta o la aceptación por el infractor de la resolución que pudiera recaer implicarán el reconocimiento voluntario de su responsabilidad"
+    },
+    {
+        "pregunta": "4.     Respecto a la resolución en los procedimientos en materia de responsabilidad patrimonial una vez recibido, en su caso, el dictamen al que se refiere el artículo 81.2 o, cuando éste no sea preceptivo:",
+        "opciones": [
+            "una vez finalizado el trámite de audiencia, el órgano competente someterá la propuesta de acuerdo para su formalización por el interesado y por el órgano administrativo competente para suscribirlo",
+            "una vez finalizado el trámite de información pública, el órgano competente resolverá o someterá la propuesta de acuerdo para su formalización por el interesado y por el órgano administrativo competente para suscribirlo",
+            "una vez finalizado el trámite de información pública, el órgano competente someterá la propuesta de acuerdo para su formalización por el interesado y por el órgano administrativo competente para suscribirlo",
+            "una vez finalizado el trámite de audiencia, el órgano competente resolverá o someterá la propuesta de acuerdo para su formalización por el interesado y por el órgano administrativo competente para suscribirlo"
+        ],
+        "correcta": "una vez finalizado el trámite de audiencia, el órgano competente resolverá o someterá la propuesta de acuerdo para su formalización por el interesado y por el órgano administrativo competente para suscribirlo"
+    },
+    {
+        "pregunta": "5.     Podrá entenderse que la resolución es contraria a la indemnización del particular cuando desde que se inició el procedimiento sin que haya recaído y se notifique resolución expresa o, en su caso, se haya formalizado el acuerdo haya transcurrido:",
+        "opciones": [
+            "1 mes",
+            "2 meses",
+            "3 meses",
+            "6 meses"
+        ],
+        "correcta": "6 meses"
+    },
+    {
+        "pregunta": "6.     En el ámbito de la Administración General del Estado, los procedimientos de responsabilidad patrimonial se resolverán por:",
+        "opciones": [
+            "el Ministro respectivo o por el Consejo de Ministros en los casos del artículo 32.3 de la Ley de Régimen Jurídico del Sector Público o cuando una ley así lo disponga",
+            "el órgano correspondiente o por el Consejo de Estado en los casos del artículo 32.3 de la Ley de Régimen Jurídico del Sector Público o cuando una ley así lo disponga",
+            "lo contencioso-administrativo o por lo civil en los casos del artículo 32.3 de la Ley de Régimen Jurídico del Sector Público o cuando una ley así lo disponga",
+            "el Consejo de Estado o por una Comisión Permanente en los casos del artículo 32.3 de la Ley de Régimen Jurídico del Sector Público o cuando una ley así lo disponga"
+        ],
+        "correcta": "el Ministro respectivo o por el Consejo de Ministros en los casos del artículo 32.3 de la Ley de Régimen Jurídico del Sector Público o cuando una ley así lo disponga"
+    },
+    {
+        "pregunta": "7.     En el ámbito autonómico y local, los procedimientos de responsabilidad patrimonial se resolverán por:",
+        "opciones": [
+            "las asambleas parlamentarias mediante consenso",
+            "los órganos de gobierno si se trata de casos de cuantía elevada",
+            "una comisión especializada creada para la ocasión",
+            "los órganos correspondientes de las Comunidades Autónomas o de las Entidades que integran la Administración Local"
+        ],
+        "correcta": "los órganos correspondientes de las Comunidades Autónomas o de las Entidades que integran la Administración Local"
+    },
+    {
+        "pregunta": "8.      En el caso de las Entidades de Derecho Público:",
+        "opciones": [
+            "las normas que determinen su régimen jurídico podrán establecer los órganos a quien corresponde la resolución de los procedimientos de responsabilidad patrimonial",
+            "se aplicarán en todo caso las normas previstas en esta Ley para conocer los órganos a quien corresponde la resolución de los procedimientos de responsabilidad patrimonial",
+            "serán los órganos directivos los encargados de la resolución de los procedimientos de responsabilidad patrimonial",
+            "niniguna es correcta"
+        ],
+        "correcta": "las normas que determinen su régimen jurídico podrán establecer los órganos a quien corresponde la resolución de los procedimientos de responsabilidad patrimonial"
+    },
+    {
+        "pregunta": "9.     En los procedimientos iniciados de oficio:",
+        "opciones": [
+            "la Administración podrá desistir, sin necesidad de motivar, en los supuestos y con los requisitos previstos en las Leyes",
+            "la Administración no podrá desistir en ningún caso del procedimiento",
+            "la Administración podrá desistir, motivadamente, en los supuestos y con los requisitos previstos en las Leyes",
+            "la Administración podrá desistir libremente cuando lo considere conveniente"
+        ],
+        "correcta": "la Administración podrá desistir, motivadamente, en los supuestos y con los requisitos previstos en las Leyes"
+    },
+    {
+        "pregunta": "10.     Respecto al desistimiento y renuncia por los interesados:",
+        "opciones": [
+            "todo interesado podrá desistir de su solicitud o renunciar a sus derechos",
+            "todo interesado podrá renunciar a sus derechos o, cuando ello no esté prohibido por el ordenamiento jurídico, desistir de su solicitud",
+            "todo interesado podrá desistir de su solicitud o, cuando ello no esté prohibido por el ordenamiento jurídico, renunciar a sus derechos",
+            "una vez alcanzado el trámite de audiencia los interesados no podrán desistir de su solicitud ni renunciar a sus derechos"
+        ],
+        "correcta": "todo interesado podrá desistir de su solicitud o, cuando ello no esté prohibido por el ordenamiento jurídico, renunciar a sus derechos"
+    },
+    {
+        "pregunta": "11.     Si el escrito de iniciación se hubiera formulado por dos o más interesados:",
+        "opciones": [
+            "el desistimiento o la renuncia sólo afectará a aquellos que la hubiesen formulado",
+            "el desistimiento afectará a todos los interesados pero la renuncia sólo afectará a aquellos que la hubiesen formulado",
+            "la renuncia afectará a todos los interesados pero pero el desistimiento sólo afectará a aquellos que la hubiesen formulado",
+            "el desistimiento o la renuncia afectará a todos los interesados"
+        ],
+        "correcta": "el desistimiento o la renuncia sólo afectará a aquellos que la hubiesen formulado"
+    },
+    {
+        "pregunta": "12.     La Administración aceptará de plano el desistimiento o la renuncia, y declarará concluso el procedimiento salvo que, habiéndose personado en el mismo terceros interesados, instasen éstos su continuación en el plazo de:",
+        "opciones": [
+            "10 días desde que fueron notificados del desistimiento o renuncia",
+            "15 días desde que fueron notificados del desistimiento o renuncia",
+            "20 días desde que fueron notificados del desistimiento o renuncia",
+            "30 días desde que fueron notificados del desistimiento o renuncia"
+        ],
+        "correcta": "10 días desde que fueron notificados del desistimiento o renuncia"
+    },
+    {
+        "pregunta": "13.     Si la cuestión suscitada por la incoación del procedimiento entrañase interés general o fuera conveniente sustanciarla para su definición y esclarecimiento:",
+        "opciones": [
+            "la Administración podrá limitar los efectos del desistimiento o la renuncia al interesado finalizando el procedimiento",
+            "la Administración suspenderá el procedimiento por el tiempo necesario",
+            "la Administración podrá limitar los efectos del desistimiento o la renuncia al interesado y seguirá el procedimiento",
+            "la Administración no podrá limitar los efectos del desistimiento o la renuncia al interesado por tratarse de derechos indisponibles"
+        ],
+        "correcta": "la Administración podrá limitar los efectos del desistimiento o la renuncia al interesado y seguirá el procedimiento"
+    },
+    {
+        "pregunta": "14.     En los procedimientos iniciados a solicitud del interesado, cuando se produzca su paralización por causa imputable al mismo, la Administración le advertirá que se producirá la caducidad del procedimiento transcurrido:",
+        "opciones": [
+            "1 mes",
+            "2 meses",
+            "3 meses",
+            "6 meses"
+        ],
+        "correcta": "3 meses"
+    },
+    {
+        "pregunta": "15.     Respecto a la caducidad no es correcto:",
+        "opciones": [
+            "consumido el plazo para que se produzca la caducidad sin que el particular requerido realice las actividades necesarias para reanudar la tramitación, la Administración acordará el archivo de las actuaciones, notificándoselo al interesado",
+            "no podrá acordarse la caducidad por la simple inactividad del interesado en la cumplimentación de trámites, aunque sean indispensables para dictar resolución",
+            "la inactividad del interesado en la cumplimentación de trámites no tendrá otro efecto que la pérdida de su derecho al referido trámite",
+            "todas son correctas"
+        ],
+        "correcta": "no podrá acordarse la caducidad por la simple inactividad del interesado en la cumplimentación de trámites, aunque sean indispensables para dictar resolución"
+    },
+    {
+        "pregunta": "16.     Contra la resolución que declare la caducidad:",
+        "opciones": [
+            "podrá imponerse recurso contencioso-administrativo",
+            "podrá imponerse recurso de alzada",
+            "procederán los recursos pertinentes",
+            "no podrá imponerse recurso alguno"
+        ],
+        "correcta": "procederán los recursos pertinentes"
+    },
+    {
+        "pregunta": "17.     La caducidad:",
+        "opciones": [
+            "producirá por sí sola la prescripción de las acciones del particular o de la Administración, pero los procedimientos caducados no interrumpirán el plazo de prescripción",
+            "no producirá por sí sola la prescripción de las acciones del particular o de la Administración, pero los procedimientos caducados interrumpirán el plazo de prescripción",
+            "producirá por sí sola la prescripción de las acciones del particular o de la Administración, pero los procedimientos caducados interrumpirán el plazo de prescripción",
+            "no producirá por sí sola la prescripción de las acciones del particular o de la Administración, pero los procedimientos caducados no interrumpirán el plazo de prescripción"
+        ],
+        "correcta": "no producirá por sí sola la prescripción de las acciones del particular o de la Administración, pero los procedimientos caducados no interrumpirán el plazo de prescripción"
+    },
+    {
+        "pregunta": "18.     Respecto a la caducidad no es correcto:",
+        "opciones": [
+            "en los casos en los que sea posible la iniciación de un nuevo procedimiento por no haberse producido la prescripción, podrán incorporarse a éste los actos y trámites cuyo contenido se hubiera mantenido igual de no haberse producido la caducidad",
+            "en el nuevo procedimiento si no se ha producido la prescripción de las acciones del particular o de la Administración, deberán cumplimentarse los trámites de alegaciones, proposición de prueba y audiencia al interesado",
+            "la caducidad será apicable en el supuesto de que la cuestión suscitada afecte al interés general, o fuera conveniente sustanciarla para su definición y esclarecimiento",
+            "ninguna es correcta"
+        ],
+        "correcta": "la caducidad será apicable en el supuesto de que la cuestión suscitada afecte al interés general, o fuera conveniente sustanciarla para su definición y esclarecimiento"
+    },
+    {
+        "pregunta": "19.     las Administraciones Públicas podrán acordar la tramitación simplificada del procedimiento",
+        "opciones": [
+            "de oficio, cuando la falta de complejidad del procedimiento así lo aconsejen",
+            "de oficio, cuando razones de interés público así lo aconsejen",
+            "de oficio o a solicitud del interesado, cuando la falta de complejidad del procedimiento así lo aconsejen",
+            "de oficio o a solicitud del interesado, cuando razones de interés público o la falta de complejidad del procedimiento así lo aconsejen"
+        ],
+        "correcta": "de oficio o a solicitud del interesado, cuando razones de interés público o la falta de complejidad del procedimiento así lo aconsejen"
+    },
+    {
+        "pregunta": "20.     Una vez acordada la tramitación simplificada del procedimiento:",
+        "opciones": [
+            "no será posible volver a la tramitación ordinaria del procedimiento",
+            "el órgano competente para su tramitación podrá acordar continuar con arreglo a la tramitación ordinaria en cualquier momento del procedimiento anterior a su resolución",
+            "el órgano competente para su tramitación podrá acordar continuar con arreglo a la tramitación ordinaria en cualquier momento del procedimiento anterior al trámite de audiencia",
+            "el órgano competente para su tramitación podrá acordar continuar con arreglo a la tramitación ordinaria en cualquier momento del procedimiento anterior al trámite de información pública"
+        ],
+        "correcta": "el órgano competente para su tramitación podrá acordar continuar con arreglo a la tramitación ordinaria en cualquier momento del procedimiento anterior a su resolución"
+    },
+    {
+        "pregunta": "1.     Cuando la tramitación simplificada del procedimiento sea acordada por la Administración:",
+        "opciones": [
+            "de oficio, deberá notificarlo a los interesados, si alguno de ellos manifestara su oposición expresa, la Administración deberá seguir la tramitación ordinaria",
+            "de oficio, deberá notificarlo a los interesados, aunque alguno de ellos manifestara su oposición expresa, la Administración seguirá con la tramitación simplificada",
+            "a solicitud de los interesados, deberá notificarlo a éstos, si alguno de ellos manifestara su oposición expresa, la Administración deberá seguir la tramitación ordinaria",
+            "a solicitud de los interesados, deberá notificarlo a éstos y aunque alguno de ellos manifestara su oposición expresa, la Administración seguirá con la tramitación simplificada"
+        ],
+        "correcta": "de oficio, deberá notificarlo a los interesados, si alguno de ellos manifestara su oposición expresa, la Administración deberá seguir la tramitación ordinaria"
+    },
+    {
+        "pregunta": "2.     Los interesados podrán solicitar la tramitación simplificada del procedimiento. El órgano competente para la tramitación podrá desestimar dicha solicitud, en el plazo de:",
+        "opciones": [
+            "5 días desde su presentación, sin perjuicio de los recursos que pueda interponer el interesado",
+            "10 días desde su presentación, sin que exista posibilidad de recurso por parte del interesado",
+            "5 días desde su presentación, sin que exista posibilidad de recurso por parte del interesado",
+            "10 días desde su presentación, sin perjuicio de los recursos que pueda interponer el interesado"
+        ],
+        "correcta": "5 días desde su presentación, sin que exista posibilidad de recurso por parte del interesado"
+    },
+    {
+        "pregunta": "3.     Transcurrido el plazo que tiene el órgano competente para poder desestimar la solicitud de la tramitación simplificada del procedimiento:",
+        "opciones": [
+            "se entenderá estimada la solicitud",
+            "se entenderá desestimada la solicitud",
+            "se producirá la caducidad de la solicitud",
+            "se producirá la suspensión del procedimiento"
+        ],
+        "correcta": "se entenderá desestimada la solicitud"
+    },
+    {
+        "pregunta": "4.     En el caso de procedimientos de naturaleza sancionadora, se podrá adoptar la tramitación simplificada del procedimiento cuando el órgano competente para iniciar el procedimiento considere que, de acuerdo con lo previsto en su normativa reguladora, existen elementos de juicio suficientes para calificar la infracción como:",
+        "opciones": [
+            "leve, sin perjuicio de la oposición expresa por parte del interesado",
+            "grave, sin que quepa la oposición expresa por parte del interesado",
+            "leve, sin que quepa la oposición expresa por parte del interesado",
+            "grave, sin perjuicio de la oposición expresa por parte del interesado"
+        ],
+        "correcta": "leve, sin que quepa la oposición expresa por parte del interesado"
+    },
+    {
+        "pregunta": "5.     Salvo que reste menos para su tramitación ordinaria, los procedimientos administrativos tramitados de manera simplificada deberán ser resueltos en:",
+        "opciones": [
+            "10 días",
+            "20 días",
+            "30 días",
+            "60 días"
+        ],
+        "correcta": "30 días"
+    },
+    {
+        "pregunta": "6.     Los procedimientos administrativos tramitados de manera simplificada constarán de:",
+        "opciones": [
+            "inicio del procedimiento de oficio o a solicitud del interesado",
+            "subsanación de la solicitud presentada, en todo caso",
+            "alegaciones formuladas al final del procedimiento durante el plazo de 5 días",
+            "trámite de audiencia, únicamente cuando la resolución vaya a ser favorable para el interesado"
+        ],
+        "correcta": "inicio del procedimiento de oficio o a solicitud del interesado"
+    },
+    {
+        "pregunta": "7.     Los procedimientos administrativos tramitados de manera simplificada constarán de (señala la incorrecta):",
+        "opciones": [
+            "informe del servicio jurídico, cuando éste sea preceptivo",
+            "informe del Consejo General del Poder Judicial, en todo caso",
+            "dictamen del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma en los casos en que sea preceptivo",
+            "resolución"
+        ],
+        "correcta": "informe del Consejo General del Poder Judicial, en todo caso"
+    },
+    {
+        "pregunta": "8.     Las Administraciones Públicas no iniciarán ninguna actuación material de ejecución de resoluciones que limite derechos de los particulares:",
+        "opciones": [
+            "en ningún caso",
+            "salvo que dichos particulares den su consentimiento expreso",
+            "sin que previamente haya sido adoptada la resolución que le sirva de fundamento jurídico",
+            "salvo casos de fuerza mayor"
+        ],
+        "correcta": "sin que previamente haya sido adoptada la resolución que le sirva de fundamento jurídico"
+    },
+    {
+        "pregunta": "9.      Los actos de las Administraciones Públicas sujetos al Derecho Administrativo serán inmediatamente ejecutivos, salvo que (señala la incorrecta):",
+        "opciones": [
+            "se produzca la suspensión de la ejecución del acto",
+            "se trate de una resolución de un procedimiento de naturaleza sancionadora contra la que quepa algún recurso en vía administrativa, salvo el potestativo de reposición",
+            "una disposición establezca lo contrario",
+            "se necesite aprobación o autorización superior"
+        ],
+        "correcta": "se trate de una resolución de un procedimiento de naturaleza sancionadora contra la que quepa algún recurso en vía administrativa, salvo el potestativo de reposición"
+    },
+    {
+        "pregunta": "10.     Cuando de una resolución administrativa nazca una obligación de pago derivada de una sanción pecuniaria, multa o cualquier otro derecho que haya de abonarse a la Hacienda pública, éste se efectuará preferentemente, salvo que se justifique la imposibilidad de hacerlo, utilizando:",
+        "opciones": [
+            "tarjeta de crédito y débito",
+            "transferencia bancaria o domiciliación bancaria",
+            "cualesquiera que se autoricen por el órgano competente en materia de Hacienda Pública",
+            "todas son correctas"
+        ],
+        "correcta": "todas son correctas"
+    },
+    {
+        "pregunta": "11.     Las Administraciones Públicas, a través de sus órganos competentes en cada caso, podrán proceder previo apercibimiento, a la ejecución forzosa de los actos administrativos salvo:",
+        "opciones": [
+            "en los supuestos en que se suspenda la ejecución de acuerdo con la Ley",
+            "cuando la Constitución exija la intervención de un órgano judicial",
+            "cuando la Ley exija la intervención de un órgano judicial",
+            "todas son correctas"
+        ],
+        "correcta": "todas son correctas"
+    },
+    {
+        "pregunta": "12.     La ejecución forzosa por las Administraciones Públicas se efectuará, respetando siempre el principio de proporcionalidad, por los siguientes medios (señala la correcta):",
+        "opciones": [
+            "apremio sobre el patrimonio",
+            "ejecución coercitiva",
+            "multa subsidiaria",
+            "compulsión sobre el patrimonio"
+        ],
+        "correcta": "apremio sobre el patrimonio"
+    },
+    {
+        "pregunta": "13.     Si fueran varios los medios de ejecución admisibles se elegirá:",
+        "opciones": [
+            "el que decida el afectado",
+            "el que decida el órgano administrativo competente",
+            "el que se pueda llevar a cabo con mayor rapidez",
+            "el menos restrictivo de la libertad individual"
+        ],
+        "correcta": "el menos restrictivo de la libertad individual"
+    },
+    {
+        "pregunta": "14.      Si para la ejecución forzosa fuese necesario entrar en el domicilio del afectado o en los restantes lugares que requieran la autorización de su titular las Administraciones Públicas:",
+        "opciones": [
+            "deberán obtener el consentimiento del afectado",
+            "deberán obtener la oportuna autorización judicial",
+            "deberán obtener el consentimiento del afectado y obtener la oportuna autorización judicial",
+            "deberán obtener el consentimiento del afectado u obtener la oportuna autorización judicial"
+        ],
+        "correcta": "deberán obtener el consentimiento del afectado u obtener la oportuna autorización judicial"
+    },
+    {
+        "pregunta": "15.     Si en virtud de acto administrativo hubiera de satisfacerse cantidad líquida:",
+        "opciones": [
+            "se seguirá el procedimiento previsto en en las normas reguladoras del procedimiento de apremio",
+            "habrá lugar a la ejecución subsidiaria",
+            "podrá ser ejecutado por compulsión directa sobre las personas",
+            "podrán imponerse multas coercitivas, reiteradas por lapsos de tiempo"
+        ],
+        "correcta": "se seguirá el procedimiento previsto en en las normas reguladoras del procedimiento de apremio"
+    },
+    {
+        "pregunta": "1.     No podrá imponerse a los administrados una obligación pecuniaria que no estuviese establecida con arreglo a:",
+        "opciones": [
+            "una Ley",
+            "una norma de rango legal",
+            "una norma reglamentaria",
+            "una norma de rango legal o reglamentaria"
+        ],
+        "correcta": "una norma de rango legal"
+    },
+    {
+        "pregunta": "2.     Habrá lugar a la ejecución subsidiaria cuando se trate de actos que:",
+        "opciones": [
+            "por ser personalísimos puedan ser realizados por sujeto distinto del obligado",
+            "por no ser personalísimos no puedan ser realizados por sujeto distinto del obligado",
+            "por no ser personalísimos puedan ser realizados por sujeto distinto del obligado",
+            "por ser personalísimos no puedan ser realizados por sujeto distinto del obligado"
+        ],
+        "correcta": "por no ser personalísimos puedan ser realizados por sujeto distinto del obligado"
+    },
+    {
+        "pregunta": "3.     Cuando haya lugar a la ejecución subsidiaria las Administraciones Públicas realizarán el acto:",
+        "opciones": [
+            "a través de las personas que determinen, a costa del obligado",
+            "por sí, a costa del obligado",
+            "por sí, a costa de las personas que determinen",
+            "por sí o a través de las personas que determinen, a costa del obligado"
+        ],
+        "correcta": "por sí o a través de las personas que determinen, a costa del obligado"
+    },
+    {
+        "pregunta": "4.     En la ejecución subsidiaria el importe de los gastos, daños y perjuicios:",
+        "opciones": [
+            "podrá liquidarse de forma provisional y realizarse antes de la ejecución, a reserva de la liquidación definitiva",
+            "no podrá liquidarse de forma provisional ni realizarse antes de la ejecución, a reserva de la liquidación definitiva",
+            "podrá liquidarse de forma provisional pero no podrá realizarse antes de la ejecución, a reserva de la liquidación definitiva",
+            "no podrá liquidarse de forma provisional pero podrá realizarse antes de la ejecución, a reserva de la liquidación definitiva"
+        ],
+        "correcta": "podrá liquidarse de forma provisional y realizarse antes de la ejecución, a reserva de la liquidación definitiva"
+    },
+    {
+        "pregunta": "5.     Cuando así lo autoricen las Leyes, y en la forma y cuantía que éstas determinen, las Administraciones Públicas pueden, para la ejecución de determinados actos, imponer multas coercitivas, reiteradas por lapsos de tiempo que sean suficientes para cumplir lo ordenado, en los siguientes supuestos (señala la incorrecta):",
+        "opciones": [
+            "actos personalísimos en que no proceda la compulsión directa sobre la persona del obligado",
+            "actos en que, procediendo la compulsión, la Administración no la estimara conveniente",
+            "actos cuya ejecución no pueda el obligado encargar a otra persona",
+            "todas son correctas"
+        ],
+        "correcta": "actos cuya ejecución no pueda el obligado encargar a otra persona"
+    },
+    {
+        "pregunta": "6.     La multa coercitiva es:",
+        "opciones": [
+            "dependiente de las sanciones que puedan imponerse con tal carácter e incompatible con ellas",
+            "independiente de las sanciones que puedan imponerse con tal carácter y compatible con ellas",
+            "dependiente de las sanciones que puedan imponerse con tal carácter y compatible con ellas",
+            "independiente de las sanciones que puedan imponerse con tal carácter e incompatible con ellas"
+        ],
+        "correcta": "independiente de las sanciones que puedan imponerse con tal carácter y compatible con ellas"
+    },
+    {
+        "pregunta": "7.     Podrán ser ejecutados por compulsión directa sobre las personas:",
+        "opciones": [
+            "los actos administrativos que impongan una obligación personalísima de no hacer o soportar",
+            "los actos administrativos que impongan una obligación personalísima de hacer o soportar",
+            "los actos administrativos que impongan una obligación personalísima de hacer o no soportar",
+            "los actos administrativos que impongan una obligación personalísima de no hacer o no soportar"
+        ],
+        "correcta": "los actos administrativos que impongan una obligación personalísima de no hacer o soportar"
+    },
+    {
+        "pregunta": "8.     Un acto administrativo podrá ser ejecutado por compulsión directa sobre las personas:",
+        "opciones": [
+            "en los casos en que la ley expresamente lo autorice",
+            "dentro siempre del respeto debido a su dignidad",
+            "dentro siempre del respeto debido a los derechos reconocidos en la Constitución",
+            "todas son correctas"
+        ],
+        "correcta": "todas son correctas"
+    },
+    {
+        "pregunta": "9.     El obligado deberá resarcir los daños y perjuicios, a cuya liquidación y cobro se procederá en vía administrativa si, tratándose de:",
+        "opciones": [
+            "obligaciones personalísimas de no hacer, se realizase la prestación",
+            "obligaciones personalísimas de hacer, se realizase la prestación",
+            "obligaciones personalísimas de hacer, no se realizase la prestación",
+            "obligaciones personalísimas de no hacer, no se realizase la prestación"
+        ],
+        "correcta": "obligaciones personalísimas de hacer, no se realizase la prestación"
+    },
+    {
+        "pregunta": "10.     Las acciones posesorias contra las actuaciones de los órganos administrativos realizadas en materia de su competencia y de acuerdo con el procedimiento legalmente establecido:",
+        "opciones": [
+            "en ningún caso se admitirán a trámite",
+            "excepcionalmente podrán admitirse a trámite",
+            "se admitirán a trámite como regla general",
+            "se admitirán a trámite en todo caso"
+        ],
+        "correcta": "en ningún caso se admitirán a trámite"
+    },
+    {
+        "pregunta": "11.     El Título IV de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas se denomina:",
+        "opciones": [
+            "De la actividad de las Administraciones Públicas",
+            "De los actos administrativos",
+            "De las disposiciones sobre el procedimiento administrativo común",
+            "De la revisión de los actos en vía administrativa"
+        ],
+        "correcta": "De las disposiciones sobre el procedimiento administrativo común"
+    },
+    {
+        "pregunta": "12.     El Título IV de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas tiene:",
+        "opciones": [
+            "3 capítulos",
+            "4 capítulos",
+            "5 capítulos",
+            "7 capítulos"
+        ],
+        "correcta": "7 capítulos"
+    },
+    {
+        "pregunta": "13.     El Título IV de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas comprende los artículos:",
+        "opciones": [
+            "66 a 100",
+            "53 a 105",
+            "49 a 107",
+            "58 a 99"
+        ],
+        "correcta": "53 a 105"
+    }
+]
