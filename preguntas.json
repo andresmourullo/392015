@@ -1,5 +1,2095 @@
 [
     {
+        "pregunta": "1.      A los efectos previstos en esta Ley, tendrán capacidad de obrar ante las Administraciones Públicas (señala la incorrecta):",
+        "opciones": [
+            "las personas físicas o jurídicas que ostenten capacidad de obrar con arreglo a las normas civiles",
+            "los menores de edad no incapacitados para el ejercicio y defensa de aquellos de sus derechos e intereses cuya actuación está permitida por el ordenamiento jurídico sin la asistencia de la persona que ejerza la patria potestad, tutela o curatela",
+            "los menores incapacitados, cuando la extensión de la incapacitación afecte al ejercicio y defensa de los derechos o intereses de que se trate",
+            "cuando la Ley así lo declare expresamente, los grupos de afectados, las uniones y entidades sin personalidad jurídica y los patrimonios independientes o autónomos"
+        ],
+        "correcta": "los menores incapacitados, cuando la extensión de la incapacitación afecte al ejercicio y defensa de los derechos o intereses de que se trate"
+    },
+    {
+        "pregunta": "2.      Se consideran interesados en el procedimiento administrativo (señala la incorrecta):",
+        "opciones": [
+            "quienes lo promuevan como titulares de derechos o intereses legítimos individuales",
+            "quienes lo promuevan como titulares de derechos o intereses legítimos colectivos",
+            "los que, sin haber iniciado el procedimiento, tengan derechos que puedan resultar afectados por la decisión que en el mismo se adopte",
+            "aquellos cuyos intereses legítimos, individuales o colectivos, puedan resultar afectados por la resolución siempre que se personen en el procedimiento durante el trámite de audiencia"
+        ],
+        "correcta": "aquellos cuyos intereses legítimos, individuales o colectivos, puedan resultar afectados por la resolución siempre que se personen en el procedimiento durante el trámite de audiencia"
+    },
+    {
+        "pregunta": "3.      Las asociaciones y organizaciones representativas de intereses económicos y sociales:",
+        "opciones": [
+            "serán titulares de intereses legítimos individuales y colectivos en los términos que reglamentariamente se establezca",
+            "serán titulares de intereses legítimos individuales y colectivos",
+            "no serán titulares de intereses legítimos colectivos",
+            "serán titulares de intereses legítimos colectivos en los términos que la Ley reconozca"
+        ],
+        "correcta": "serán titulares de intereses legítimos colectivos en los términos que la Ley reconozca"
+    },
+    {
+        "pregunta": "5.      Los menores incapacitados, cuando la extensión de la incapacitación afecte al ejercicio y defensa de los derechos o intereses de que se trate:",
+        "opciones": [
+            "tienen capacidad de obrar limitada",
+            "pueden actuar sin la asistencia de la persona que ejerza la patria potestad, tutela o curatela",
+            "no tienen capacidad de obrar",
+            "ninguna es correcta"
+        ],
+        "correcta": "no tienen capacidad de obrar"
+    },
+    {
+        "pregunta": "6.      Los interesados con capacidad de obrar podrán actuar por medio de representante:",
+        "opciones": [
+            "entendiéndose con éste las actuaciones administrativas, salvo manifestación expresa o tácita en contra del interesado",
+            "entendiéndose con el interesado las actuaciones administrativas, salvo manifestación expresa en contra del interesado",
+            "entendiéndose con éste las actuaciones administrativas, salvo manifestación expresa en contra del interesado",
+            "entendiéndose con el interesado las actuaciones administrativas, salvo manifestación expresa o tácita en contra del interesado"
+        ],
+        "correcta": "entendiéndose con éste las actuaciones administrativas, salvo manifestación expresa en contra del interesado"
+    },
+    {
+        "pregunta": "7.      Podrán actuar en representación de otras ante las Administraciones Públicas:",
+        "opciones": [
+            "las personas físicas con o sin capacidad de obrar y las personas jurídicas, aunque no está previsto en sus Estatutos",
+            "las personas físicas con capacidad de obrar y las personas jurídicas, aunque no está previsto en sus Estatutos",
+            "las personas físicas con o sin capacidad de obrar y las personas jurídicas, siempre que ello esté previsto en sus Estatutos",
+            "las personas físicas con capacidad de obrar y las personas jurídicas, siempre que ello esté previsto en sus Estatutos"
+        ],
+        "correcta": "las personas físicas con capacidad de obrar y las personas jurídicas, siempre que ello esté previsto en sus Estatutos"
+    },
+    {
+        "pregunta": "8.      Se presumirá la representación para:",
+        "opciones": [
+            "formular solicitudes",
+            "los actos y gestiones de mero trámite",
+            "presentar declaraciones responsables o comunicaciones",
+            "interponer recursos, desistir de acciones y renunciar a derechos en nombre de otra persona"
+        ],
+        "correcta": "los actos y gestiones de mero trámite"
+    },
+    {
+        "pregunta": "9.      La representación podrá acreditarse:",
+        "opciones": [
+            "mediante cualquier título jurídico",
+            "mediante resolución judicial especial",
+            "únicamente mediante poder notarial",
+            "mediante cualquier medio válido en Derecho que deje constancia fidedigna de su existencia"
+        ],
+        "correcta": "mediante cualquier medio válido en Derecho que deje constancia fidedigna de su existencia"
+    },
+    {
+        "pregunta": "10.      Se entenderá acreditada la representación realizada:",
+        "opciones": [
+            "mediante apoderamiento apud acta efectuado por comparecencia personal",
+            "mediante apoderamiento apud acta efectuado por comparecencia electrónica en la correspondiente sede electrónica",
+            "a través de la acreditación de su inscripción en el registro electrónico de apoderamientos de la Administración Pública competente",
+            "todas son correctas"
+        ],
+        "correcta": "todas son correctas"
+    },
+    {
+        "pregunta": "11.      Deberá incorporar al expediente administrativo acreditación de la condición de representante y de los poderes que tiene reconocidos en dicho momento:",
+        "opciones": [
+            "el órgano competente para la iniciación del procedimiento",
+            "el órgano competente para la instrucción del procedimiento",
+            "el órgano competente para la tramitación del procedimiento",
+            "el órgano competente para la terminación del procedimiento"
+        ],
+        "correcta": "el órgano competente para la tramitación del procedimiento"
+    },
+    {
+        "pregunta": "12.      La falta o insuficiente acreditación de la representación no impedirá que se tenga por realizado el acto de que se trate, siempre que se aporte aquella o se subsane el defecto dentro del plazo de:",
+        "opciones": [
+            "5 días o de un plazo superior cuando las circunstancias del caso así lo requieran",
+            "10 días o de un plazo superior cuando las circunstancias del caso así lo requieran",
+            "15 días o de un plazo superior cuando las circunstancias del caso así lo requieran",
+            "20 días o de un plazo superior cuando las circunstancias del caso así lo requieran"
+        ],
+        "correcta": "10 días o de un plazo superior cuando las circunstancias del caso así lo requieran"
+    },
+    {
+        "pregunta": "13.      Las Administraciones Públicas podrán habilitar:",
+        "opciones": [
+            "con carácter general a personas jurídicas autorizadas para la realización de determinadas transacciones electrónicas en representación de los interesados",
+            "con carácter general o específico a personas jurídicas autorizadas para la realización de determinadas transacciones electrónicas en representación de los interesados",
+            "con carácter general o específico a personas físicas o jurídicas autorizadas para la realización de determinadas transacciones electrónicas en representación de los interesados",
+            "con carácter general a personas físicas o jurídicas autorizadas para la realización de determinadas transacciones electrónicas en representación de los interesados"
+        ],
+        "correcta": "con carácter general o específico a personas físicas o jurídicas autorizadas para la realización de determinadas transacciones electrónicas en representación de los interesados"
+    },
+    {
+        "pregunta": "14.      Dispondrá/n de un registro electrónico general de apoderamientos:",
+        "opciones": [
+            "la Administración General del Estado",
+            "las Administraciones de las Comunidades Autónomas",
+            "las Entidades Locales",
+            "todas son correctas"
+        ],
+        "correcta": "todas son correctas"
+    },
+    {
+        "pregunta": "15.      En el registro electrónico general de apoderamientos, deberán inscribirse, al menos, los de carácter general otorgados por quien ostente la condición de interesado en un procedimiento administrativo a favor de representante:",
+        "opciones": [
+            "apud acta",
+            "presencialmente",
+            "electrónicamente",
+            "todas son correctas"
+        ],
+        "correcta": "todas son correctas"
+    },
+    {
+        "pregunta": "16.      Respecto a los registros electrónicos de apoderamientos no es correcto:",
+        "opciones": [
+            "en el ámbito estatal, este registro será el Registro Electrónico de Apoderamientos de la Administración General del Estado",
+            "en ellos no constará el bastanteo realizado del poder",
+            "los registros generales de apoderamientos no impedirán la existencia de registros particulares en cada Organismo",
+            "cada Organismo podrá disponer de su propio registro electrónico de apoderamientos"
+        ],
+        "correcta": "en ellos no constará el bastanteo realizado del poder"
+    },
+    {
+        "pregunta": "17.      Será/n interoperable/s con los registros electrónicos generales y particulares de apoderamientos:",
+        "opciones": [
+            "los registros mercantiles",
+            "los registros de la propiedad",
+            "los protocolos notariales",
+            "todas son correctas"
+        ],
+        "correcta": "todas son correctas"
+    },
+    {
+        "pregunta": "18.      Los asientos que se realicen en los registros electrónicos generales y particulares de apoderamientos deberán contener, al menos: (señala la incorrecta)",
+        "opciones": [
+            "nombre y apellidos o la denominación o razón social, documento nacional de identidad, número de identificación fiscal o documento equivalente del poderdante y del apoderado",
+            "causas de anulación del apoderamiento",
+            "período de tiempo por el cual se otorga el poder",
+            "tipo de poder según las facultades que otorgue"
+        ],
+        "correcta": "causas de anulación del apoderamiento"
+    },
+    {
+        "pregunta": "19.      Respecto a los poderes que se inscriban en los registros electrónicos generales y particulares de apoderamientos pueden ser:",
+        "opciones": [
+            "un poder general para que el apoderado pueda actuar en nombre del poderdante en cualquier actuación administrativa y ante cualquier Administración",
+            "un poder para que el apoderado pueda actuar en nombre del poderdante en cualquier actuación administrativa ante una Administración u Organismo concreto",
+            "un poder para que el apoderado pueda actuar en nombre del poderdante únicamente para la realización de determinados trámites especificados en el poder",
+            "todas son correctas"
+        ],
+        "correcta": "todas son correctas"
+    },
+    {
+        "pregunta": "20.      Señala la correcta:",
+        "opciones": [
+            "la falta o insuficiente acreditación de la representación impedirá que se tenga por realizado el acto de que se trate",
+            "el documento electrónico que acredite el resultado de la consulta al registro electrónico de apoderamientos correspondiente tendrá la condición de acreditación a estos efectos",
+            "los registros electrónicos generales y particulares de apoderamientos pertenecientes a todas y cada una de las Administraciones, serán preferiblemente interoperables entre sí",
+            "el interesado no podrá comparecer por sí mismo en un procedimiento en el que haya designado representante"
+        ],
+        "correcta": "el documento electrónico que acredite el resultado de la consulta al registro electrónico de apoderamientos correspondiente tendrá la condición de acreditación a estos efectos"
+    },
+    {
+        "pregunta": "1.      Los registros mercantiles, de la propiedad, y de los protocolos notariales serán interoperables con:",
+        "opciones": [
+            "los registros electrónicos generales de apoderamientos",
+            "los registros electrónicos particulares de apoderamientos",
+            "a y b son correctas",
+            "ninguna es correcta"
+        ],
+        "correcta": "a y b son correctas"
+    },
+    {
+        "pregunta": "2.      Los modelos de poderes inscribibles en el registro cuando se circunscriba a actuaciones de la Administración de una Comunidad Autónoma:",
+        "opciones": [
+            "serán aprobados por cada Comunidad Autónoma",
+            "serán los mismos de la Administración del Estado",
+            "serán los que proponga el propio interesado",
+            "serán aprobados por el Gobierno del Estado"
+        ],
+        "correcta": "serán aprobados por cada Comunidad Autónoma"
+    },
+    {
+        "pregunta": "3.      El apoderamiento «apud acta» se otorgará:",
+        "opciones": [
+            "mediante comparecencia electrónica en la correspondiente sede electrónica haciendo uso de los sistemas de firma electrónica previstos en esta Ley o mediante comparecencia personal en las oficinas de asistencia en materia de registros",
+            "mediante comparecencia electrónica en la correspondiente sede electrónica haciendo uso de los sistemas de firma electrónica previstos en esta Ley o mediante comparecencia postal en las oficinas de asistencia en materia de registros",
+            "mediante comparecencia personal en las oficinas de asistencia en materia de registros o mediante comparecencia postal en las oficinas de asistencia en materia de registros",
+            "ninguna es correcta"
+        ],
+        "correcta": "mediante comparecencia electrónica en la correspondiente sede electrónica haciendo uso de los sistemas de firma electrónica previstos en esta Ley o mediante comparecencia personal en las oficinas de asistencia en materia de registros"
+    },
+    {
+        "pregunta": "4.      Los poderes inscritos en el registro tendrán una validez determinada:",
+        "opciones": [
+            "mínima de 5 años a contar desde la fecha de inscripción",
+            "máxima de 10 años a contar desde la fecha de inscripción",
+            "máxima de 5 años a contar desde la fecha de inscripción",
+            "mínima de 10 años a contar desde la fecha de inscripción"
+        ],
+        "correcta": "máxima de 5 años a contar desde la fecha de inscripción"
+    },
+    {
+        "pregunta": "5.      Podrá revocar o prorrogar el poder:",
+        "opciones": [
+            "el poderdante en cualquier momento antes de la finalización del plazo de validez del poder",
+            "el apoderado una vez finalizado el plazo de validez del poder",
+            "el apoderado en cualquier momento antes de la finalización del plazo de validez del poder",
+            "el poderdante una vez finalizado el plazo de validez del poder"
+        ],
+        "correcta": "el poderdante en cualquier momento antes de la finalización del plazo de validez del poder"
+    },
+    {
+        "pregunta": "6.      Las prórrogas otorgadas por el poderdante al registro tendrán una validez determinada:",
+        "opciones": [
+            "máxima de 1 año a contar desde la fecha de inscripción",
+            "máxima de 2 años a contar desde la fecha de inscripción",
+            "máxima de 5 años a contar desde la fecha de inscripción",
+            "máxima de 10 años a contar desde la fecha de inscripción"
+        ],
+        "correcta": "máxima de 5 años a contar desde la fecha de inscripción"
+    },
+    {
+        "pregunta": "7.      Las solicitudes de inscripción del poder, de revocación, de prórroga o de denuncia del mismo:",
+        "opciones": [
+            "deberán dirigirse al registro de la Administración u Organismo ante la que tenga efectos el poder donde quedará inscrita esta circunstancia",
+            "podrán dirigirse a cualquier registro, debiendo quedar inscrita esta circunstancia en el registro de la Administración u Organismo ante la que tenga efectos el poder",
+            "podrán dirigirse a cualquier registro en el que quedará inscrita esta circunstancia",
+            "deberán dirigirse al registro de la Administración u Organismo ante la que tenga efectos el poder y quedará inscrita esta circunstancia en cualquier registro"
+        ],
+        "correcta": "podrán dirigirse a cualquier registro, debiendo quedar inscrita esta circunstancia en el registro de la Administración u Organismo ante la que tenga efectos el poder"
+    },
+    {
+        "pregunta": "8.      Las solicitudes de inscripción del poder, de revocación, de prórroga o de denuncia del mismo surtirán efecto:",
+        "opciones": [
+            "desde la fecha en la que se produzca dicha inscripción",
+            "desde la fecha que se indique en dicha inscripción",
+            "un mes posterior a la fecha en la que se produzca dicha inscripción",
+            "ninguna es correcta"
+        ],
+        "correcta": "desde la fecha en la que se produzca dicha inscripción"
+    },
+    {
+        "pregunta": "9.      Cuando en una solicitud, escrito o comunicación figuren varios interesados, las actuaciones a que den lugar se efectuarán:",
+        "opciones": [
+            "con el representante o el interesado que expresamente hayan señalado, y, en su defecto, con el que figure en primer término",
+            "con el que figure en primer término, y, en su defecto, con el representante o el interesado que expresamente hayan señalado",
+            "con el representante o el interesado que expresamente hayan señalado, y, en su defecto, con todos ellos",
+            "con todos ellos, y, en su defecto, con el representante o el interesado que expresamente hayan señalado"
+        ],
+        "correcta": "con el representante o el interesado que expresamente hayan señalado, y, en su defecto, con el que figure en primer término"
+    },
+    {
+        "pregunta": "10.      Si durante la instrucción de un procedimiento que no haya tenido publicidad, se advierte la existencia de personas que sean titulares de derechos o intereses legítimos y directos cuya identificación resulte del expediente y que puedan resultar afectados por la resolución que se dicte:",
+        "opciones": [
+            "se paralizará el procedimiento hasta que se solucione esta circunstancia",
+            "no serán considerados interesados si no se personan en el procedimiento en plazo de 5 días",
+            "se entenderá que el procedimiento es anulable por defecto de forma",
+            "se comunicará a dichas personas la tramitación del procedimiento"
+        ],
+        "correcta": "se comunicará a dichas personas la tramitación del procedimiento"
+    },
+    {
+        "pregunta": "11.      Las Administraciones Públicas están obligadas a verificar la identidad de los interesados en el procedimiento administrativo, mediante la comprobación de su nombre y apellidos o denominación o razón social, según corresponda, que consten en:",
+        "opciones": [
+            "el correspondiente registro administrativo",
+            "los archivos electrónicos de la Administración",
+            "el Documento Nacional de Identidad o documento identificativo equivalente",
+            "los documentos presentados por las partes"
+        ],
+        "correcta": "el Documento Nacional de Identidad o documento identificativo equivalente"
+    },
+    {
+        "pregunta": "12.      Los interesados podrán identificarse electrónicamente ante las Administraciones Públicas a través de:",
+        "opciones": [
+            "sistemas basados en certificados electrónicos cualificados de firma electrónica expedidos por prestadores incluidos en la ''Lista de confianza de prestadores de servicios de certificación''",
+            "sistemas basados en certificados electrónicos cualificados de sello electrónico expedidos por prestadores incluidos en la ''Lista de confianza de prestadores de servicios de certificación''",
+            "cualquier otro sistema, que las Administraciones consideren válido en los términos y condiciones que se establezca, siempre que cuenten con un registro previo como usuario que permita garantizar su identidad",
+            "todas son correctas"
+        ],
+        "correcta": "todas son correctas"
+    },
+    {
+        "pregunta": "13.      Los interesados podrán firmar a través de cualquier medio que permita acreditar:",
+        "opciones": [
+            "la autenticidad de la expresión de su voluntad y consentimiento",
+            "la integridad del documento",
+            "la inalterabilidad del documento",
+            "todas son correctas"
+        ],
+        "correcta": "todas son correctas"
+    },
+    {
+        "pregunta": "14.      En el caso de que los interesados optaran por relacionarse con las Administraciones Públicas a través de medios electrónicos, se considerará válido a efectos de firma:",
+        "opciones": [
+            "sistemas de firma electrónica cualificada y avanzada basados en certificados electrónicos cualificados de firma electrónica expedidos por prestadores incluidos en la ''Lista de confianza de prestadores de servicios de certificación''",
+            "sistemas de sello electrónico cualificado y de sello electrónico avanzado basados en certificados electrónicos cualificados de sello electrónico expedidos por prestador incluido en la ''Lista de confianza de prestadores de servicios de certificación''",
+            "cualquier otro sistema que las Administraciones Públicas consideren válido en los términos y condiciones que se establezca, siempre que cuenten con un registro previo como usuario que permita garantizar su identidad",
+            "todas son correctas"
+        ],
+        "correcta": "todas son correctas"
+    },
+    {
+        "pregunta": "15.       Las Administraciones Públicas requerirán a los interesados el uso obligatorio de firma para: (señala la incorrecta)",
+        "opciones": [
+            "formular solicitudes",
+            "presentar comunicaciones",
+            "gestiones de mero trámite",
+            "presentar declaraciones responsables"
+        ],
+        "correcta": "gestiones de mero trámite"
+    },
+    {
+        "pregunta": "16.      Mantendrá/n actualizado un registro, u otro sistema equivalente, donde constarán los funcionarios habilitados para la identificación o firma electrónica:",
+        "opciones": [
+            "la Administración General del Estado",
+            "la Administración General del Estado y las Comunidades Autónomas",
+            "las Comunidades Autónomas y las Entidades Locales",
+            "la Administración General del Estado, las Comunidades Autónomas y las Entidades Locales"
+        ],
+        "correcta": "la Administración General del Estado, las Comunidades Autónomas y las Entidades Locales"
+    },
+    {
+        "pregunta": "17.      Cuando así lo disponga expresamente la normativa reguladora aplicable, las Administraciones Públicas podrán admitir los sistemas de identificación contemplados en esta Ley como sistema de firma:",
+        "opciones": [
+            "aún cuando no permitan acreditar la autenticidad de la expresión de la voluntad ni el consentimiento de los interesados",
+            "cuando permitan acreditar la autenticidad de la expresión de la voluntad y consentimiento de los interesados",
+            "aún cuando no permitan acreditar la autenticidad de la expresión de la voluntad pero sí el consentimiento de los interesados",
+            "ninguna es correcta"
+        ],
+        "correcta": "cuando permitan acreditar la autenticidad de la expresión de la voluntad y consentimiento de los interesados"
+    },
+    {
+        "pregunta": "18.      El Título I de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común:",
+        "opciones": [
+            "no tiene capítulos",
+            "tiene un capítulo",
+            "tiene dos capítulos",
+            "tiene tres capítulos"
+        ],
+        "correcta": "tiene dos capítulos"
+    },
+    {
+        "pregunta": "19.      El Título I de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común se denomina:",
+        "opciones": [
+            "De los interesados en el procedimiento",
+            "De la actividad de las Administraciones Públicas",
+            "Disposiciones generales",
+            "De los actos administrativos"
+        ],
+        "correcta": "De los interesados en el procedimiento"
+    },
+    {
+        "pregunta": "20.      El Título I de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común comprende los artículos:",
+        "opciones": [
+            "3 a 12",
+            "5 a 14",
+            "4 a 11",
+            "6 a 13"
+        ],
+        "correcta": "3 a 12"
+    },
+    {
+        "pregunta": "1.      Quienes tienen capacidad de obrar ante las Administraciones Públicas, son titulares, en sus relaciones con ellas, del derecho: (señala la incorrecta)",
+        "opciones": [
+            "a utilizar las lenguas oficiales en el territorio de su Comunidad Autónoma",
+            "al acceso a la información pública, archivos y registros",
+            "a ser tratados con respeto y deferencia por las autoridades y empleados públicos",
+            "a no ser asistidos en el uso de medios electrónicos en sus relaciones con las Administraciones Públicas"
+        ],
+        "correcta": "a no ser asistidos en el uso de medios electrónicos en sus relaciones con las Administraciones Públicas"
+    },
+    {
+        "pregunta": "2.      Quienes tienen capacidad de obrar ante las Administraciones Públicas, son titulares, en sus relaciones con ellas, del derecho: (señala la incorrecta)",
+        "opciones": [
+            "a exigir las responsabilidades de las Administraciones Públicas y autoridades, cuando así corresponda legalmente",
+            "a la obtención y utilización de los medios de identificación y firma electrónica contemplados en esta Ley",
+            "a la protección de datos de carácter personal, excepto la seguridad y confidencialidad de los datos que figuren en los ficheros, sistemas y aplicaciones de las Administraciones Públicas",
+            "cualesquiera que les reconozcan la Constitución y las leyes"
+        ],
+        "correcta": "a la protección de datos de carácter personal, excepto la seguridad y confidencialidad de los datos que figuren en los ficheros, sistemas y aplicaciones de las Administraciones Públicas"
+    },
+    {
+        "pregunta": "3.      Las personas físicas podrán elegir en todo momento si se comunican con las Administraciones Públicas para el ejercicio de sus derechos y obligaciones a través de medios electrónicos o no:",
+        "opciones": [
+            "salvo que estén obligadas a relacionarse a través de medios electrónicos con las Administraciones Públicas",
+            "salvo que estén obligadas a relacionarse a través de medios no electrónicos con las Administraciones Públicas",
+            "no pudiendo estar obligadas a relacionarse a través de unos medios u otros con las Administraciones Públicas",
+            "ninguna es correcta"
+        ],
+        "correcta": "salvo que estén obligadas a relacionarse a través de medios electrónicos con las Administraciones Públicas"
+    },
+    {
+        "pregunta": "4.      El medio elegido por la persona para comunicarse con las Administraciones Públicas:",
+        "opciones": [
+            "podrá ser modificado por aquella en cualquier momento",
+            "no podrá ser modificado con posterioridad al trámite de audiencia",
+            "únicamente podrá ser modificado cuando de no hacerlo se corra riesgo de no alcanzarse las pretensiones del interesado",
+            "no podrá ser modificado de manera unilateral por el interesado"
+        ],
+        "correcta": "podrá ser modificado por aquella en cualquier momento"
+    },
+    {
+        "pregunta": "5.      Estarán obligados a relacionarse a través de medios electrónicos con las Administraciones Públicas para la realización de cualquier trámite de un procedimiento administrativo: (señala la incorrecta)",
+        "opciones": [
+            "las entidades con personalidad jurídica",
+            "las personas jurídicas",
+            "quienes representen a un interesado que esté obligado a relacionarse electrónicamente con la Administración",
+            "los empleados de las Administraciones Públicas para los trámites y actuaciones que realicen con ellas por razón de su condición de empleado público"
+        ],
+        "correcta": "las entidades con personalidad jurídica"
+    },
+    {
+        "pregunta": "6.      Las Administraciones:",
+        "opciones": [
+            "podrán establecer la obligación de relacionarse con ellas a través de medios electrónicos para determinados procedimientos",
+            "podrán establecer la obligación de relacionarse con ellas a través de medios electrónicos para ciertos colectivos de personas físicas",
+            "no podrán establecer la obligación de relacionarse con ellas a través de medios electrónicos para determinados procedimientos ni para ciertos colectivos de personas físicas",
+            "podrán establecer la obligación de relacionarse con ellas a través de medios electrónicos para determinados procedimientos y para ciertos colectivos de personas físicas"
+        ],
+        "correcta": "podrán establecer la obligación de relacionarse con ellas a través de medios electrónicos para determinados procedimientos y para ciertos colectivos de personas físicas"
+    },
+    {
+        "pregunta": "7.      La lengua de los procedimientos tramitados por la Administración General del Estado será:",
+        "opciones": [
+            "el castellano",
+            "el castellano o cualquier otra lengua oficial en algún territorio del Estado",
+            "preferiblemente el castellano",
+            "ninguna es correcta"
+        ],
+        "correcta": "el castellano"
+    },
+    {
+        "pregunta": "8.      Los interesados que se dirijan a los órganos de la Administración General del Estado con sede en el territorio de una Comunidad Autónoma:",
+        "opciones": [
+            "únicamente podrán utilizar el castellano",
+            "únicamente podrán utilizar la lengua que sea cooficial en ella",
+            "podrán utilizar también la lengua que sea cooficial en ella",
+            "ninguna es correcta"
+        ],
+        "correcta": "podrán utilizar también la lengua que sea cooficial en ella"
+    },
+    {
+        "pregunta": "9.      El procedimiento dirigido a órganos de la Administración General del Estado con sede en el territorio de una Comunidad Autónoma:",
+        "opciones": [
+            "se tramitará en la lengua elegida por el interesado",
+            "se tramitará en la lengua elegida por la Administración",
+            "se tramiará en castellano",
+            "se tramitará en la lengua cooficial de la Comunidad Autónoma"
+        ],
+        "correcta": "se tramitará en la lengua elegida por el interesado"
+    },
+    {
+        "pregunta": "10.      Si concurrieran varios interesados en el procedimiento, y existiera discrepancia en cuanto a la lengua:",
+        "opciones": [
+            "tanto el procedimiento como los documentos o testimonios que requieran los interesados se tramitarán en castellano",
+            "tanto el procedimiento como los documentos o testimonios que requieran los interesados se tramitarán en la lengua elegida por los mismos",
+            "el procedimiento se tramitará en castellano, si bien los documentos o testimonios que requieran los interesados se expedirán en la lengua elegida por los mismos",
+            "el procedimiento se tramitará en la lengua elegida por los mismos, si bien los documentos o testimonios que requieran los interesados se expedirán en castellano"
+        ],
+        "correcta": "el procedimiento se tramitará en castellano, si bien los documentos o testimonios que requieran los interesados se expedirán en la lengua elegida por los mismos"
+    },
+    {
+        "pregunta": "11.      En los procedimientos tramitados por las Administraciones de las Comunidades Autónomas y de las Entidades Locales, el uso de la lengua se ajustará a lo previsto en:",
+        "opciones": [
+            "la presente Ley",
+            "en la legislación autonómica correspondiente",
+            "la presente Ley o, en su defecto, en la legislación autonómica correspondiente",
+            "la legislación autonómica correspondiente o, en su defecto, en la presente Ley"
+        ],
+        "correcta": "en la legislación autonómica correspondiente"
+    },
+    {
+        "pregunta": "12.      Deberá traducir al castellano los documentos, expedientes o partes de los mismos que deban surtir efecto fuera del territorio de la Comunidad Autónoma y los documentos dirigidos a los interesados que así lo soliciten expresamente:",
+        "opciones": [
+            "la Administración Pública que inicie el prodemiento",
+            "la Administración Pública instructora del procedimiento",
+            "la Administración Pública encargada de resolver el procedimiento",
+            "el propio interesado"
+        ],
+        "correcta": "la Administración Pública instructora del procedimiento"
+    },
+    {
+        "pregunta": "13.      Dispondrá/n de un Registro Electrónico General, en el que se hará el correspondiente asiento de todo documento que sea presentado o que se reciba en cualquier órgano administrativo, Organismo público o Entidad vinculado o dependiente a éstos:",
+        "opciones": [
+            "la Administración General del Estado",
+            "la Administración General del Estado y las Administraciones de las Comunidades Autónomas",
+            "las Entidades que integran la Administración Local",
+            "cada Administración"
+        ],
+        "correcta": "cada Administración"
+    },
+    {
+        "pregunta": "14.      Respecto a las registros no es correcto:",
+        "opciones": [
+            "se podrán anotar en el Registro Electrónico General, la salida de los documentos oficiales dirigidos a otros órganos o particulares",
+            "los Organismos públicos vinculados o dependientes de cada Administración podrán disponer de su propio registro electrónico",
+            "los registros electrónicos de cada Organismo funcionarán como un portal que facilitará el acceso al Registro Electrónico General de cada Administración",
+            "en la sede electrónica de acceso a cada registro figurará la relación actualizada de trámites que pueden iniciarse en el mismo"
+        ],
+        "correcta": "los registros electrónicos de cada Organismo funcionarán como un portal que facilitará el acceso al Registro Electrónico General de cada Administración"
+    },
+    {
+        "pregunta": "15.      Las disposiciones de creación de los registros electrónicos se publicarán en:",
+        "opciones": [
+            "el diario oficial correspondiente y su índice deberá estar disponible para consulta en la sede electrónica de acceso al registro",
+            "la sede electrónica de acceso al registro y su texto íntegro deberá estar disponible para consulta en el diario oficial correspondiente",
+            "el diario oficial correspondiente y su texto íntegro deberá estar disponible para consulta en la sede electrónica de acceso al registro",
+            "la sede electrónica de acceso al registro y su índice deberá estar disponible para consulta en el diario oficial correspondiente"
+        ],
+        "correcta": "el diario oficial correspondiente y su texto íntegro deberá estar disponible para consulta en la sede electrónica de acceso al registro"
+    },
+    {
+        "pregunta": "16.      En todo caso, las disposiciones de creación de registros electrónicos especificarán: (señala la incorrecta)",
+        "opciones": [
+            "el órgano o unidad responsable de su gestión",
+            "los funcionarios responsables de su gestión",
+            "la fecha y hora oficial",
+            "los días declarados como inhábiles"
+        ],
+        "correcta": "los funcionarios responsables de su gestión"
+    },
+    {
+        "pregunta": "17.      Los asientos se anotarán respetando el orden temporal de:",
+        "opciones": [
+            "recepción de los documentos, e indicarán la fecha del día siguiente al día en que se produzcan",
+            "recepción o salida de los documentos, e indicarán la fecha del día en que se produzcan",
+            "recepción o salida de los documentos, e indicarán la fecha del día siguiente al día en que se produzcan",
+            "recepción de los documentos, e indicarán la fecha del día en que se produzcan"
+        ],
+        "correcta": "recepción o salida de los documentos, e indicarán la fecha del día en que se produzcan"
+    },
+    {
+        "pregunta": "18.      Concluido el trámite de registro, los documentos:",
+        "opciones": [
+            "serán cursados sin dilación a sus destinatarios y a las unidades administrativas correspondientes desde el registro en que hubieran sido recibidas",
+            "serán cursados en el plazo de un mes a sus destinatarios y a las unidades administrativas correspondientes desde el registro en que hubieran sido recibidas",
+            "serán cursados en el plazo de un mes a sus destinatarios o a las unidades administrativas correspondientes desde el registro en que hubieran sido recibidas",
+            "serán cursados sin dilación a sus destinatarios o a las unidades administrativas correspondientes desde el registro en que hubieran sido recibidas"
+        ],
+        "correcta": "serán cursados sin dilación a sus destinatarios y a las unidades administrativas correspondientes desde el registro en que hubieran sido recibidas"
+    },
+    {
+        "pregunta": "19.      Los documentos que los interesados dirijan a los órganos de las Administraciones Públicas podrán presentarse: (señala la incorrecta)",
+        "opciones": [
+            "en el registro electrónico de la Administración u Organismo al que se dirijan",
+            "en las oficinas de Correos, en la forma que legalmente se establezca",
+            "en las representaciones diplomáticas u oficinas consulares de España en el extranjero",
+            "en las oficinas de asistencia en materia de registros"
+        ],
+        "correcta": "en las oficinas de Correos, en la forma que legalmente se establezca"
+    },
+    {
+        "pregunta": "20.      Los documentos presentados de manera presencial ante las Administraciones Públicas, deberán ser digitalizados:",
+        "opciones": [
+            "por la oficina de asistencia en materia de registros en la que hayan sido presentados para su incorporación al expediente administrativo electrónico, debiendo permanecer los originales en custodia de la Administración",
+            "por la Administración u Organismo en que hayan sido presentados para su incorporación al expediente administrativo electrónico, devolviéndose los originales al interesado",
+            "por la oficina de asistencia en materia de registros en la que hayan sido presentados para su incorporación al expediente administrativo electrónico, devolviéndose los originales al interesado",
+            "por la Administración u Organismo en que hayan sido presentados para su incorporación al expediente administrativo electrónico, debiendo permanecer los originales en custodia de la Administración"
+        ],
+        "correcta": "por la oficina de asistencia en materia de registros en la que hayan sido presentados para su incorporación al expediente administrativo electrónico, devolviéndose los originales al interesado"
+    },
+    {
+        "pregunta": "1.      Respecto a los registros:",
+        "opciones": [
+            "podrán hacerse efectivos mediante transferencia dirigida a la oficina pública correspondiente cualesquiera cantidades que haya que satisfacer en el momento de la presentación de documentos a las Administraciones Públicas, sin perjuicio de la posibilidad de su abono por otros medios",
+            "las Administraciones Públicas deberán hacer pública y mantener actualizada una relación de las oficinas en las que se prestará asistencia para la presentación electrónica de documentos",
+            "no se tendrán por presentados en el registro aquellos documentos e información cuyo régimen especial establezca otra forma de presentación",
+            "todas son correctas"
+        ],
+        "correcta": "todas son correctas"
+    },
+    {
+        "pregunta": "2.      Deberá/n mantener un archivo electrónico único de los documentos electrónicos que correspondan a procedimientos finalizados:",
+        "opciones": [
+            "la Administración General del Estado",
+            "la Administración General del Estado y las Administraciones de las Comunidades Autónomas",
+            "las Entidades que integran la Administración Local",
+            "cada Administración"
+        ],
+        "correcta": "cada Administración"
+    },
+    {
+        "pregunta": "3.      Los documentos electrónicos deberán conservarse en un formato que permita: (señala la incorrecta)",
+        "opciones": [
+            "garantizar la autenticidad del documento",
+            "garantizar la integridad del documento",
+            "garantizar la conservación del documento",
+            "su consulta hasta transcurridos diez años desde su emisión"
+        ],
+        "correcta": "su consulta hasta transcurridos diez años desde su emisión"
+    },
+    {
+        "pregunta": "4.       La eliminación de los documentos electrónicos:",
+        "opciones": [
+            "deberá ser autorizada de acuerdo a lo dispuesto en la normativa aplicable",
+            "se hará de oficio transcurridos 20 años",
+            "requerirá resolucíón judicial",
+            "no será posible en ningún caso"
+        ],
+        "correcta": "deberá ser autorizada de acuerdo a lo dispuesto en la normativa aplicable"
+    },
+    {
+        "pregunta": "5.      Los medios o soportes en que se almacenen documentos, deberán contar con medidas de seguridad que garanticen la integridad, autenticidad, confidencialidad, calidad, protección y conservación de los documentos almacenados, de acuerdo con lo previsto en:",
+        "opciones": [
+            "la Lista de confianza de prestadores de servicios de certificación",
+            "el Esquema Nacional de Seguridad",
+            "las oficinas de asistencia en materia de registros",
+            "la Agencia Española de Seguridad Informática"
+        ],
+        "correcta": "el Esquema Nacional de Seguridad"
+    },
+    {
+        "pregunta": "6.       Los medios o soportes en que se almacenen documentos asegurarán:",
+        "opciones": [
+            "la identificación de los usuarios",
+            "el control de accesos",
+            "el cumplimiento de las garantías previstas en la legislación de protección de datos",
+            "todas son correctas"
+        ],
+        "correcta": "todas son correctas"
+    },
+    {
+        "pregunta": "7.      Las personas colaborarán con la Administración facilitando a la Administración los informes, inspecciones y otros actos de investigación que requieran para el ejercicio de sus competencias, salvo que la revelación de la información solicitada por la Administración: (señala la incorrecta)",
+        "opciones": [
+            "atentara contra el honor",
+            "supusiera la comunicación de datos confidenciales de terceros de los que tengan conocimiento por la prestación de servicios profesionales de diagnóstico, asesoramiento o defensa",
+            "pueda ser perjudicial para la persona a quien se le solicita",
+            "atentara contra la intimidad personal o familiar"
+        ],
+        "correcta": "pueda ser perjudicial para la persona a quien se le solicita"
+    },
+    {
+        "pregunta": "8.       Los interesados en un procedimiento que conozcan datos que permitan identificar a otros interesados que no hayan comparecido en él:",
+        "opciones": [
+            "tienen el deber de proporcionárselos a la Administración actuante si ésta lo solicita",
+            "no están obligados a proporcionárselos a la Administración actuante",
+            "no están obligados a proporcionárselos a la Administración actuante, salvo que ésta lo solicite",
+            "tienen el deber de proporcionárselos a la Administración actuante"
+        ],
+        "correcta": "tienen el deber de proporcionárselos a la Administración actuante"
+    },
+    {
+        "pregunta": "9.      La comparecencia de las personas ante las oficinas públicas:",
+        "opciones": [
+            "presencialmente, sólo será obligatoria cuando así esté previsto en una norma reglamentaria",
+            "ya sea presencialmente o por medios electrónicos, sólo será obligatoria cuando así esté previsto en una norma con rango de ley",
+            "presencialmente, sólo será obligatoria cuando así esté previsto en una norma con rango de ley",
+            "ya sea presencialmente o por medios electrónicos, sólo será obligatoria cuando así esté previsto en una norma reglamentaria"
+        ],
+        "correcta": "ya sea presencialmente o por medios electrónicos, sólo será obligatoria cuando así esté previsto en una norma con rango de ley"
+    },
+    {
+        "pregunta": "10.       En los casos en que proceda la comparecencia, la correspondiente citación hará constar expresamente: (señala la incorrecta)",
+        "opciones": [
+            "el lugar, fecha, hora",
+            "los medios disponibles",
+            "el objeto de la comparecencia",
+            "los efectos de atenderla"
+        ],
+        "correcta": "los efectos de atenderla"
+    },
+    {
+        "pregunta": "11.       Las Administraciones Públicas entregarán al interesado certificación acreditativa de la comparecencia:",
+        "opciones": [
+            "en todo caso",
+            "en ningún caso",
+            "cuando el interesado así lo solicite",
+            "cuando la Administración lo considere conveniente"
+        ],
+        "correcta": "cuando el interesado así lo solicite"
+    },
+    {
+        "pregunta": "12.      Será/n responsable/s directo/s de su tramitación y adoptará/n las medidas oportunas para remover los obstáculos que impidan, dificulten o retrasen el ejercicio pleno de los derechos de los interesados o el respeto a sus intereses legítimos, disponiendo lo necesario para evitar y eliminar toda anormalidad en la tramitación de procedimientos:",
+        "opciones": [
+            "los titulares de las unidades administrativas que tuviesen a su cargo la resolución o el despacho de los asuntos",
+            "el personal al servicio de las Administraciones Públicas que tuviese a su cargo la resolución o el despacho de los asuntos",
+            "los titulares de las unidades administrativas y el personal al servicio de las Administraciones Públicas que tuviesen a su cargo la resolución o el despacho de los asuntos",
+            "ninguna es correcta"
+        ],
+        "correcta": "los titulares de las unidades administrativas y el personal al servicio de las Administraciones Públicas que tuviesen a su cargo la resolución o el despacho de los asuntos"
+    },
+    {
+        "pregunta": "13.      La Administración está obligada a dictar resolución expresa y a notificarla en todos los procedimientos:",
+        "opciones": [
+            "iniciados a solicitud del interesado",
+            "cualquiera que sea su forma de iniciación",
+            "salvo caducidad del procedimiento o desistimiento de la solicitud",
+            "salvo en los casos de prescripción o renuncia del derecho"
+        ],
+        "correcta": "cualquiera que sea su forma de iniciación"
+    },
+    {
+        "pregunta": "14.      La resolución consistirá en la declaración de la circunstancia que concurra en cada caso, con indicación de los hechos producidos y las normas aplicables en los casos de:",
+        "opciones": [
+            "prescripción o renuncia del derecho",
+            "caducidad del procedimiento o desistimiento de la solicitud",
+            "desaparición sobrevenida del objeto del procedimiento",
+            "todas son correctas"
+        ],
+        "correcta": "todas son correctas"
+    },
+    {
+        "pregunta": "15.       El plazo máximo en el que debe notificarse la resolución expresa será:",
+        "opciones": [
+            "de 10 días hábiles",
+            "de 1 mes",
+            "de 3 meses",
+            "el fijado por la norma reguladora del correspondiente procedimiento"
+        ],
+        "correcta": "el fijado por la norma reguladora del correspondiente procedimiento"
+    },
+    {
+        "pregunta": "16.      El plazo en el que debe notificarse la resolución expresa, salvo que una norma con rango de Ley establezca uno mayor o así venga previsto en el Derecho de la Unión Europea, no podrá exceder de:",
+        "opciones": [
+            "10 días hábiles",
+            "1 mes",
+            "3 meses",
+            "6 meses"
+        ],
+        "correcta": "6 meses"
+    },
+    {
+        "pregunta": "17.      Cuando las normas reguladoras de los procedimientos no fijen el plazo máximo para notificar la resolución expresa, éste será de:",
+        "opciones": [
+            "10 días hábiles",
+            "1 mes",
+            "3 meses",
+            "6 meses"
+        ],
+        "correcta": "3 meses"
+    },
+    {
+        "pregunta": "18.      El plazo para notificar la resolución expresa en los procedimientos iniciados de oficio se contará:",
+        "opciones": [
+            "desde la fecha del acuerdo de iniciación",
+            "desde la fecha en que la solicitud haya tenido entrada en el registro electrónico de la Administración u Organismo competente para su tramitación",
+            "desde el día siguiente a la fecha en que la solicitud haya tenido entrada en el registro electrónico de la Administración u Organismo competente para su tramitación",
+            "desde el día siguiente a la fecha del acuerdo de iniciación"
+        ],
+        "correcta": "desde la fecha del acuerdo de iniciación"
+    },
+    {
+        "pregunta": "19.      Las Administraciones Públicas deben publicar y mantener actualizadas en el portal web, a efectos informativos, las relaciones de procedimientos de su competencia, con indicación de:",
+        "opciones": [
+            "los recursos que procedan contra el procedimiento",
+            "los plazos mínimos de duración de los mismos",
+            "los recursos que procedan contra el procedimiento y los efectos que produzca el silencio administrativo",
+            "los plazos máximos de duración de los mismos y los efectos que produzca el silencio administrativo"
+        ],
+        "correcta": "los plazos máximos de duración de los mismos y los efectos que produzca el silencio administrativo"
+    },
+    {
+        "pregunta": "20.      Se exceptúa de la obligación de la Administración de dictar resolución expresa: (señala la incorrecta)",
+        "opciones": [
+            "los supuestos de terminación del procedimiento por pacto",
+            "los procedimientos relativos al ejercicio de derechos sometidos únicamente al deber de declaración responsable o comunicación a la Administración",
+            "los supuestos de terminación del procedimiento por convenio",
+            "la desaparición sobrevenida del objeto del procedimiento"
+        ],
+        "correcta": "la desaparición sobrevenida del objeto del procedimiento"
+    },
+    {
+        "pregunta": "1.      Cuando el número de las solicitudes formuladas o las personas afectadas pudieran suponer un incumplimiento del plazo máximo de resolución, podrán habilitar los medios personales y materiales para cumplir con el despacho adecuado y en plazo:",
+        "opciones": [
+            "el órgano competente para resolver, a propuesta razonada del órgano instructor, o el superior jerárquico del órgano competente para resolver, a propuesta de éste",
+            "el órgano instructor, a propuesta razonada del órgano competente para resolver, o el órgano competente para resolver, a propuesta del superior jerárquico de éste",
+            "el órgano competente para resolver, a propuesta razonada del órgano instructor, o el superior jerárquico del órgano competente instructor, a propuesta de éste",
+            "el órgano instructor, a propuesta razonada del órgano competente para resolver, o el superior jerárquico del órgano competente para resolver, a propuesta de éste"
+        ],
+        "correcta": "el órgano competente para resolver, a propuesta razonada del órgano instructor, o el superior jerárquico del órgano competente para resolver, a propuesta de éste"
+    },
+    {
+        "pregunta": "2.      Son directamente responsables, en el ámbito de sus competencias del cumplimiento de la obligación legal de dictar resolución expresa en plazo:",
+        "opciones": [
+            "los titulares de los órganos administrativos competentes para instruir",
+            "los titulares de los órganos administrativos competentes para resolver",
+            "el personal al servicio de las Administraciones Públicas que tenga a su cargo el despacho de los asuntos",
+            "todas son correctas"
+        ],
+        "correcta": "todas son correctas"
+    },
+    {
+        "pregunta": "3.      El transcurso del plazo máximo legal para resolver un procedimiento y notificar la resolución se podrá suspender cuando:",
+        "opciones": [
+            "deba requerirse a cualquier interesado para la subsanación de deficiencias o la aportación de documentos y otros elementos de juicio necesarios",
+            "se pida un pronunciamiento previo y optativo de un órgano de la Unión Europea, por el tiempo que medie entre la petición y la notificación del pronunciamiento",
+            "exista un procedimiento finalizado de la Unión Europea que condicione directamente el contenido de la resolución de que se trate",
+            "todas son correctas"
+        ],
+        "correcta": "deba requerirse a cualquier interesado para la subsanación de deficiencias o la aportación de documentos y otros elementos de juicio necesarios"
+    },
+    {
+        "pregunta": "4.      El transcurso del plazo máximo legal para resolver un procedimiento y notificar la resolución se podrá suspender cuando:",
+        "opciones": [
+            "deban realizarse pruebas técnicas o análisis contradictorios o dirimentes propuestos por los interesados",
+            "se inicien negociaciones con vistas a la conclusión de un pacto o convenio",
+            "sea indispensable la obtención de un previo pronunciamiento por parte de un órgano jurisdiccional",
+            "todas son correctas"
+        ],
+        "correcta": "todas son correctas"
+    },
+    {
+        "pregunta": "5.      Podrá suspenderse el plazo máximo legal para resolver un procedimiento y notificar la resolución cuando se soliciten informes preceptivos a un órgano de la misma o distinta Administración, por el tiempo que medie entre la petición y la recepción del informe. Este plazo de suspensión no podrá exceder en ningún caso de:",
+        "opciones": [
+            "3 meses. En caso de no recibirse el informe en el plazo indicado, caducará el procedimiento",
+            "1 mes. En caso de no recibirse el informe en el plazo indicado, proseguirá el procedimiento",
+            "1 mes. En caso de no recibirse el informe en el plazo indicado, caducará el procedimiento",
+            "3 meses. En caso de no recibirse el informe en el plazo indicado, proseguirá el procedimiento"
+        ],
+        "correcta": "3 meses. En caso de no recibirse el informe en el plazo indicado, proseguirá el procedimiento"
+    },
+    {
+        "pregunta": "6.      Cuando se hayan agotado los medios personales y materiales disponibles a los que se refiere el artículo 21.5, podrá acordar de manera motivada la ampliación del plazo máximo de resolución y notificación:",
+        "opciones": [
+            "el órgano competente para resolver, a propuesta, en su caso, del órgano instructor o el superior jerárquico del órgano competente para resolver",
+            "el órgano instructor, a propuesta, en su caso, del órgano competente para resolver o el superior jerárquico del órgano competente para resolver",
+            "el superior jerárquico del órgano competente para resolver, a propuesta, en su caso, del órgano instructor o el órgano competente para resolver",
+            "el órgano instructor o el órgano competente para resolver, a propuesta, en su caso, del superior jerárquico del órgano competente para resolver"
+        ],
+        "correcta": "el órgano competente para resolver, a propuesta, en su caso, del órgano instructor o el superior jerárquico del órgano competente para resolver"
+    },
+    {
+        "pregunta": "7.      Cuando se hayan agotado los medios personales y materiales disponibles a los que se refiere el artículo 21.5 se podrá acordar de manera motivada la ampliación del plazo máximo de resolución y notificación, no pudiendo ser éste superior a:",
+        "opciones": [
+            "la mitad del plazo establecido para la tramitación del procedimiento",
+            "el establecido para la tramitación del procedimiento",
+            "el doble del plazo establecido para la tramitación del procedimiento",
+            "ninguna es correcta"
+        ],
+        "correcta": "el establecido para la tramitación del procedimiento"
+    },
+    {
+        "pregunta": "8.      Contra el acuerdo que resuelva sobre la ampliación de plazos, que deberá ser notificado a los interesados:",
+        "opciones": [
+            "procederá el recurso de alzada",
+            "procederá el recurso potestativo de reposición",
+            "procederá el recurso extraordinario de revisión",
+            "no cabrá recurso alguno"
+        ],
+        "correcta": "no cabrá recurso alguno"
+    },
+    {
+        "pregunta": "9.      El plazo en el que debe notificarse la resolución expresa no podrá exceder de 6 meses:",
+        "opciones": [
+            "salvo que una norma reglamentaria establezca uno mayor o así venga previsto en el Derecho de la Unión Europea",
+            "salvo que una norma con rango de Ley establezca uno mayor o así venga previsto en el Derecho Internacional",
+            "salvo que una norma con rango de Ley establezca uno mayor o así venga previsto en el Derecho de la Unión Europea",
+            "salvo que una norma reglamentaria establezca uno mayor o así venga previsto en el Derecho Internacional"
+        ],
+        "correcta": "salvo que una norma con rango de Ley establezca uno mayor o así venga previsto en el Derecho de la Unión Europea"
+    },
+    {
+        "pregunta": "10.      El transcurso del plazo máximo legal para resolver un procedimiento y notificar la resolución se suspenderá cuando:",
+        "opciones": [
+            "una Administración Pública requiera a otra para que anule o revise un acto que entienda que es legal y que constituya la base para el que la primera haya de dictar en el ámbito de sus competencias",
+            "el órgano competente para resolver decida realizar alguna actuación complementaria de las previstas en el artículo 87",
+            "cualquier persona promueva la recusación en cualquier momento de la tramitación de un procedimiento",
+            "todas son correctas"
+        ],
+        "correcta": "el órgano competente para resolver decida realizar alguna actuación complementaria de las previstas en el artículo 87"
+    },
+    {
+        "pregunta": "11.      Como regla general, en los procedimientos iniciados a solicitud del interesado, el vencimiento del plazo máximo sin haberse notificado resolución expresa, legitima al interesado o interesados para entenderla:",
+        "opciones": [
+            "estimada por silencio administrativo",
+            "desestimada por silencio administrativo",
+            "caducada por silencio administrativo",
+            "ninguna es correcta"
+        ],
+        "correcta": "estimada por silencio administrativo"
+    },
+    {
+        "pregunta": "12.      El silencio tendrá efecto desestimatorio en los procedimientos: (señala la incorrecta)",
+        "opciones": [
+            "relativos al ejercicio del derecho de petición",
+            "cuya estimación tuviera como consecuencia que se transfirieran al solicitante o a terceros facultades relativas al dominio público o al servicio público",
+            "que impliquen el ejercicio de actividades que puedan dañar el medio ambiente",
+            "de responsabilidad civil de las Administraciones Públicas"
+        ],
+        "correcta": "de responsabilidad civil de las Administraciones Públicas"
+    },
+    {
+        "pregunta": "13.      El plazo para notificar la resolución expresa en los procedimientos iniciados a solicitud del interesado se contará:",
+        "opciones": [
+            "desde la fecha del acuerdo de iniciación",
+            "desde la fecha en que la solicitud haya tenido entrada en el registro electrónico de la Administración u Organismo competente para su tramitación",
+            "desde el día siguiente a la fecha en que la solicitud haya tenido entrada en el registro electrónico de la Administración u Organismo competente para su tramitación",
+            "desde el día siguiente a la fecha del acuerdo de iniciación"
+        ],
+        "correcta": "desde la fecha en que la solicitud haya tenido entrada en el registro electrónico de la Administración u Organismo competente para su tramitación"
+    },
+    {
+        "pregunta": "14.      En los procedimientos de impugnación de actos y disposiciones el sentido del silencio:",
+        "opciones": [
+            "será estimatorio",
+            "será desestimatorio",
+            "producirá la caducidad del procedimiento",
+            "todas son correctas"
+        ],
+        "correcta": "será desestimatorio"
+    },
+    {
+        "pregunta": "15.      Si, llegado el plazo de resolución, el órgano administrativo competente no dictase y notificase resolución expresa:",
+        "opciones": [
+            "se entenderá estimado el recurso de alzada que se haya interpuesto contra la estimación por silencio administrativo de una solicitud por el transcurso del plazo",
+            "se entenderá desestimado el recurso de alzada que se haya interpuesto contra la estimación por silencio administrativo de una solicitud por el transcurso del plazo",
+            "se entenderá desestimado el recurso de alzada que se haya interpuesto contra la desestimación por silencio administrativo de una solicitud por el transcurso del plazo",
+            "se entenderá estimado el recurso de alzada que se haya interpuesto contra la desestimación por silencio administrativo de una solicitud por el transcurso del plazo"
+        ],
+        "correcta": "se entenderá estimado el recurso de alzada que se haya interpuesto contra la desestimación por silencio administrativo de una solicitud por el transcurso del plazo"
+    },
+    {
+        "pregunta": "16.      Respecto al silencio administrativo: (señala la incorrecta)",
+        "opciones": [
+            "la estimación por silencio administrativo tiene a todos los efectos la consideración de acto administrativo finalizador del procedimiento",
+            "la desestimación por silencio administrativo tiene los solos efectos de permitir a los interesados la interposición del recurso que proceda",
+            "en los casos de estimación por silencio administrativo, la resolución expresa posterior a la producción del acto sólo podrá dictarse de ser confirmatoria del mismo",
+            "en los casos de desestimación por silencio administrativo, la resolución expresa posterior al vencimiento del plazo se adoptará por la Administración teniendo en cuenta el sentido del silencio"
+        ],
+        "correcta": "en los casos de desestimación por silencio administrativo, la resolución expresa posterior al vencimiento del plazo se adoptará por la Administración teniendo en cuenta el sentido del silencio"
+    },
+    {
+        "pregunta": "17.      Los actos administrativos producidos por silencio administrativo se podrán hacer valer ante:",
+        "opciones": [
+            "la Administración",
+            "cualquier persona física",
+            "cualquier persona jurídica, pública o privada",
+            "todas son correctas"
+        ],
+        "correcta": "todas son correctas"
+    },
+    {
+        "pregunta": "18.      Los actos administrativos producidos por silencio administrativo producen efectos:",
+        "opciones": [
+            "desde el vencimiento del plazo máximo en el que debe dictarse y notificarse la resolución expresa sin que la misma se haya expedido",
+            "desde que se obtenga el certificado acreditativo del silencio producido",
+            "pasados tres meses desde el vencimiento del plazo máximo en el que debía haber dictado y notificado la resolución expresa",
+            "ninguna es correcta"
+        ],
+        "correcta": "desde el vencimiento del plazo máximo en el que debe dictarse y notificarse la resolución expresa sin que la misma se haya expedido"
+    },
+    {
+        "pregunta": "19.      El certificado acreditativo del silencio producido se expedirá de oficio por el órgano competente para resolver en el plazo de::",
+        "opciones": [
+            "10 días desde que expire el plazo máximo para resolver el procedimiento",
+            "15 días desde que expire el plazo máximo para resolver el procedimiento",
+            "20 días desde que expire el plazo máximo para resolver el procedimiento",
+            "30 días desde que expire el plazo máximo para resolver el procedimiento"
+        ],
+        "correcta": "15 días desde que expire el plazo máximo para resolver el procedimiento"
+    },
+    {
+        "pregunta": "20.      En los procedimientos de revisión de oficio iniciados a solicitud de los interesados el sentido del silencio:",
+        "opciones": [
+            "será estimatorio",
+            "será desestimatorio",
+            "producirá la caducidad del procedimiento",
+            "todas son correctas"
+        ],
+        "correcta": "será desestimatorio"
+    },
+    {
+        "pregunta": "1.      El interesado podrá pedir certificado acreditativo del silencio producido:",
+        "opciones": [
+            "en cualquier momento",
+            "a los 15 días desde que expire el plazo máximo para resolver el procedimiento",
+            "al día siguiente desde que expire el plazo máximo para resolver el procedimiento",
+            "ninguna es correcta"
+        ],
+        "correcta": "en cualquier momento"
+    },
+    {
+        "pregunta": "2.      En los procedimientos iniciados de oficio, el vencimiento del plazo máximo establecido sin que se haya dictado y notificado resolución:",
+        "opciones": [
+            "exime a la Administración del cumplimiento de la obligación legal de resolver",
+            "no exime a la Administración del cumplimiento de la obligación legal de resolver",
+            "implica la prórroga automática del plazo para resolver por un mes",
+            "ninguna es correcta"
+        ],
+        "correcta": "no exime a la Administración del cumplimiento de la obligación legal de resolver"
+    },
+    {
+        "pregunta": "3.      Una vez vencido el plazo para dictar y notificar resolución, en procedimientos iniciados de oficio de los que pudiera derivarse el reconocimiento o la constitución de derechos u otras situaciones jurídicas favorables:",
+        "opciones": [
+            "los interesados que hubieren comparecido podrán entender estimadas sus pretensiones por silencio administrativo",
+            "los interesados que hubieren comparecido podrán entender desestimadas sus pretensiones por silencio administrativo",
+            "se producirá la caducidad",
+            "se producirá la prescripción"
+        ],
+        "correcta": "los interesados que hubieren comparecido podrán entender desestimadas sus pretensiones por silencio administrativo"
+    },
+    {
+        "pregunta": "4.       Una vez vencido el plazo para dictar y notificar resolución, en procedimientos en que la Administración ejercite potestades sancionadoras o, en general, de intervención, susceptibles de producir efectos desfavorables o de gravamen:",
+        "opciones": [
+            "los interesados que hubieren comparecido podrán entender estimadas sus pretensiones por silencio administrativo",
+            "los interesados que hubieren comparecido podrán entender desestimadas sus pretensiones por silencio administrativo",
+            "se producirá la caducidad",
+            "se producirá la prescripción"
+        ],
+        "correcta": "se producirá la caducidad"
+    },
+    {
+        "pregunta": "5.      El artículo 25.2 de la Ley 39/2015, de 1 de octubre, establece que en los supuestos en los que el procedimiento se hubiera paralizado por:",
+        "opciones": [
+            "causa imputable al interesado se interrumpirá el cómputo del plazo para resolver y notificar la resolución",
+            "causa no imputable al interesado se interrumpirá el cómputo del plazo para resolver y notificar la resolución",
+            "causa imputable al interesado no se interrumpirá el cómputo del plazo para resolver y notificar la resolución",
+            "causa no imputable al interesado no se interrumpirá el cómputo del plazo para resolver y notificar la resolución"
+        ],
+        "correcta": "causa imputable al interesado se interrumpirá el cómputo del plazo para resolver y notificar la resolución"
+    },
+    {
+        "pregunta": "6.       Se entiende por documentos públicos administrativos:",
+        "opciones": [
+            "los válidamente emitidos por los órganos de las Administraciones Públicas",
+            "los remitidos por personas físicas o jurídicas a los órganos de las Administraciones Públicas",
+            "a y b son correctas",
+            "a y b son incorrectas"
+        ],
+        "correcta": "los válidamente emitidos por los órganos de las Administraciones Públicas"
+    },
+    {
+        "pregunta": "7.      Las Administraciones Públicas emitirán los documentos administrativos:",
+        "opciones": [
+            "por escrito, a través de medios electrónicos, o verbalmente si así lo solicita el interesado",
+            "por escrito, a través de medios no electrónicos, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia",
+            "por escrito, a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia",
+            "por escrito, a través de medios no electrónicos, o verbalmente si así lo solicita el interesado"
+        ],
+        "correcta": "por escrito, a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia"
+    },
+    {
+        "pregunta": "8.      Para ser considerados válidos, los documentos electrónicos administrativos deberán:",
+        "opciones": [
+            "disponer de los datos de identificación que permitan su individualización",
+            "incorporar una referencia temporal del momento en que han sido emitidos",
+            "incorporar las firmas electrónicas que correspondan de acuerdo con lo previsto en la normativa aplicable",
+            "todas son correctas"
+        ],
+        "correcta": "todas son correctas"
+    },
+    {
+        "pregunta": "9.      Los documentos electrónicos emitidos por las Administraciones Públicas:",
+        "opciones": [
+            "requerirán, en todo caso, de firma electrónica",
+            "no requerirán de firma electrónica, salvo aquellos que se publiquen con carácter meramente informativo",
+            "no requerirán de firma electrónica si se publican con carácter meramente informativo y aquellos que no formen parte de un expediente administrativo",
+            "no requerirán, en ningún caso, de firma electrónica"
+        ],
+        "correcta": "no requerirán de firma electrónica si se publican con carácter meramente informativo y aquellos que no formen parte de un expediente administrativo"
+    },
+    {
+        "pregunta": "10.      Respecto a los documentos electrónicos emitidos por las Administraciones Públicas será necesiario, en todo caso, identificar:",
+        "opciones": [
+            "la validez de estos documentos",
+            "el origen de estos documentos",
+            "el alcance de estos documentos",
+            "el destino de estos documentos"
+        ],
+        "correcta": "el origen de estos documentos"
+    },
+    {
+        "pregunta": "11.      Señala la correcta:",
+        "opciones": [
+            "la Administración General del Estado determinará los órganos que tengan atribuidas las competencias de expedición de copias auténticas de los documentos públicos administrativos o privados",
+            "cada Administración Pública determinará los órganos que tengan atribuidas las competencias de expedición de copias auténticas de los documentos públicos administrativos",
+            "la Administración General del Estado determinará los órganos que tengan atribuidas las competencias de expedición de copias auténticas de los documentos públicos administrativos",
+            "cada Administración Pública determinará los órganos que tengan atribuidas las competencias de expedición de copias auténticas de los documentos públicos administrativos o privados"
+        ],
+        "correcta": "cada Administración Pública determinará los órganos que tengan atribuidas las competencias de expedición de copias auténticas de los documentos públicos administrativos o privados"
+    },
+    {
+        "pregunta": "12.      Las copias auténticas de documentos privados:",
+        "opciones": [
+            "surten únicamente efectos administrativos",
+            "no tendrán ningún efecto administrativo",
+            "tendrán validez en todas las Administraciones",
+            "ninguna es correcta"
+        ],
+        "correcta": "surten únicamente efectos administrativos"
+    },
+    {
+        "pregunta": "13.      Las copias auténticas realizadas por una Administración Pública:",
+        "opciones": [
+            "surten únicamente efectos administrativos",
+            "no tendrán ningún efecto administrativo",
+            "únicamente tendrán validez en la misma Administración",
+            "tendrán validez en las restantes Administraciones"
+        ],
+        "correcta": "tendrán validez en las restantes Administraciones"
+    },
+    {
+        "pregunta": "14.      La Administración General del Estado, las Comunidades Autónomas y las Entidades Locales podrán realizar copias auténticas:",
+        "opciones": [
+            "mediante funcionario habilitado",
+            "mediante actuación administrativa automatizada",
+            "a y b son correctas",
+            "a y b son incorrectas"
+        ],
+        "correcta": "a y b son correctas"
+    },
+    {
+        "pregunta": "15.      Tendrán la consideración de copia auténtica de un documento público administrativo o privado las realizadas:",
+        "opciones": [
+            "mediante medios electrónicos, por los órganos competentes de las Administraciones Públicas en las que quede garantizada la identidad del órgano que ha realizado la copia y su contenido",
+            "cualquiera que sea su soporte, por los órganos competentes de las Administraciones Públicas en las que quede garantizada la identidad del órgano que ha realizado la copia",
+            "mediante medios electrónicos, por los órganos competentes de las Administraciones Públicas en las que quede garantizada la identidad del órgano que ha realizado la copia",
+            "cualquiera que sea su soporte, por los órganos competentes de las Administraciones Públicas en las que quede garantizada la identidad del órgano que ha realizado la copia y su contenido"
+        ],
+        "correcta": "cualquiera que sea su soporte, por los órganos competentes de las Administraciones Públicas en las que quede garantizada la identidad del órgano que ha realizado la copia y su contenido"
+    },
+    {
+        "pregunta": "16.      Las copias auténticas:",
+        "opciones": [
+            "tendrán la misma validez y eficacia que los documentos originales",
+            "siempre que se trate de documentos no electrónicos tendrán la misma validez y eficacia que los documentos originales",
+            "tendrán la misma validez y eficacia que los documentos originales durante los siguientes 10 años de su expedición",
+            "tendrán la misma validez y eficacia que los documentos originales siempre y cuando vayan acompañadas de estos últimos"
+        ],
+        "correcta": "tendrán la misma validez y eficacia que los documentos originales"
+    },
+    {
+        "pregunta": "17.       Para garantizar la identidad y contenido de las copias electrónicas o en papel, y por tanto su carácter de copias auténticas, las Administraciones Públicas deberán ajustarse a lo previsto en:",
+        "opciones": [
+            "el Esquema Nacional de Interoperabilidad",
+            "el Esquema Nacional de Seguridad",
+            "las normas técnicas de desarrollo del Esquema Nacional de Seguridad",
+            "todas son correctas"
+        ],
+        "correcta": "todas son correctas"
+    },
+    {
+        "pregunta": "18.      Las Administraciones harán públicos los códigos seguros de verificación u otro sistema de verificación utilizado a través de:",
+        "opciones": [
+            "las oficinas de asistencia en materia de registros",
+            "la sede electrónica correspondiente",
+            "el órgano administrativo correspondiente",
+            "la Agencia Española de Seguridad Informática"
+        ],
+        "correcta": "la sede electrónica correspondiente"
+    },
+    {
+        "pregunta": "19.      Las copias auténticas de los documentos públicos administrativos que hayan sido válidamente emitidos por las Administraciones Públicas se expedirán en un plazo de:",
+        "opciones": [
+            "10 días desde la recepción de la solicitud en el registro electrónico de la Administración u Organismo competente",
+            "15 días desde la recepción de la solicitud en el registro electrónico de la Administración u Organismo competente",
+            "20 días desde la recepción de la solicitud en el registro electrónico de la Administración u Organismo competente",
+            "30 días desde la recepción de la solicitud en el registro electrónico de la Administración u Organismo competente"
+        ],
+        "correcta": "15 días desde la recepción de la solicitud en el registro electrónico de la Administración u Organismo competente"
+    },
+    {
+        "pregunta": "20.      Señala la incorrecta:",
+        "opciones": [
+            "los interesados podrán solicitar, en cualquier momento, la expedición de copias auténticas de los documentos públicos administrativos que hayan sido válidamente emitidos por las Administraciones Públicas",
+            "las Administraciones Públicas estarán obligadas a expedir copias auténticas electrónicas de cualquier documento en papel que presenten los interesados y que se vaya a incorporar a un expediente administrativo",
+            "cuando las Administraciones Públicas expidan copias auténticas electrónicas, deberá quedar expresamente así indicado en el documento de la copia",
+            "la expedición de copias auténticas de documentos públicos notariales, registrales y judiciales, así como de los diarios oficiales, se regirá por la presente ley"
+        ],
+        "correcta": "la expedición de copias auténticas de documentos públicos notariales, registrales y judiciales, así como de los diarios oficiales, se regirá por la presente ley"
+    },
+    {
+        "pregunta": "1.      No es correcto respecto a los interesados:",
+        "opciones": [
+            "deberán aportar al procedimiento administrativo los datos y documentos exigidos por las Administraciones Públicas de acuerdo con lo dispuesto en la normativa aplicable",
+            "no podrán aportar cualquier documento que estimen conveniente",
+            "tienen derecho a no aportar documentos que ya se encuentren en poder de la Administración actuante",
+            "tienen derecho a no aportar documentos que hayan sido elaborados por cualquier otra Administración"
+        ],
+        "correcta": "no podrán aportar cualquier documento que estimen conveniente"
+    },
+    {
+        "pregunta": "2.      No es correcto respecto a los documentos aportados por los interesados al procedimiento administrativo:",
+        "opciones": [
+            "la administración actuante podrá consultar o recabar documentos que ya se encuentren en poder de la Administración actuante salvo que el interesado se opusiera a ello",
+            "la oposición del interesado a la consulta de los documentos por la administración actuante solo será posible cuando la aportación del documento se exigiera en el marco del ejercicio de potestades sancionadoras o de inspección",
+            "las Administraciones Públicas deberán recabar los documentos electrónicamente a través de sus redes corporativas",
+            "las Administraciones Públicas deberán recabar los documentos mediante consulta a las plataformas de intermediación de datos u otros sistemas electrónicos habilitados al efecto"
+        ],
+        "correcta": "la oposición del interesado a la consulta de los documentos por la administración actuante solo será posible cuando la aportación del documento se exigiera en el marco del ejercicio de potestades sancionadoras o de inspección"
+    },
+    {
+        "pregunta": "3.      Cuando se trate de informes preceptivos ya elaborados por un órgano administrativo distinto al que tramita el procedimiento, éstos deberán ser remitidos en el plazo de:",
+        "opciones": [
+            "10 días a contar desde su solicitud",
+            "15 días a contar desde su solicitud",
+            "20 días a contar desde su solicitud",
+            "30 días a contar desde su solicitud"
+        ],
+        "correcta": "10 días a contar desde su solicitud"
+    },
+    {
+        "pregunta": "4.      Las Administraciones no exigirán a los interesados la presentación de documentos originales:",
+        "opciones": [
+            "en ningún caso",
+            "salvo que ya obraran en poder de la Administración",
+            "salvo que, con carácter excepcional, la normativa reguladora aplicable establezca lo contrario",
+            "ninguna es correcta"
+        ],
+        "correcta": "salvo que, con carácter excepcional, la normativa reguladora aplicable establezca lo contrario"
+    },
+    {
+        "pregunta": "5.      Las Administraciones Públicas no requerirán a los interesados datos o documentos:",
+        "opciones": [
+            "no exigidos por la normativa reguladora aplicable o que no hayan sido aportados anteriormente por el interesado a ninguna Administración",
+            "exigidos por la normativa reguladora aplicable o que no hayan sido aportados anteriormente por el interesado a ninguna Administración",
+            "exigidos por la normativa reguladora aplicable o que hayan sido aportados anteriormente por el interesado a cualquier Administración",
+            "no exigidos por la normativa reguladora aplicable o que hayan sido aportados anteriormente por el interesado a cualquier Administración"
+        ],
+        "correcta": "no exigidos por la normativa reguladora aplicable o que hayan sido aportados anteriormente por el interesado a cualquier Administración"
+    },
+    {
+        "pregunta": "6.      Señala la incorrecta:",
+        "opciones": [
+            "excepcionalmente, cuando la relevancia del documento en el procedimiento lo exija o existan dudas derivadas de la calidad de la copia, las Administraciones podrán solicitar de manera motivada el cotejo de las copias aportadas por el interesado, para lo que podrán requerir la exhibición del documento o de la información original",
+            "las copias que aporten los interesados al procedimiento administrativo tendrán eficacia, dentro y fuera del ámbito de la actividad de las Administraciones Públicas",
+            "los interesados se responsabilizarán de la veracidad de los documentos que presenten",
+            "todas son correctas"
+        ],
+        "correcta": "las copias que aporten los interesados al procedimiento administrativo tendrán eficacia, dentro y fuera del ámbito de la actividad de las Administraciones Públicas"
+    },
+    {
+        "pregunta": "7.      Los términos y plazos establecidos en ésta u otras leyes obligan a:",
+        "opciones": [
+            "las autoridades al servicio de las Administraciones Públicas competentes para la tramitación de los asuntos",
+            "el personal al servicio de las Administraciones Públicas competentes para la tramitación de los asuntos",
+            "los interesados en la tramitación de los asuntos",
+            "todas son correctas"
+        ],
+        "correcta": "todas son correctas"
+    },
+    {
+        "pregunta": "8.      Podrá/n realizar copias auténticas mediante funcionario habilitado o mediante actuación administrativa automatizada:",
+        "opciones": [
+            "la Administración General del Estado",
+            "la Administración General del Estado y  las Comunidades Autónomas",
+            "las Entidades Locales",
+            "la Administración General del Estado, las Comunidades Autónomas y las Entidades Locales"
+        ],
+        "correcta": "la Administración General del Estado, las Comunidades Autónomas y las Entidades Locales"
+    },
+    {
+        "pregunta": "9.      Cuando los plazos se señalen por horas, se entiende que éstas son hábiles:",
+        "opciones": [
+            "salvo que reglamentariamente se disponga otro cómputo",
+            "salvo que por Ley se disponga otro cómputo",
+            "salvo que por Ley o en el Derecho de la Unión Europea se disponga otro cómputo",
+            "salvo que una norma con rango de ley o una norma de Derecho de la Unión Europea o de Derecho internacional disponga otro cómputo"
+        ],
+        "correcta": "salvo que por Ley o en el Derecho de la Unión Europea se disponga otro cómputo"
+    },
+    {
+        "pregunta": "10.      Son hábiles:",
+        "opciones": [
+            "las horas comprendidas entres las 8 de la mañana y las 9 de la noche del día",
+            "las horas comprendidas entres las 8 de la mañana y las 9 de la noche de un día hábil",
+            "todas las horas del día que formen parte del día",
+            "todas las horas del día que formen parte de un día hábil"
+        ],
+        "correcta": "todas las horas del día que formen parte de un día hábil"
+    },
+    {
+        "pregunta": "11.      Los plazos expresados por horas se contarán:",
+        "opciones": [
+            "se contarán de hora en hora desde la hora en que tenga lugar la realización del acto de que se trate",
+            "se contarán de hora en hora y de minuto en minuto desde la hora y minuto en que tenga lugar la notificación o publicación del acto de que se trate",
+            "se contarán de hora en hora desde la hora en que tenga lugar la notificación o publicación del acto de que se trate",
+            "se contarán de hora en hora y de minuto en minuto desde la hora y minuto en que tenga lugar la realización del acto de que se trate"
+        ],
+        "correcta": "se contarán de hora en hora y de minuto en minuto desde la hora y minuto en que tenga lugar la notificación o publicación del acto de que se trate"
+    },
+    {
+        "pregunta": "12.      Los plazos expresados por horas no podrán tener una duración:",
+        "opciones": [
+            "inferior a 1 hora, en cuyo caso se expresarán en minutos",
+            "inferior a 2 horas, en cuyo caso se expresarán en minutos",
+            "superior a 24 horas, en cuyo caso se expresarán en días",
+            "superior a 48 horas, en cuyo caso se expresarán en días"
+        ],
+        "correcta": "superior a 24 horas, en cuyo caso se expresarán en días"
+    },
+    {
+        "pregunta": "13.      Siempre que por Ley o en el Derecho de la Unión Europea no se exprese otro cómputo, cuando los plazos se señalen por días:",
+        "opciones": [
+            "se entiende que éstos son hábiles",
+            "se entiende que éstos son hábiles, excluyéndose del cómputo los declarados festivos",
+            "se entiende que éstos son hábiles, excluyéndose del cómputo los domingos y los declarados festivos",
+            "se entiende que éstos son hábiles, excluyéndose del cómputo los sábados, los domingos y los declarados festivos"
+        ],
+        "correcta": "se entiende que éstos son hábiles, excluyéndose del cómputo los sábados, los domingos y los declarados festivos"
+    },
+    {
+        "pregunta": "14.       Los plazos expresados en días se contarán a partir de:",
+        "opciones": [
+            "el día en que tenga lugar la notificación o publicación del acto de que se trate, o desde el día en que se produzca la estimación o la desestimación por silencio administrativo",
+            "el día siguiente a aquel en que tenga lugar la notificación o publicación del acto de que se trate, o desde el siguiente a aquel en que se produzca la estimación o la desestimación por silencio administrativo",
+            "el día en que tenga lugar la notificación o publicación del acto de que se trate, o desde el siguiente a aquel en que se produzca la estimación o la desestimación por silencio administrativo",
+            "el día siguiente a aquel en que tenga lugar la notificación o publicación del acto de que se trate, o desde el día en que se produzca la estimación o la desestimación por silencio administrativo"
+        ],
+        "correcta": "el día siguiente a aquel en que tenga lugar la notificación o publicación del acto de que se trate, o desde el siguiente a aquel en que se produzca la estimación o la desestimación por silencio administrativo"
+    },
+    {
+        "pregunta": "15.       Si el plazo se fija en meses o años, éstos se computarán a partir de:",
+        "opciones": [
+            "el día en que tenga lugar la notificación o publicación del acto de que se trate, o desde el día en que se produzca la estimación o la desestimación por silencio administrativo",
+            "el día siguiente a aquel en que tenga lugar la notificación o publicación del acto de que se trate, o desde el siguiente a aquel en que se produzca la estimación o la desestimación por silencio administrativo",
+            "el día en que tenga lugar la notificación o publicación del acto de que se trate, o desde el siguiente a aquel en que se produzca la estimación o la desestimación por silencio administrativo",
+            "el día siguiente a aquel en que tenga lugar la notificación o publicación del acto de que se trate, o desde el día en que se produzca la estimación o la desestimación por silencio administrativo"
+        ],
+        "correcta": "el día siguiente a aquel en que tenga lugar la notificación o publicación del acto de que se trate, o desde el siguiente a aquel en que se produzca la estimación o la desestimación por silencio administrativo"
+    },
+    {
+        "pregunta": "16.      Si el plazo se fija en meses o años, el plazo concluirá:",
+        "opciones": [
+            "el día antes en que se produjo la notificación, publicación o silencio administrativo en el mes o el año de vencimiento",
+            "el mismo día en que se produjo la notificación, publicación o silencio administrativo en el mes o el año de vencimiento",
+            "el día siguiente en que se produjo la notificación, publicación o silencio administrativo en el mes o el año de vencimiento",
+            "ninguna es correcta"
+        ],
+        "correcta": "el mismo día en que se produjo la notificación, publicación o silencio administrativo en el mes o el año de vencimiento"
+    },
+    {
+        "pregunta": "17.      Con sujeción al calendario laboral oficial, fijará/n, en su respectivo ámbito, el calendario de días inhábiles a efectos de cómputos de plazos:",
+        "opciones": [
+            "la Administración General del Estado",
+            "las Administraciones de las Comunidades Autónomas",
+            "la Administración General del Estado y las Administraciones de las Comunidades Autónomas",
+            "la Administración General del Estado, las Administraciones de las Comunidades Autónomas y las Entidades Locales"
+        ],
+        "correcta": "la Administración General del Estado y las Administraciones de las Comunidades Autónomas"
+    },
+    {
+        "pregunta": "18.      Señala la correcta:",
+        "opciones": [
+            "si en el mes de vencimiento no hubiera día equivalente a aquel en que comienza el cómputo, se entenderá que el plazo expira el primer día del mes siguiente",
+            "cuando los plazos se hayan señalado por días naturales por declararlo así una ley o por el Derecho de la Unión Europea, se hará constar esta circunstancia en las correspondientes notificaciones",
+            "cuando el último día del plazo sea inhábil, se entenderá prorrogado al primer día hábil anterior",
+            "cuando un día fuese hábil en el municipio o Comunidad Autónoma en que residiese el interesado, e inhábil en la sede del órgano administrativo, o a la inversa, se considerará hábil en todo caso"
+        ],
+        "correcta": "cuando los plazos se hayan señalado por días naturales por declararlo así una ley o por el Derecho de la Unión Europea, se hará constar esta circunstancia en las correspondientes notificaciones"
+    },
+    {
+        "pregunta": "19.      El calendario de días inhábiles a efectos de cómputos de plazos:",
+        "opciones": [
+            "deberá publicarse en el primer trimestre de cada año en el diario oficial que corresponda, así como en otros medios de difusión que garanticen su conocimiento generalizado",
+            "deberá publicarse antes del comienzo de cada año en el diario oficial que corresponda",
+            "deberá publicarse en el primer trimestre de cada año en el diario oficial que corresponda",
+            "deberá publicarse antes del comienzo de cada año en el diario oficial que corresponda, así como en otros medios de difusión que garanticen su conocimiento generalizado"
+        ],
+        "correcta": "deberá publicarse antes del comienzo de cada año en el diario oficial que corresponda, así como en otros medios de difusión que garanticen su conocimiento generalizado"
+    },
+    {
+        "pregunta": "20.       La declaración de un día como hábil o inhábil a efectos de cómputo de plazos no determina por sí sola:",
+        "opciones": [
+            "el funcionamiento de los centros de trabajo de las Administraciones Públicas",
+            "la organización del tiempo de trabajo",
+            "el régimen de jornada y horarios de las Administraciones Públicas",
+            "todas son correctas"
+        ],
+        "correcta": "todas son correctas"
+    },
+    {
+        "pregunta": "21.      Señala la incorrecta:",
+        "opciones": [
+            "cada Administración Pública publicará los días y el horario en el que deban permanecer abiertas las oficinas que prestarán asistencia para la presentación electrónica de documentos",
+            "se garantizará el derecho de los interesados a ser asistidos en el uso de medios electrónicos",
+            "el registro electrónico de cada Administración u Organismo se regirá a efectos de cómputo de los plazos, por la fecha y hora oficial de la oficina central",
+            "el registro electrónico de cada Administración u Organismo deberá contar con las medidas de seguridad necesarias para garantizar su integridad y figurar de modo accesible y visible."
+        ],
+        "correcta": "el registro electrónico de cada Administración u Organismo se regirá a efectos de cómputo de los plazos, por la fecha y hora oficial de la oficina central"
+    },
+    {
+        "pregunta": "1.     Respecto al funcionamiento del registro electrónico:",
+        "opciones": [
+            "permitirá la presentación de documentos todos los días hábiles del año entre las 8 y las 22 horas",
+            "permitirá la presentación de documentos todos los días del año durante las 24 horas",
+            "permitirá la presentación de documentos todos los días hábiles del año durante las 24 horas",
+            "permitirá la presentación de documentos todos los días del año entre las 8 y las 22 horas"
+        ],
+        "correcta": "permitirá la presentación de documentos todos los días del año durante las 24 horas"
+    },
+    {
+        "pregunta": "2.      A los efectos del cómputo de plazo fijado en días hábiles, y en lo que se refiere al cumplimiento de plazos por los interesados, la presentación de documentos en un registro electrónico un día inhábil:",
+        "opciones": [
+            "se entenderá realizada en la primera hora del primer día hábil siguiente salvo que una norma permita expresamente la recepción en día inhábil",
+            "se entenderá, en todo caso, realizada en la última hora del primer día hábil anterior",
+            "se entenderá, en todo caso, realizada en la primera hora del primer día hábil siguiente",
+            "se entenderá realizada en la última hora del primer día hábil anterior salvo que una norma permita expresamente la recepción en día inhábil."
+        ],
+        "correcta": "se entenderá realizada en la primera hora del primer día hábil siguiente salvo que una norma permita expresamente la recepción en día inhábil"
+    },
+    {
+        "pregunta": "3.      Respecto al funcionamiento del registro electrónico (señala la incorrecta):",
+        "opciones": [
+            "los documentos se considerarán presentados por el orden de hora efectiva en el que lo fueron en el día inhábil",
+            "los documentos presentados en el día inhábil se reputarán posteriores, según el mismo orden, a los que lo fueran el primer día hábil posterior",
+            "el inicio del cómputo de los plazos que hayan de cumplir las Administraciones Públicas vendrá determinado por la fecha y hora de presentación en el registro electrónico de cada Administración u Organismo",
+            "la fecha y hora efectiva de inicio del cómputo de plazos deberá ser comunicada a quien presentó el documento"
+        ],
+        "correcta": "los documentos presentados en el día inhábil se reputarán posteriores, según el mismo orden, a los que lo fueran el primer día hábil posterior"
+    },
+    {
+        "pregunta": "4.      Si las circunstancias lo aconsejan y con ello no se perjudican derechos de tercero, la Administración podrá conceder una ampliación de los plazos establecidos:",
+        "opciones": [
+            "que no exceda de una tercera parte de los mismos a petición de los interesados",
+            "que no exceda de la mitad de los mismos de oficio",
+            "que no exceda de una tercera parte de los mismos de oficio o a petición de los interesados",
+            "que no exceda de la mitad de los mismos de oficio o a petición de los interesados"
+        ],
+        "correcta": "que no exceda de la mitad de los mismos de oficio o a petición de los interesados"
+    },
+    {
+        "pregunta": "5.      La ampliación de los plazos por el tiempo máximo permitido se aplicará en todo caso a los procedimientos:",
+        "opciones": [
+            "tramitados por las misiones diplomáticas y oficinas consulares",
+            "que, sustanciándose en el interior, exijan cumplimentar algún trámite en el extranjero",
+            "en los que intervengan interesados residentes fuera de España",
+            "todas son correctas"
+        ],
+        "correcta": "todas son correctas"
+    },
+    {
+        "pregunta": "6.     Respecto a la ampliación de los plazos establecidos deberá producirse antes del vencimiento del plazo de que se trate:",
+        "opciones": [
+            "la petición de los interesados",
+            "tanto la petición de los interesados como la decisión sobre la ampliación",
+            "la petición de los interesados, aunque excepcionalmente y por causas justificadas se admitirá una vez cumplido el plazo",
+            "tanto la petición de los interesados como la decisión sobre la ampliación, aunque excepcionalmente y por causas justificadas se admitirá una vez cumplido el plazo"
+        ],
+        "correcta": "tanto la petición de los interesados como la decisión sobre la ampliación"
+    },
+    {
+        "pregunta": "7.      Respecto a la ampliación de plazos:",
+        "opciones": [
+            "excepcionalmente podrá ser objeto de ampliación un plazo ya vencido",
+            "los acuerdos sobre ampliación de plazos o sobre su denegación pueden ser recurridos",
+            "cuando una incidencia técnica haya imposibilitado el funcionamiento ordinario del sistema o aplicación que corresponda, y hasta que se solucione el problema, la Administración podrá determinar una ampliación de los plazos vencidos",
+            "ninguna es correcta"
+        ],
+        "correcta": "ninguna es correcta"
+    },
+    {
+        "pregunta": "8.      Cuando razones de interés público lo aconsejen, se podrá acordar la aplicación al procedimiento de la tramitación de urgencia:",
+        "opciones": [
+            "de oficio por la cual se reducirán un tercio los plazos establecidos para el procedimiento ordinario",
+            "a petición del interesado por la cual se reducirán a la mitad los plazos establecidos para el procedimiento ordinario",
+            "de oficio o a petición del interesado por la cual se reducirán un tercio los plazos establecidos para el procedimiento ordinario",
+            "de oficio o a petición del interesado por la cual se reducirán a la mitad los plazos establecidos para el procedimiento ordinario"
+        ],
+        "correcta": "de oficio o a petición del interesado por la cual se reducirán a la mitad los plazos establecidos para el procedimiento ordinario"
+    },
+    {
+        "pregunta": "9.      Cuando razones de interés público lo aconsejen, se podrá acordar la aplicación al procedimiento de la tramitación de urgencia, por la cual se reducirán los plazos establecidos para el procedimiento ordinario, salvo los relativos a:",
+        "opciones": [
+            "la presentación de solicitudes y recursos",
+            "las alegaciones y resolución",
+            "la práctica de la prueba y la emisión de informes",
+            "el trámite de audiencia y de información pública"
+        ],
+        "correcta": "la presentación de solicitudes y recursos"
+    },
+    {
+        "pregunta": "10.      Contra el acuerdo que declare la aplicación de la tramitación de urgencia al procedimiento:",
+        "opciones": [
+            "cabe interponer recurso de alzada",
+            "cabe interponer recurso potestativo de reposición",
+            "cabe interponer recurso extraordinario de revisión",
+            "no cabrá recurso alguno, sin perjuicio del procedente contra la resolución que ponga fin al procedimiento"
+        ],
+        "correcta": "no cabrá recurso alguno, sin perjuicio del procedente contra la resolución que ponga fin al procedimiento"
+    },
+    {
+        "pregunta": "11.      El Título II de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas se denomina:",
+        "opciones": [
+            "De los interesados en el procedimiento",
+            "De la actividad de las Administraciones Públicas",
+            "De los actos administrativos",
+            "De las disposiciones sobre el procedimiento administrativo común"
+        ],
+        "correcta": "De la actividad de las Administraciones Públicas"
+    },
+    {
+        "pregunta": "12.      El Título II de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas tiene:",
+        "opciones": [
+            "1 capítulo",
+            "2 capítulos",
+            "3 capítulos",
+            "4 capítulos"
+        ],
+        "correcta": "2 capítulos"
+    },
+    {
+        "pregunta": "13.      El Título II de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas comprende los artículos:",
+        "opciones": [
+            "10 a 30",
+            "12 a 34",
+            "13 a 33",
+            "15 a 36"
+        ],
+        "correcta": "13 a 33"
+    },
+    {
+        "pregunta": "1.      Los actos administrativos que dicten las Administraciones Públicas:",
+        "opciones": [
+            "a instancia del interesado, se producirán por el órgano competente ajustándose a los requisitos y al procedimiento establecido",
+            "de oficio, se producirán por el órgano competente ajustándose a los requisitos y al procedimiento establecido",
+            "de oficio o a instancia del interesado, se producirán por el órgano competente ajustándose a los requisitos y al procedimiento establecido",
+            "ninguna es correcta"
+        ],
+        "correcta": "de oficio o a instancia del interesado, se producirán por el órgano competente ajustándose a los requisitos y al procedimiento establecido"
+    },
+    {
+        "pregunta": "2.      El contenido de los actos se ajustará:",
+        "opciones": [
+            "a lo dispuesto por el ordenamiento jurídico y será determinado y adecuado a los fines de aquéllos",
+            "exclusivamente a lo dispuesto por la presente ley y será determinado y adecuado a los fines del ordenamiento jurídico",
+            "a lo dispuesto por el ordenamiento jurídico y será determinado y adecuado a los fines de la presente ley",
+            "exclusivamente a lo dispuesto por la presente ley y será determinado y adecuado a los fines de aquéllos"
+        ],
+        "correcta": "a lo dispuesto por el ordenamiento jurídico y será determinado y adecuado a los fines de aquéllos"
+    },
+    {
+        "pregunta": "3.      Serán motivados, con sucinta referencia de hechos y fundamentos de derecho (señala la incorrecta):",
+        "opciones": [
+            "los actos que limiten derechos subjetivos o intereses legítimos",
+            "los actos que resuelvan procedimientos de revisión de oficio de disposiciones o actos administrativos",
+            "los acuerdos de acumulación de un procedimiento a otro con el que guarde identidad sustancial o íntima conexión",
+            "los acuerdos de suspensión de actos, cualquiera que sea el motivo de ésta"
+        ],
+        "correcta": "los acuerdos de acumulación de un procedimiento a otro con el que guarde identidad sustancial o íntima conexión"
+    },
+    {
+        "pregunta": "4.      Serán motivados, con sucinta referencia de hechos y fundamentos de derecho (señala la incorrecta):",
+        "opciones": [
+            "los actos que acuerden la terminación del procedimiento por la imposibilidad material de continuarlo por causas sobrevenidas",
+            "las propuestas de resolución en los procedimientos de carácter sancionador",
+            "los actos que rechacen pruebas propuestas por la Administración",
+            "los actos que se dicten en el ejercicio de potestades discrecionales"
+        ],
+        "correcta": "los actos que rechacen pruebas propuestas por la Administración"
+    },
+    {
+        "pregunta": "5.      Serán motivados, con sucinta referencia de hechos y fundamentos de derecho (señala la incorrecta):",
+        "opciones": [
+            "los actos que resuelvan recursos administrativos y procedimientos de arbitraje y los que declaren su admisión",
+            "los actos que se separen del criterio seguido en actuaciones precedentes o del dictamen de órganos consultivos",
+            "la adopción de medidas provisionales",
+            "los acuerdos de aplicación de la tramitación de urgencia"
+        ],
+        "correcta": "los actos que resuelvan recursos administrativos y procedimientos de arbitraje y los que declaren su admisión"
+    },
+    {
+        "pregunta": "6.      Serán motivados, con sucinta referencia de hechos y fundamentos de derecho (señala la incorrecta):",
+        "opciones": [
+            "los acuerdos de aplicación de ampliación de plazos y de realización de actuaciones complementarias",
+            "los actos que acuerden el desistimiento por la Administración en procedimientos iniciados a instancia del interesado",
+            "los actos que resuelvan procedimientos de carácter sancionador o de responsabilidad patrimonial",
+            "los actos que deban serlo en virtud de disposición legal o reglamentaria expresa"
+        ],
+        "correcta": "los actos que acuerden el desistimiento por la Administración en procedimientos iniciados a instancia del interesado"
+    },
+    {
+        "pregunta": "7.      La motivación de los actos que pongan fin a los procedimientos selectivos y de concurrencia competitiva:",
+        "opciones": [
+            "se realizará de conformidad con lo que dispongan la presente ley",
+            "se realizará de conformidad con lo que dispongan las normas que regulen sus convocatorias, debiendo, en todo caso, quedar acreditados en el procedimiento los fundamentos de la resolución que se adopte",
+            "se realizará de conformidad con lo que dispongan las normas que regulen sus convocatorias, sin necesidad de que queden acreditados en el procedimiento los fundamentos de la resolución que se adopte",
+            "no precisarán de motivación"
+        ],
+        "correcta": "se realizará de conformidad con lo que dispongan las normas que regulen sus convocatorias, debiendo, en todo caso, quedar acreditados en el procedimiento los fundamentos de la resolución que se adopte"
+    },
+    {
+        "pregunta": "8.      Los actos administrativos, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia, se producirán:",
+        "opciones": [
+            "por escrito a través de medios electrónicos",
+            "por escrito a través de medios no electrónicos",
+            "por escrito a través de medios electrónicos o no electrónicos",
+            "verbalmente"
+        ],
+        "correcta": "por escrito a través de medios electrónicos"
+    },
+    {
+        "pregunta": "9.      En los casos en que los órganos administrativos ejerzan su competencia de forma verbal, la constancia escrita del acto, cuando sea necesaria, se efectuará y firmará por:",
+        "opciones": [
+            "el titular del órgano inferior",
+            "el titular del órgano inferior o funcionario que la reciba oralmente",
+            "el titular del órgano superior o funcionario que la reciba oralmente",
+            "el titular del órgano superior"
+        ],
+        "correcta": "el titular del órgano inferior o funcionario que la reciba oralmente"
+    },
+    {
+        "pregunta": "10.      Podrán refundirse en un único acto, acordado por el órgano competente, que especificará las personas u otras circunstancias que individualicen los efectos del acto para cada interesado, cuando deba dictarse una serie de actos administrativos de la misma naturaleza, tales como:",
+        "opciones": [
+            "nombramientos",
+            "concesiones",
+            "licencias",
+            "todas son correctas"
+        ],
+        "correcta": "todas son correctas"
+    },
+    {
+        "pregunta": "11.      Respecto a la inderogalidad singular:",
+        "opciones": [
+            "las resoluciones administrativas de carácter particular no podrán vulnerar lo establecido en una disposición de carácter general, salvo que aquéllas procedan de un órgano de igual o superior jerarquía al que dictó la disposición general",
+            "las resoluciones administrativas de carácter general no podrán vulnerar lo establecido en una disposición de carácter particular, aunque aquéllas procedan de un órgano de igual o superior jerarquía al que dictó la disposición general",
+            "las resoluciones administrativas de carácter particular no podrán vulnerar lo establecido en una disposición de carácter general, aunque aquéllas procedan de un órgano de igual o superior jerarquía al que dictó la disposición general",
+            "las resoluciones administrativas de carácter general no podrán vulnerar lo establecido en una disposición de carácter particular, salvo que aquéllas procedan de un órgano de igual o superior jerarquía al que dictó la disposición general"
+        ],
+        "correcta": "las resoluciones administrativas de carácter particular no podrán vulnerar lo establecido en una disposición de carácter general, aunque aquéllas procedan de un órgano de igual o superior jerarquía al que dictó la disposición general"
+    },
+    {
+        "pregunta": "12.      Las resoluciones administrativas que vulneren lo establecido en una disposición reglamentaria:",
+        "opciones": [
+            "son nulas",
+            "son anulables",
+            "son válidas",
+            "no son recurribles"
+        ],
+        "correcta": "son nulas"
+    },
+    {
+        "pregunta": "13.      Los actos de las Administraciones Públicas sujetos al Derecho Administrativo serán ejecutivos con arreglo a lo dispuesto:",
+        "opciones": [
+            "en esta Ley",
+            "en la Ley reguladora de la Jurisdicción Contencioso-Administrativa",
+            "en la Ley de Régimen Jurídico del Sector Público",
+            "en la Constitución Española"
+        ],
+        "correcta": "en esta Ley"
+    },
+    {
+        "pregunta": "14.      Los actos de las Administraciones Públicas sujetos al Derecho Administrativo se presumirán válidos y producirán efectos desde:",
+        "opciones": [
+            "la fecha en que se dicten, salvo que en ellos se disponga otra cosa",
+            "el día siguiente a la fecha en que se dicten, en cualquier caso",
+            "el día siguiente a la fecha en que se dicten, salvo que en ellos se disponga otra cosa",
+            "la fecha en que se dicten, en cualquier caso"
+        ],
+        "correcta": "la fecha en que se dicten, salvo que en ellos se disponga otra cosa"
+    },
+    {
+        "pregunta": "15.      La eficacia de los actos quedará demorada cuando:",
+        "opciones": [
+            "así lo exija el contenido del acto",
+            "esté supeditada a su notificación o publicación",
+            "esté supeditada a aprobación superior",
+            "todas son correctas"
+        ],
+        "correcta": "todas son correctas"
+    },
+    {
+        "pregunta": "16.      Señala la correcta:",
+        "opciones": [
+            "excepcionalmente, podrá otorgarse eficacia retroactiva a los actos cuando se dicten en sustitución de actos anulados",
+            "excepcionalmente, podrá otorgarse eficacia retroactiva a los actos cuando se dicten en sustitución de actos nulos",
+            "en ningún caso, podrá otorgarse eficacia retroactiva a los actos cuando se dicten en sustitución de actos anulados",
+            "como regla general, podrá otorgarse eficacia retroactiva a los actos cuando se dicten en sustitución de actos nulos"
+        ],
+        "correcta": "excepcionalmente, podrá otorgarse eficacia retroactiva a los actos cuando se dicten en sustitución de actos anulados"
+    },
+    {
+        "pregunta": "17.      Las normas y actos dictados por los órganos de las Administraciones Públicas en el ejercicio de su propia competencia deberán ser observadas por el resto de los órganos administrativos:",
+        "opciones": [
+            "siempre que dependan jerárquicamente entre sí y dependan de la misma Administración",
+            "aunque no dependan jerárquicamente entre sí o pertenezcan a otra Administración",
+            "aunque no dependan jerárquicamente entre sí y dependan de la misma Administración",
+            "siempre que dependan jerárquicamente entre sí o pertenezcan a otra Administración"
+        ],
+        "correcta": "aunque no dependan jerárquicamente entre sí o pertenezcan a otra Administración"
+    },
+    {
+        "pregunta": "18.      Cuando una Administración Pública tenga que dictar, en el ámbito de sus competencias, un acto que necesariamente tenga por base otro dictado por una Administración Pública distinta y aquélla entienda que es ilegal, podrá requerir a ésta previamente para que anule o revise el acto y, de rechazar el requerimiento, podrá interponer:",
+        "opciones": [
+            "recurso de alzada",
+            "recurso potestativo de reposición",
+            "recurso extraordinario de revisión",
+            "recurso contencioso-administrativo"
+        ],
+        "correcta": "recurso contencioso-administrativo"
+    },
+    {
+        "pregunta": "19.      Toda notificación deberá ser cursada dentro del plazo de:",
+        "opciones": [
+            "5 días a partir de la fecha en que el acto haya sido dictado",
+            "10 días a partir de la fecha en que el acto haya sido dictado",
+            "15 días a partir de la fecha en que el acto haya sido dictado",
+            "20 días a partir de la fecha en que el acto haya sido dictado"
+        ],
+        "correcta": "10 días a partir de la fecha en que el acto haya sido dictado"
+    },
+    {
+        "pregunta": "20.      Excepcionalmente, podrá otorgarse eficacia retroactiva a los actos:",
+        "opciones": [
+            "cuando produzcan efectos favorables al interesado, siempre que los supuestos de hecho necesarios existieran ya en la fecha a que se retrotraiga la eficacia del acto",
+            "cuando produzcan efectos desfavorables al interesado, siempre que los supuestos de hecho necesarios no existieran en la fecha a que se retrotraiga la eficacia del acto",
+            "cuando produzcan efectos desfavorables al interesado, siempre que los supuestos de hecho necesarios existieran ya en la fecha a que se retrotraiga la eficacia del acto",
+            "cuando produzcan efectos favorables al interesado, siempre que los supuestos de hecho necesarios no existieran en la fecha a que se retrotraiga la eficacia del acto"
+        ],
+        "correcta": "cuando produzcan efectos favorables al interesado, siempre que los supuestos de hecho necesarios existieran ya en la fecha a que se retrotraiga la eficacia del acto"
+    },
+    {
+        "pregunta": "1.      Toda notificación deberá (señala la incorrecta):",
+        "opciones": [
+            "contener el texto íntegro de la resolución",
+            "indicar si pone fin o no a la vía administrativa",
+            "expresar los recursos que procedan, únicamente en vía administrativa",
+            "indicar el órgano ante el que hubieran de presentarse los recursos que procedan y el plazo para interponerlos"
+        ],
+        "correcta": "expresar los recursos que procedan, únicamente en vía administrativa"
+    },
+    {
+        "pregunta": "2.      Las notificaciones que, conteniendo el texto íntegro del acto, omitiesen alguno de los requisitos previstos en el artículo 40.2, surtirán efecto a partir de la fecha en que el interesado:",
+        "opciones": [
+            "realice actuaciones que supongan el conocimiento del contenido y alcance de la resolución o acto objeto de la notificación",
+            "interponga cualquier recurso que proceda",
+            "realice actuaciones que supongan el conocimiento del contenido y alcance de la resolución o acto objeto de la notificación o interponga cualquier recurso procedente o no",
+            "a y b son correctas"
+        ],
+        "correcta": "a y b son correctas"
+    },
+    {
+        "pregunta": "3.       A los solos efectos de entender cumplida la obligación de notificar dentro del plazo máximo de duración de los procedimientos, será suficiente la notificación que contenga:",
+        "opciones": [
+            "el texto íntegro de la resolución, así como la indicación de si pone fin o no a la vía administrativa",
+            "el texto íntegro de la resolución, así como el intento de notificación debidamente acreditado",
+            "el texto íntegro de la resolución, así como la expresión de los recursos que procedan",
+            "el texto íntegro de la resolución"
+        ],
+        "correcta": "el texto íntegro de la resolución, así como el intento de notificación debidamente acreditado"
+    },
+    {
+        "pregunta": "4.      Las notificaciones se practicarán preferentemente:",
+        "opciones": [
+            "por medios electrónicos y, en todo caso, cuando el interesado resulte obligado a recibirlas por esta vía",
+            "por medios no electrónicos y, en todo caso, cuando el interesado resulte obligado a recibirlas por esta vía",
+            "verbalmente y, en todo caso, cuando el interesado resulte obligado a recibirlas por esta vía.",
+            "ninguna es correcta"
+        ],
+        "correcta": "por medios electrónicos y, en todo caso, cuando el interesado resulte obligado a recibirlas por esta vía"
+    },
+    {
+        "pregunta": "5.      Con independencia del medio utilizado, las notificaciones serán válidas siempre que permitan tener constancia de:",
+        "opciones": [
+            "su envío o puesta a disposición, de la recepción o acceso por el interesado o su representante",
+            "sus fechas y horas y del contenido íntegro",
+            "la identidad fidedigna del remitente y destinatario de la misma",
+            "todas son correctas"
+        ],
+        "correcta": "todas son correctas"
+    },
+    {
+        "pregunta": "6.      Señala la correcta:",
+        "opciones": [
+            "en ningún caso las Administraciones podrán establecer la obligación de practicar electrónicamente las notificaciones para determinados procedimientos o para ciertos colectivos de personas físicas",
+            "los interesados que estén obligados a recibir notificaciones electrónicas, podrán decidir y comunicar en cualquier momento a la Administración Pública que las notificaciones sucesivas se practiquen o dejen de practicarse por medios electrónicos",
+            "el interesado podrá identificar un dispositivo electrónico y/o una dirección de correo electrónico que servirán para el envío de los avisos y para la práctica de notificaciones",
+            "la acreditación de la notificación efectuada se incorporará al expediente"
+        ],
+        "correcta": "la acreditación de la notificación efectuada se incorporará al expediente"
+    },
+    {
+        "pregunta": "7.      En ningún caso se efectuarán por medios electrónicos las notificaciones:",
+        "opciones": [
+            "en las que el acto a notificar vaya acompañado de elementos que no sean susceptibles de conversión en formato electrónico",
+            "que contengan medios de pago a favor de los obligados, tales como cheques",
+            "a y b son correctas",
+            "a y b son incorrectas"
+        ],
+        "correcta": "a y b son correctas"
+    },
+    {
+        "pregunta": "8.      En los procedimientos iniciados a solicitud del interesado, la notificación se practicará:",
+        "opciones": [
+            "por medios electrónicos",
+            "por medios no electrónicos",
+            "por el medio señalado al efecto por aquel",
+            "por el medio señalado al efecto por la Administración"
+        ],
+        "correcta": "por el medio señalado al efecto por aquel"
+    },
+    {
+        "pregunta": "9.      En los procedimientos iniciados de oficio, a los solos efectos de su iniciación, las Administraciones Públicas podrán recabar , mediante consulta a las bases de datos de:",
+        "opciones": [
+            "el Centro de Investigaciones Sociológicas, los datos sobre el domicilio del interesado recogidos en el catastro virtual, remitidos por la Seguridad Social",
+            "el Instituto Nacional de Estadística, los datos sobre el domicilio del interesado recogidos en el catastro virtual, remitidos por las Entidades Locales",
+            "el Centro de Investigaciones Sociológicas, los datos sobre el domicilio del interesado recogidos en el Padrón Municipal, remitidos por las Entidades Locales",
+            "el Instituto Nacional de Estadística, los datos sobre el domicilio del interesado recogidos en el Padrón Municipal, remitidos por las Entidades Locales"
+        ],
+        "correcta": "el Instituto Nacional de Estadística, los datos sobre el domicilio del interesado recogidos en el Padrón Municipal, remitidos por las Entidades Locales"
+    },
+    {
+        "pregunta": "10.      Cuando el interesado o su representante rechace la notificación de una actuación administrativa:",
+        "opciones": [
+            "se hará constar en el expediente, especificándose las circunstancias del intento de notificación y el medio",
+            "se dará por efectuado el trámite",
+            "seguirá el procedimiento",
+            "todas son correctas"
+        ],
+        "correcta": "todas son correctas"
+    },
+    {
+        "pregunta": "11.      Las Administraciones Públicas enviarán un aviso al dispositivo electrónico y/o a la dirección de correo electrónico del interesado que éste haya comunicado, informándole de la puesta a disposición de una notificación en la sede electrónica de la Administración u Organismo correspondiente o en la dirección electrónica habilitada única:",
+        "opciones": [
+            "con independencia de que la notificación se realice en papel o por medios electrónicos. La falta de práctica de este aviso impedirá que la notificación sea considerada plenamente válida",
+            "cuando la notificación se realice por medios electrónicos. La falta de práctica de este aviso no impedirá que la notificación sea considerada plenamente válida",
+            "cuando la notificación se realice por medios electrónicos. La falta de práctica de este aviso impedirá que la notificación sea considerada plenamente válida",
+            "con independencia de que la notificación se realice en papel o por medios electrónicos. La falta de práctica de este aviso no impedirá que la notificación sea considerada plenamente válida"
+        ],
+        "correcta": "con independencia de que la notificación se realice en papel o por medios electrónicos. La falta de práctica de este aviso no impedirá que la notificación sea considerada plenamente válida"
+    },
+    {
+        "pregunta": "12.      Cuando el interesado fuera notificado por distintos cauces se tomará como fecha de notificación:",
+        "opciones": [
+            "la de aquélla que se hubiera producido en primer lugar",
+            "la de aquélla que se hubiera producido en último lugar",
+            "la de aquélla que elija el interesado",
+            "ninguna es correcta"
+        ],
+        "correcta": "la de aquélla que se hubiera producido en primer lugar"
+    },
+    {
+        "pregunta": "13.      Todas las notificaciones que se practiquen en papel deberán ser puestas a disposición del interesado para que pueda acceder al contenido de las mismas de forma voluntaria en:",
+        "opciones": [
+            "la sede electrónica de la Administración u Organismo actuante",
+            "el tablón de edictos del Ayuntamiento de su domicilio",
+            "en el Boletín Oficial del Estado, de la Comunidad Autónoma o de la Provincia, según cual sea la Administración de la que se proceda el acto a notificar",
+            "todas son correctas"
+        ],
+        "correcta": "la sede electrónica de la Administración u Organismo actuante"
+    },
+    {
+        "pregunta": "14.      Cuando la notificación se practique en el domicilio del interesado, de no hallarse presente éste en el momento de entregarse la notificación:",
+        "opciones": [
+            "podrá hacerse cargo de la misma cualquier persona mayor de 16 años que se encuentre en el domicilio y haga constar su identidad",
+            "podrá hacerse cargo de la misma cualquier persona mayor de 14 años que se encuentre en el edificio y haga constar su identidad",
+            "podrá hacerse cargo de la misma cualquier persona mayor de 14 años que se encuentre en el domicilio y haga constar su identidad",
+            "no podrá hacerse cargo ninguna otra persona"
+        ],
+        "correcta": "podrá hacerse cargo de la misma cualquier persona mayor de 14 años que se encuentre en el domicilio y haga constar su identidad"
+    },
+    {
+        "pregunta": "15.      Si nadie se hiciera cargo de la notificación, se hará constar esta circunstancia en el expediente, junto con el día y la hora en que se intentó la notificación:",
+        "opciones": [
+            "intento que se repetirá una sola vez y en una hora distinta dentro de los dos días siguientes",
+            "intento que se repetirá dos veces y en una hora distinta dentro de los tres días siguientes",
+            "intento que se repetirá una sola vez y en una hora distinta dentro de los tres días siguientes",
+            "intento que se repetirá dos veces y en una hora distinta dentro de los dos días siguientes"
+        ],
+        "correcta": "intento que se repetirá una sola vez y en una hora distinta dentro de los tres días siguientes"
+    },
+    {
+        "pregunta": "16.      En caso de que el primer intento de notificación se haya realizado antes de:",
+        "opciones": [
+            "las 14 horas, el segundo intento deberá realizarse después de las 14 horas y viceversa, dejando en todo caso al menos un margen de diferencia de dos horas entre ambos intentos de notificación",
+            "las 15 horas, el segundo intento deberá realizarse después de las 15 horas y viceversa, dejando en todo caso al menos un margen de diferencia de dos horas entre ambos intentos de notificación",
+            "las 14 horas, el segundo intento deberá realizarse después de las 14 horas y viceversa, dejando en todo caso al menos un margen de diferencia de tres horas entre ambos intentos de notificación",
+            "las 15 horas, el segundo intento deberá realizarse después de las 15 horas y viceversa, dejando en todo caso al menos un margen de diferencia de tres horas entre ambos intentos de notificación"
+        ],
+        "correcta": "las 15 horas, el segundo intento deberá realizarse después de las 15 horas y viceversa, dejando en todo caso al menos un margen de diferencia de tres horas entre ambos intentos de notificación"
+    },
+    {
+        "pregunta": "17.      Las notificaciones por medios electrónicos se practicarán:",
+        "opciones": [
+            "mediante comparecencia en la sede electrónica de la Administración u Organismo actuante",
+            "a través de la dirección electrónica habilitada única",
+            "mediante comparecencia en la sede electrónica de la Administración u Organismo actuante y a través de la dirección electrónica habilitada única",
+            "todas son correctas"
+        ],
+        "correcta": "todas son correctas"
+    },
+    {
+        "pregunta": "18.      Se entiende por comparecencia en la sede electrónica:",
+        "opciones": [
+            "el acceso por el interesado al contenido de la notificación",
+            "el acceso por el interesado o su representante debidamente identificado al contenido de la notificación",
+            "la puesta al alcance del interesado del contenido de la notificación en la misma sede",
+            "ninguna es correcta"
+        ],
+        "correcta": "el acceso por el interesado o su representante debidamente identificado al contenido de la notificación"
+    },
+    {
+        "pregunta": "19.      Las notificaciones por medios electrónicos se entenderán practicadas:",
+        "opciones": [
+            "a las 24 horas de cuando se ponga al alcance del interesado el contenido de la notificación",
+            "a los 10 días de cuando se ponga al alcance del interesado el contenido de la notificación",
+            "en el momento en que se ponga al alcance del interesado el contenido de la notificación",
+            "en el momento en que se produzca el acceso a su contenido"
+        ],
+        "correcta": "en el momento en que se produzca el acceso a su contenido"
+    },
+    {
+        "pregunta": "20.      Cuando la notificación por medios electrónicos sea de carácter obligatorio, o haya sido expresamente elegida por el interesado:",
+        "opciones": [
+            "se entenderá efectuada cuando hayan transcurrido 10 días naturales desde la puesta a disposición de la notificación sin que se acceda a su contenido",
+            "se entenderá rechazada cuando hayan transcurrido 10 días naturales desde la puesta a disposición de la notificación sin que se acceda a su contenido",
+            "se entenderá efectuada cuando hayan transcurrido 10 días hábiles desde la puesta a disposición de la notificación sin que se acceda a su contenido",
+            "se entenderá rechazada cuando hayan transcurrido 10 días hábiles desde la puesta a disposición de la notificación sin que se acceda a su contenido"
+        ],
+        "correcta": "se entenderá rechazada cuando hayan transcurrido 10 días naturales desde la puesta a disposición de la notificación sin que se acceda a su contenido"
+    },
+    {
+        "pregunta": "1.      Respecto a la práctica de las notificaciones a través de medios electrónicos, los interesados podrán acceder a las notificaciones desde:",
+        "opciones": [
+            "el Punto de Acceso General electrónico de la Administración, que funcionará como un portal de acceso",
+            "la página inicial de la Web de la Administración electrónica, que funcionará como un portal de acceso",
+            "la oficina de la Administración virtual, que funcionará como un portal de acceso",
+            "el Portal de Aplicaciones Informáticas, que funcionará como un portal de acceso"
+        ],
+        "correcta": "el Punto de Acceso General electrónico de la Administración, que funcionará como un portal de acceso"
+    },
+    {
+        "pregunta": "2.      La notificación se hará por medio de un anuncio publicado en el Boletín Oficial del Estado cuando:",
+        "opciones": [
+            "los interesados en un procedimiento sean desconocidos",
+            "se ignore el lugar de la notificación",
+            "intentada la notificación no se hubiese podido practicar",
+            "todas son correctas"
+        ],
+        "correcta": "todas son correctas"
+    },
+    {
+        "pregunta": "3.      Respecto a la pregunta anterior, previamente y con carácter facultativo, las Administraciones podrán publicar un anuncio en:",
+        "opciones": [
+            "el boletín oficial de la Comunidad Autónoma o de la Provincia",
+            "el tablón de edictos del Ayuntamiento del último domicilio del interesado",
+            "el tablón de edictos del Consulado o Sección Consular de la Embajada correspondiente",
+            "todas son correctas"
+        ],
+        "correcta": "todas son correctas"
+    },
+    {
+        "pregunta": "4.      Los actos administrativos serán objeto de publicación cuando (señala la incorrecta):",
+        "opciones": [
+            "así lo establezcan las normas reguladoras de cada procedimiento o lo aconsejen razones de interés público apreciadas por el órgano competente",
+            "el acto tenga por destinatario a una pluralidad indeterminada de personas",
+            "la Administración estime que la notificación efectuada a un solo interesado es insuficiente para garantizar la notificación a todos, no siendo necesaria en este caso la notificación individualizada",
+            "se trate de actos integrantes de un procedimiento selectivo o de concurrencia competitiva de cualquier tipo"
+        ],
+        "correcta": "la Administración estime que la notificación efectuada a un solo interesado es insuficiente para garantizar la notificación a todos, no siendo necesaria en este caso la notificación individualizada"
+    },
+    {
+        "pregunta": "5.      Respecto a la publicación no es correcto:",
+        "opciones": [
+            "la publicación de un acto deberá contener los mismos elementos que se exigen respecto de las notificaciones",
+            "en los supuestos de publicaciones de actos que contengan elementos comunes, podrán publicarse de forma conjunta los aspectos coincidentes, especificándose solamente los aspectos individuales de cada acto",
+            "la publicación de los actos se realizará en el diario oficial que corresponda, según cual sea la Administración de la que proceda el acto a notificar",
+            "la publicación de actos y comunicaciones que, por disposición legal o reglamentaria deba practicarse en tablón de anuncios o edictos, se entenderá cumplida por su publicación en dichos tablones de anuncios o edictos"
+        ],
+        "correcta": "la publicación de actos y comunicaciones que, por disposición legal o reglamentaria deba practicarse en tablón de anuncios o edictos, se entenderá cumplida por su publicación en dichos tablones de anuncios o edictos"
+    },
+    {
+        "pregunta": "6.      Se limitará a publicar en el Diario oficial que corresponda una somera indicación del contenido del acto y del lugar donde los interesados podrán comparecer para conocimiento del contenido íntegro del mencionado acto, si el órgano competente apreciase que:",
+        "opciones": [
+            "la notificación por medio de anuncios lesiona derechos o intereses legítimos",
+            "la publicación de un acto lesiona derechos o intereses legítimos",
+            "a y b son correctos",
+            "a y b son incorrectos"
+        ],
+        "correcta": "a y b son correctos"
+    },
+    {
+        "pregunta": "7.      Los actos de las Administraciones Públicas son nulos de pleno derecho en los casos siguientes (señala la incorrecta):",
+        "opciones": [
+            "los que limiten derechos subjetivos o intereses legítimos",
+            "los dictados por órgano manifiestamente incompetente por razón de la materia o del territorio",
+            "los que tengan un contenido imposible",
+            "los que sean constitutivos de infracción penal o se dicten como consecuencia de ésta"
+        ],
+        "correcta": "los que limiten derechos subjetivos o intereses legítimos"
+    },
+    {
+        "pregunta": "8.      Los actos de las Administraciones Públicas son nulos de pleno derecho en los casos siguientes (señala la incorrecta):",
+        "opciones": [
+            "los dictados prescindiendo total y absolutamente del procedimiento legalmente establecido",
+            "los dictados prescindiendo total y absolutamente de las normas que contienen las reglas esenciales para la formación de la voluntad de los órganos colegiados",
+            "los actos expresos o presuntos contrarios al ordenamiento jurídico por los que se adquieren facultades o derechos cuando se carezca de los requisitos esenciales para su adquisición",
+            "cualquiera que se establezca expresamente en una disposición con rango de Ley o reglamentaria"
+        ],
+        "correcta": "cualquiera que se establezca expresamente en una disposición con rango de Ley o reglamentaria"
+    },
+    {
+        "pregunta": "9.      Serán nulas de pleno derecho las disposiciones administrativas (señala la incorrecta):",
+        "opciones": [
+            "que vulneren la Constitución",
+            "que vulneren las leyes u otras disposiciones administrativas de rango superior",
+            "que regulen materias reservadas a la Ley",
+            "que establezcan la retroactividad de disposiciones sancionadoras favorables o no restrictivas de derechos individuales"
+        ],
+        "correcta": "que establezcan la retroactividad de disposiciones sancionadoras favorables o no restrictivas de derechos individuales"
+    },
+    {
+        "pregunta": "10.      Respecto a la anulabilidad:",
+        "opciones": [
+            "son anulables los actos de la Administración que incurran en cualquier infracción del ordenamiento jurídico, salvo la desviación de poder",
+            "el defecto de forma sólo determinará la anulabilidad cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados",
+            "la realización de actuaciones administrativas fuera del tiempo establecido para ellas implicará la anulabilidad del acto en cualquier caso",
+            "todas son correctas"
+        ],
+        "correcta": "el defecto de forma sólo determinará la anulabilidad cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados"
+    },
+    {
+        "pregunta": "11.      Señala la incorrecta:",
+        "opciones": [
+            "la nulidad o anulabilidad de un acto no implicará la de los sucesivos en el procedimiento que sean independientes del primero",
+            "la nulidad o anulabilidad en parte del acto administrativo no implicará la de las partes del mismo independientes de aquélla, salvo que la parte viciada sea de tal importancia que sin ella el acto administrativo no hubiera sido dictado",
+            "los actos nulos o anulables que contengan los elementos constitutivos de otro distinto no producirán los efectos de éste",
+            "el órgano que declare la nulidad o anule las actuaciones dispondrá siempre la conservación de aquellos actos y trámites cuyo contenido se hubiera mantenido igual de no haberse cometido la infracción"
+        ],
+        "correcta": "los actos nulos o anulables que contengan los elementos constitutivos de otro distinto no producirán los efectos de éste"
+    },
+    {
+        "pregunta": "12.      Respecto a la convalidación no es correcto:",
+        "opciones": [
+            "la Administración podrá convalidar los actos anulables, subsanando los vicios de que adolezcan",
+            "el acto de convalidación producirá efecto desde su fecha, salvo lo dispuesto en el artículo 39.3 para la retroactividad de los actos administrativos",
+            "si el vicio consistiera en incompetencia no determinante de nulidad, la convalidación podrá realizarse por el órgano competente siempre que no sea superior jerárquico del que dictó el acto viciado",
+            "si el vicio consistiese en la falta de alguna autorización, podrá ser convalidado el acto mediante el otorgamiento de la misma por el órgano competente"
+        ],
+        "correcta": "si el vicio consistiera en incompetencia no determinante de nulidad, la convalidación podrá realizarse por el órgano competente siempre que no sea superior jerárquico del que dictó el acto viciado"
+    },
+    {
+        "pregunta": "13.      Cuando los interesados en un procedimiento sean desconocidos, se ignore el lugar de la notificación o bien, intentada ésta, no se hubiese podido practicar, la notificación se hará por medio de:",
+        "opciones": [
+            "un anuncio publicado en el Boletín Oficial del Estado",
+            "un anuncio en el boletín oficial de la Comunidad Autónoma o de la Provincia",
+            "un anuncio en el tablón de edictos del Ayuntamiento del último domicilio del interesado",
+            "un anuncio en un periódico de difusión nacional"
+        ],
+        "correcta": "un anuncio publicado en el Boletín Oficial del Estado"
+    },
+    {
+        "pregunta": "14.      El título III de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas se denomina:",
+        "opciones": [
+            "De los interesados en el procedimiento",
+            "De la actividad de las Administraciones Públicas",
+            "De los actos administrativos",
+            "De las disposiciones sobre el procedimiento administrativo común"
+        ],
+        "correcta": "De los actos administrativos"
+    },
+    {
+        "pregunta": "15.      El Título III de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas tiene:",
+        "opciones": [
+            "1 capítulo",
+            "2 capítulos",
+            "3 capítulos",
+            "4 capítulos"
+        ],
+        "correcta": "3 capítulos"
+    },
+    {
+        "pregunta": "16.      El Título III de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas comprende los artículos:",
+        "opciones": [
+            "34 a 52",
+            "30 a 47",
+            "28 a 41",
+            "32 a 49"
+        ],
+        "correcta": "34 a 52"
+    },
+    {
         "pregunta": "1.      Los interesados en un procedimiento administrativo, tienen derecho a (señala la incorrecta):",
         "opciones": [
             "conocer, antes del trámite de audiencia, el estado de la tramitación de los procedimientos en los que tengan la condición de interesados",
@@ -1678,5 +3768,655 @@
             "58 a 99"
         ],
         "correcta": "53 a 105"
+    },
+    {
+        "pregunta": "1.     Las Administraciones Públicas declararán de oficio la nulidad de los actos administrativos que hayan puesto fin a la vía administrativa o que no hayan sido recurridos en plazo, en los supuestos previstos en el artículo 47.1:",
+        "opciones": [
+            "en cualquier momento anterior al trámite de audiencia, por iniciativa propia, y previo dictamen favorable del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma, si lo hubiere",
+            "en cualquier momento, a solicitud de interesado, y previo dictamen favorable del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma, si lo hubiere",
+            "en cualquier momento anterior al trámite de audiencia, por iniciativa propia o a solicitud de interesado, y previo dictamen favorable del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma, si lo hubiere",
+            "en cualquier momento, por iniciativa propia o a solicitud de interesado, y previo dictamen favorable del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma, si lo hubiere"
+        ],
+        "correcta": "en cualquier momento, por iniciativa propia o a solicitud de interesado, y previo dictamen favorable del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma, si lo hubiere"
+    },
+    {
+        "pregunta": "2.     Las Administraciones Públicas podrán declarar la nulidad de las disposiciones administrativas en los supuestos previstos en el artículo 47.2:",
+        "opciones": [
+            "de oficio o a solicitud del interesado, previo dictamen favorable del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma si lo hubiere",
+            "de oficio, previo dictamen favorable o no del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma si lo hubiere",
+            "de oficio, previo dictamen favorable del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma si lo hubiere",
+            "de oficio o a solicitud del interesado, previo dictamen favorable o no del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma si lo hubiere"
+        ],
+        "correcta": "de oficio, previo dictamen favorable del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma si lo hubiere"
+    },
+    {
+        "pregunta": "3.     El órgano competente para la revisión de oficio podrá acordar motivadamente la inadmisión a trámite de las solicitudes formuladas por los interesados, sin necesidad de recabar Dictamen del Consejo de Estado u órgano consultivo de la Comunidad Autónoma, cuando:",
+        "opciones": [
+            "las mismas no se basen en alguna de las causas de nulidad del artículo 47.1",
+            "carezcan manifiestamente de fundamento",
+            "en el supuesto de que se hubieran desestimado en cuanto al fondo otras solicitudes sustancialmente iguales",
+            "todas son correctas"
+        ],
+        "correcta": "todas son correctas"
+    },
+    {
+        "pregunta": "4.     Respecto a la revsión de disposiciones y actos nulos cuando el procedimiento se hubiera iniciado de oficio, el transcurso del plazo:",
+        "opciones": [
+            "de 1 mes desde su inicio sin dictarse resolución producirá la caducidad del mismo",
+            "de 2 meses desde su inicio sin dictarse resolución producirá la caducidad del mismo",
+            "de 3 meses desde su inicio sin dictarse resolución producirá la caducidad del mismo",
+            "de 6 meses desde su inicio sin dictarse resolución producirá la caducidad del mismo"
+        ],
+        "correcta": "de 6 meses desde su inicio sin dictarse resolución producirá la caducidad del mismo"
+    },
+    {
+        "pregunta": "5.     Respecto a revisión de disposiciones y actos nulos si el procedimiento se hubiera iniciado a solicitud de interesado transcurrido el plazo máximo sin dictarse resolución:",
+        "opciones": [
+            "se producirá la invalidez del mismo",
+            "se podrá entender la misma estimada por silencio administrativo",
+            "se podrá entender la misma desestimada por silencio administrativo",
+            "se producirá la caducidad del mismo"
+        ],
+        "correcta": "se podrá entender la misma desestimada por silencio administrativo"
+    },
+    {
+        "pregunta": "6.     Las Administraciones Públicas podrán impugnar ante el orden jurisdiccional contencioso-administrativo:",
+        "opciones": [
+            "los actos favorables para los interesados que sean anulables conforme a lo dispuesto en el artículo 48, previa su declaración de lesividad para el interés público",
+            "los actos no favorables para los interesados que sean anulables conforme a lo dispuesto en el artículo 48, previa su declaración de lesividad para el interés público",
+            "los actos favorables para los interesados que no sean anulables conforme a lo dispuesto en el artículo 48, previa su declaración de lesividad para el interés público",
+            "los actos no favorables para los interesados que no sean anulables conforme a lo dispuesto en el artículo 48, previa su declaración de lesividad para el interés público"
+        ],
+        "correcta": "los actos favorables para los interesados que sean anulables conforme a lo dispuesto en el artículo 48, previa su declaración de lesividad para el interés público"
+    },
+    {
+        "pregunta": "7.     La declaración de lesividad no podrá adoptarse una vez transcurrido:",
+        "opciones": [
+            "6 meses desde que se dictó el acto administrativo",
+            "1 año desde que se dictó el acto administrativo",
+            "2 años desde que se dictó el acto administrativo",
+            "4 años desde que se dictó el acto administrativo"
+        ],
+        "correcta": "4 años desde que se dictó el acto administrativo"
+    },
+    {
+        "pregunta": "8.     La declaración de lesividad:",
+        "opciones": [
+            "exigirá la previa audiencia de cuantos aparezcan como interesados en el mismo",
+            "requerirá previo dictamen favorable del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma, si lo hubiere",
+            "exigirá la oportuna autorización por el órgano competente en materia de Hacienda Pública",
+            "requerirá en todo caso la aprobación expresa del Consejo de Ministros u órgano equivalente de las Comunidades Autónomas"
+        ],
+        "correcta": "exigirá la previa audiencia de cuantos aparezcan como interesados en el mismo"
+    },
+    {
+        "pregunta": "9.     La declaración de lesividad:",
+        "opciones": [
+            "podrá ser objeto de los recursos que se estimen pertinentes",
+            "podrá ser recurrible en alzada",
+            "podrá ser recurrible potestativo de reposición",
+            "no será susceptible de recurso"
+        ],
+        "correcta": "no será susceptible de recurso"
+    },
+    {
+        "pregunta": "10.     Se producirá la caducidad del mismo cuando desde la iniciación del procedimiento sin que se hubiera declarado la lesividad hubieran trascurrido:",
+        "opciones": [
+            "3 meses",
+            "6 meses",
+            "2 años",
+            "6 años"
+        ],
+        "correcta": "6 meses"
+    },
+    {
+        "pregunta": "11.     Respecto a la declaración de lesividad (señala la incorrecta):",
+        "opciones": [
+            "podrá notificarse a los interesados a los meros efectos informativos",
+            "si el acto proviniera de la Administración General del Estado, la declaración de lesividad se adoptará por el órgano de la Administración competente en la materia",
+            "si el acto proviniera de las Comunidades Autónomas, la declaración de lesividad se adoptará por el órgano de cada Administración competente en la materia",
+            "si el acto proviniera de las entidades que integran la Administración Local, la declaración de lesividad se adoptará por el Pleno de la Corporación o, en defecto de éste, por el órgano colegiado inferior de la entidad"
+        ],
+        "correcta": "si el acto proviniera de las entidades que integran la Administración Local, la declaración de lesividad se adoptará por el Pleno de la Corporación o, en defecto de éste, por el órgano colegiado inferior de la entidad"
+    },
+    {
+        "pregunta": "12.     Iniciado el procedimiento de revisión de oficio al que se refieren los artículos 106 y 107:",
+        "opciones": [
+            "no se podrá suspender la ejecución del acto",
+            "el órgano competente para declarar la nulidad o lesividad podrá suspender la ejecución del acto, cuando ésta pudiera causar perjuicios de imposible o difícil reparación",
+            "cualquier órgano administrativo superior podrá suspender la ejecución del acto, cuando ésta pudiera causar perjuicios de imposible o difícil reparación",
+            "el órgano competente para declarar la nulidad o lesividad podrá suspender la ejecución del acto, cuando lo estime conveniente"
+        ],
+        "correcta": "el órgano competente para declarar la nulidad o lesividad podrá suspender la ejecución del acto, cuando ésta pudiera causar perjuicios de imposible o difícil reparación"
+    },
+    {
+        "pregunta": "13.     Las Administraciones Públicas podrán revocar sus actos de gravamen o desfavorables:",
+        "opciones": [
+            "en cualquier momento",
+            "mientras no haya transcurrido el plazo de prescripción",
+            "mientras no haya transcurrido el plazo de caducidad",
+            "en los primeros 10 días del acto"
+        ],
+        "correcta": "mientras no haya transcurrido el plazo de prescripción"
+    },
+    {
+        "pregunta": "14.     Las Administraciones Públicas podrán revocar sus actos de gravamen o desfavorables, siempre que tal revocación (señala la incorrecta):",
+        "opciones": [
+            "constituya dispensa o exención no permitida por las leyes",
+            "no sea contraria al principio de igualdad o al interés público",
+            "no sea contraria al ordenamiento jurídico",
+            "ninguna es correcta"
+        ],
+        "correcta": "constituya dispensa o exención no permitida por las leyes"
+    },
+    {
+        "pregunta": "15.     Las Administraciones Públicas podrán rectificar los errores materiales, de hecho o aritméticos existentes en sus actos:",
+        "opciones": [
+            "mientras no haya transcurrido el plazo de prescripción, de oficio",
+            "en cualquier momento, de oficio",
+            "mientras no haya transcurrido el plazo de prescripción, de oficio o a instancia de los interesados",
+            "en cualquier momento, de oficio o a instancia de los interesados"
+        ],
+        "correcta": "en cualquier momento, de oficio o a instancia de los interesados"
+    },
+    {
+        "pregunta": "16.     En el ámbito estatal, serán competentes para la revisión de oficio de las disposiciones y los actos administrativos nulos y anulables:",
+        "opciones": [
+            "el Consejo de Ministros, respecto de sus propios actos y disposiciones y de los actos y disposiciones dictados por los Ministros",
+            "en la Administración General del Estado, los Ministros, respecto de los actos y disposiciones de los Secretarios de Estado y de los dictados por órganos directivos de su Departamento no dependientes de una Secretaría de Estado",
+            "en la Administración General del Estado, los Secretarios de Estado, respecto de los actos y disposiciones dictados por los órganos directivos de ellos dependientes",
+            "todas son correctas"
+        ],
+        "correcta": "todas son correctas"
+    },
+    {
+        "pregunta": "17.     En el ámbito estatal, serán competentes para la revisión de oficio de las disposiciones y los actos administrativos nulos y anulables, en los Organismos públicos y entidades derecho público vinculados o dependientes de la Administración General del Estado:",
+        "opciones": [
+            "los órganos a los que estén adscritos los Organismos públicos y entidades de derecho público, respecto de los actos y disposiciones dictados por los órganos de ellos dependientes",
+            "los máximos órganos rectores de los Organismos públicos y entidades de derecho público, respecto de los actos y disposiciones dictados por los órganos de ellos dependientes",
+            "a y b son correctas",
+            "a y b son incorrectas"
+        ],
+        "correcta": "los máximos órganos rectores de los Organismos públicos y entidades de derecho público, respecto de los actos y disposiciones dictados por los órganos de ellos dependientes"
+    },
+    {
+        "pregunta": "18.     Contra las resoluciones y determinados actos de trámite, fundado en cualquiera de los motivos de nulidad o anulabilidad previstos en los artículos 47 y 48 de esta Ley podrá interponerse por los interesados:",
+        "opciones": [
+            "el recurso de alzada",
+            "los recursos de alzada y potestativo de reposición",
+            "los recursos de alzada y extraordinario de revisión",
+            "los recursos de alzada, potestativo de reposición y extraordinario de revisión"
+        ],
+        "correcta": "los recursos de alzada y potestativo de reposición"
+    },
+    {
+        "pregunta": "19.     Las leyes podrán sustituir el recurso de alzada, en supuestos o ámbitos sectoriales determinados, y cuando la especificidad de la materia así lo justifique, por otros procedimientos:",
+        "opciones": [
+            "de impugnación",
+            "de reclamación y conciliación",
+            "de mediación y arbitraje",
+            "todas son correctas"
+        ],
+        "correcta": "todas son correctas"
+    },
+    {
+        "pregunta": "20.     Respecto a los procedimientos a que se refiere la pregunta anterior, las leyes:",
+        "opciones": [
+            "no podrán sustituir el recurso de reposición por dichos procedimientos",
+            "podrán sustituir el recurso de reposición por dichos procedimientos convirtiéndose en preceptivo para el interesado",
+            "podrán sustituir el recurso de reposición por dichos procedimientos respetando su carácter potestativo para el interesado",
+            "ninguna es correcta"
+        ],
+        "correcta": "podrán sustituir el recurso de reposición por dichos procedimientos respetando su carácter potestativo para el interesado"
+    },
+    {
+        "pregunta": "21.      Podrán interponerse por los interesados los recursos de alzada y potestativo de reposición contra actos de trámite que:",
+        "opciones": [
+            "deciden directa o indirectamente el fondo del asunto",
+            "determinan la posibilidad de continuar el procedimiento",
+            "producen indefensión o perjuicio reparable a derechos e intereses legítimos",
+            "todas son correctas"
+        ],
+        "correcta": "deciden directa o indirectamente el fondo del asunto"
+    },
+    {
+        "pregunta": "22.     Señala la correcta:",
+        "opciones": [
+            "contra las disposiciones administrativas de carácter general no cabrá recurso en vía administrativa",
+            "los recursos contra un acto administrativo que se funden únicamente en la nulidad de alguna disposición administrativa de carácter general no podrán interponerse directamente ante el órgano que dictó dicha disposición",
+            "las reclamaciones económico-administrativas se ajustarán a los procedimientos establecidos por su legislación específica",
+            "a y c son correctas"
+        ],
+        "correcta": "a y c son correctas"
+    },
+    {
+        "pregunta": "1.     El recurso extraordinario de revisión procederá:",
+        "opciones": [
+            "contra los actos firmes en vía administrativa cuando concurra alguna de las circunstancias previstas en el artículo 120.1",
+            "contra los actos que no sean firmes en vía administrativa cuando concurra alguna de las circunstancias previstas en el artículo 125.1",
+            "contra los actos que no sean firmes en vía administrativa cuando concurra alguna de las circunstancias previstas en el artículo 120.1",
+            "contra los actos firmes en vía administrativa cuando concurra alguna de las circunstancias previstas en el artículo 125.1"
+        ],
+        "correcta": "contra los actos firmes en vía administrativa cuando concurra alguna de las circunstancias previstas en el artículo 125.1"
+    },
+    {
+        "pregunta": "2.     Ponen fin a la vía administrativa (señala la incorrecta):",
+        "opciones": [
+            "las resoluciones de los recursos de alzada",
+            "las resoluciones de los procedimientos a que se refiere el artículo 112.2",
+            "las resoluciones de los órganos administrativos que carezcan de superior jerárquico, en todo caso",
+            "los acuerdos, pactos, convenios o contratos que tengan la consideración de finalizadores del procedimiento"
+        ],
+        "correcta": "las resoluciones de los órganos administrativos que carezcan de superior jerárquico, en todo caso"
+    },
+    {
+        "pregunta": "3.     Ponen fin a la vía administrativa (señala la incorrecta):",
+        "opciones": [
+            "la resolución administrativa de los procedimientos de responsabilidad patrimonial, siempre que se derive de relación pública",
+            "la resolución de los procedimientos complementarios en materia sancionadora a los que se refiere el artículo 90.4",
+            "las demás resoluciones de órganos administrativos cuando una disposición legal o reglamentaria así lo establezca",
+            "ninguna es correcta"
+        ],
+        "correcta": "la resolución administrativa de los procedimientos de responsabilidad patrimonial, siempre que se derive de relación pública"
+    },
+    {
+        "pregunta": "4.     En el ámbito estatal ponen fin a la vía administrativa (señala la incorrecta):",
+        "opciones": [
+            "los actos y resoluciones emanados de los Ministros y los Secretarios de Estado en el ejercicio de las competencias que tienen atribuidas los órganos de los que son titulares",
+            "los actos y resoluciones emanados de los órganos directivos con nivel de Director general o superior, en relación con las competencias que tengan atribuidas en materia de personal",
+            "en los Organismos públicos y entidades derecho público vinculados o dependientes de la Administración General del Estado, los actos y resoluciones emanados de los máximos órganos de dirección unipersonales o colegiados, de acuerdo con lo que establezcan sus estatutos, salvo que por ley se establezca otra cosa",
+            "los actos administrativos de los miembros y órganos que no pertenezcan al Gobierno"
+        ],
+        "correcta": "los actos administrativos de los miembros y órganos que no pertenezcan al Gobierno"
+    },
+    {
+        "pregunta": "5.     La interposición del recurso deberá expresar (señala la incorrecta):",
+        "opciones": [
+            "el nombre y apellidos del recurrente, así como la identificación personal del mismo",
+            "el acto que se recurre, la razón de su impugnación y la legislación en que se base el recurso",
+            "lugar, fecha, firma del recurrente, identificación del medio y, en su caso, del lugar que se señale a efectos de notificaciones",
+            "órgano, centro o unidad administrativa al que se dirige y su correspondiente código de identificación"
+        ],
+        "correcta": "el acto que se recurre, la razón de su impugnación y la legislación en que se base el recurso"
+    },
+    {
+        "pregunta": "6.     Respecto a la interposición de recurso:",
+        "opciones": [
+            "deberá expresar las particularidades exigidas, en su caso, por las disposiciones específicas",
+            "el error o la ausencia de la calificación del recurso por parte del recurrente no será obstáculo para su tramitación, siempre que no se deduzca su verdadero carácter",
+            "los vicios y defectos que hagan anulable un acto podrán ser alegados por quienes los hubieren causado",
+            "todas son correctas"
+        ],
+        "correcta": "deberá expresar las particularidades exigidas, en su caso, por las disposiciones específicas"
+    },
+    {
+        "pregunta": "7.     Serán causas de inadmisión del recurso las siguientes (señala la incorrecta):",
+        "opciones": [
+            "ser incompetente el órgano administrativo, cuando el competente perteneciera a la misma Administración Pública",
+            "carecer de legitimación el recurrente",
+            "tratarse de un acto no susceptible de recurso o haber transcurrido el plazo para su interposición",
+            "carecer el recurso manifiestamente de fundamento"
+        ],
+        "correcta": "ser incompetente el órgano administrativo, cuando el competente perteneciera a la misma Administración Pública"
+    },
+    {
+        "pregunta": "8.     La interposición de cualquier recurso:",
+        "opciones": [
+            "suspenderá la ejecución del acto impugnado en todo caso",
+            "excepto en los casos en que una disposición establezca lo contrario, no suspenderá la ejecución del acto impugnado",
+            "excepto en los casos en que una disposición establezca lo contrario, suspenderá la ejecución del acto impugnado",
+            "no suspenderá la ejecución del acto impugnado en ningún caso"
+        ],
+        "correcta": "excepto en los casos en que una disposición establezca lo contrario, no suspenderá la ejecución del acto impugnado"
+    },
+    {
+        "pregunta": "9.     El órgano a quien competa resolver el recurso, previa ponderación, suficientemente razonada, entre el perjuicio que causaría al interés público o a terceros la suspensión y el ocasionado al recurrente como consecuencia de la eficacia inmediata del acto recurrido, podrá suspender, de oficio o a solicitud del recurrente, la ejecución del acto impugnado cuando:",
+        "opciones": [
+            "la ejecución pudiera causar perjuicios de imposible o difícil reparación",
+            "la impugnación se fundamente en alguna de las causas de nulidad de pleno derecho previstas en el artículo 47.1 de esta Ley",
+            "a y b son correctas",
+            "a y b son incorrectas"
+        ],
+        "correcta": "a y b son correctas"
+    },
+    {
+        "pregunta": "10.     La ejecución del acto impugnado se entenderá suspendida si desde que la solicitud de suspensión haya tenido entrada en el registro electrónico de la Administración u Organismo competente para decidir sobre la misma, el órgano a quien competa resolver el recurso no ha dictado y notificado resolución expresa al respecto en el plazo de:",
+        "opciones": [
+            "1 mes",
+            "2 meses",
+            "3 meses",
+            "6 meses"
+        ],
+        "correcta": "1 mes"
+    },
+    {
+        "pregunta": "11.     Respecto a la suspensión de la ejecución no es correcto:",
+        "opciones": [
+            "al dictar el acuerdo de suspensión podrán adoptarse las medidas cautelares que sean necesarias para asegurar la protección del interés público o de terceros y la eficacia de la resolución o el acto impugnado",
+            "cuando de la suspensión puedan derivarse perjuicios de cualquier naturaleza, aquélla sólo producirá efectos previa prestación de caución o garantía suficiente para responder de ellos, en los términos establecidos legalmente",
+            "la suspensión se prolongará después de agotada la vía administrativa cuando, habiéndolo solicitado previamente el interesado, exista medida cautelar y los efectos de ésta se extiendan a la vía contencioso-administrativa",
+            "si el interesado interpusiera recurso contencioso-administrativo, solicitando la suspensión del acto objeto del proceso, se mantendrá la suspensión hasta que se produzca el correspondiente pronunciamiento judicial sobre la solicitud"
+        ],
+        "correcta": "cuando de la suspensión puedan derivarse perjuicios de cualquier naturaleza, aquélla sólo producirá efectos previa prestación de caución o garantía suficiente para responder de ellos, en los términos establecidos legalmente"
+    },
+    {
+        "pregunta": "12.     Cuando el recurso tenga por objeto la impugnación de un acto administrativo que afecte a una pluralidad indeterminada de personas, la suspensión de su eficacia habrá de ser:",
+        "opciones": [
+            "notificada a cada uno de ellos",
+            "notificada a quien figure como representante de todos ellos",
+            "publicada en el periódico oficial en que aquél se insertó",
+            "publicada en tablón de anuncios del ayuntamiento que realizó el acto"
+        ],
+        "correcta": "publicada en el periódico oficial en que aquél se insertó"
+    },
+    {
+        "pregunta": "13.     Cuando hayan de tenerse en cuenta nuevos hechos o documentos no recogidos en el expediente originario, se pondrán de manifiesto a los interesados para que formulen las alegaciones y presenten los documentos y justificantes que estimen procedentes, en un plazo:",
+        "opciones": [
+            "no inferior a 10 días ni superior a 15",
+            "no inferior a 10 días ni superior a 20",
+            "no inferior a 10 días ni superior a 30",
+            "no inferior a 15 días ni superior a 30"
+        ],
+        "correcta": "no inferior a 10 días ni superior a 15"
+    },
+    {
+        "pregunta": "14.     Respecto a la audiencia del interesado no es correcto:",
+        "opciones": [
+            "no se tendrán en cuenta en la resolución de los recursos, hechos, documentos o alegaciones del recurrente, cuando habiendo podido aportarlos en el trámite de alegaciones no lo haya hecho",
+            "no podrá solicitarse la práctica de pruebas cuando su falta de realización en el procedimiento en el que se dictó la resolución recurrida fuera imputable al interesado",
+            "si hubiera otros interesados se les dará, en todo caso, traslado del recurso para que dentro del plazo, aleguen cuanto estimen procedente",
+            "el recurso, los informes y las propuestas tendrán el carácter de documentos nuevos"
+        ],
+        "correcta": "el recurso, los informes y las propuestas tendrán el carácter de documentos nuevos"
+    },
+    {
+        "pregunta": "15.     La resolución del recurso (señala la incorrecta):",
+        "opciones": [
+            "estimará en todo o en parte",
+            "declarará su admisión",
+            "desestimará las pretensiones formuladas en el mismo",
+            "declarará su inadmisión"
+        ],
+        "correcta": "declarará su admisión"
+    },
+    {
+        "pregunta": "16.     Respecto a la resolución del recurso no es correcto:",
+        "opciones": [
+            "cuando existiendo vicio de forma no se estime procedente resolver sobre el fondo se ordenará la retroacción del procedimiento al momento en el que el vicio fue cometido",
+            "el órgano que resuelva el recurso decidirá cuantas cuestiones, tanto de forma como de fondo, plantee el procedimiento, hayan sido o no alegadas por los interesados",
+            "en el caso de cuestiones no alegadas por los interesados se les oirá previamente",
+            "la resolución será congruente con las peticiones formuladas por el recurrente, pudiendo agravarse su situación inicial"
+        ],
+        "correcta": "la resolución será congruente con las peticiones formuladas por el recurrente, pudiendo agravarse su situación inicial"
+    },
+    {
+        "pregunta": "17.     Respecto a la pluralidad de recursos administrativos no es correcto:",
+        "opciones": [
+            "cuando deban resolverse una pluralidad de recursos administrativos que traigan causa de un mismo acto administrativo y se hubiera interpuesto un recurso judicial contra una resolución administrativa o bien contra el correspondiente acto presunto desestimatorio, el órgano administrativo podrá acordar la suspensión del plazo para resolver hasta que recaiga pronunciamiento judicial",
+            "el acuerdo de suspensión deberá ser notificado a los interesados, quienes no podrán recurrirlo",
+            "la interposición del correspondiente recurso por un interesado, no afectará a los restantes procedimientos de recurso que se encuentren suspendidos por traer causa del mismo acto administrativo",
+            "recaído el pronunciamiento judicial, será comunicado a los interesados y el órgano administrativo competente para resolver podrá dictar resolución sin necesidad de realizar ningún trámite adicional, salvo el de audiencia, cuando proceda"
+        ],
+        "correcta": "el acuerdo de suspensión deberá ser notificado a los interesados, quienes no podrán recurrirlo"
+    },
+    {
+        "pregunta": "18.     Las resoluciones y actos a que se refiere el artículo 112.1, cuando no pongan fin a la vía administrativa, podrán ser recurridos:",
+        "opciones": [
+            "en alzada ante el mismo órgano que los hubiera dictado",
+            "potestativamente en reposición ante el mismo órgano que los hubiera dictado",
+            "en alzada ante el órgano superior jerárquico del que los dictó",
+            "potestativamente en reposición ante el órgano superior jerárquico del que los dictó"
+        ],
+        "correcta": "en alzada ante el órgano superior jerárquico del que los dictó"
+    },
+    {
+        "pregunta": "19.     Si el recurso de alzada se hubiera interpuesto ante el órgano que dictó el acto impugnado, éste deberá remitirlo al competente con su informe y con una copia completa y ordenada del expediente en el plazo de:",
+        "opciones": [
+            "5 días",
+            "10 días",
+            "15 días",
+            "20 días"
+        ],
+        "correcta": "10 días"
+    },
+    {
+        "pregunta": "20.     El plazo para la interposición del recurso de alzada, si el acto fuera expreso será:",
+        "opciones": [
+            "1 mes",
+            "2 meses",
+            "3 meses",
+            "cualquier momento a partir del día siguiente a aquel en que, de acuerdo con su normativa específica, se produzcan los efectos del silencio administrativo"
+        ],
+        "correcta": "1 mes"
+    },
+    {
+        "pregunta": "21.     Si el acto no fuera expreso el solicitante y otros posibles interesados podrán interponer recurso de alzada:",
+        "opciones": [
+            "1 mes",
+            "2 meses",
+            "3 meses",
+            "en cualquier momento a partir del día siguiente a aquel en que, de acuerdo con su normativa específica, se produzcan los efectos del silencio administrativo"
+        ],
+        "correcta": "en cualquier momento a partir del día siguiente a aquel en que, de acuerdo con su normativa específica, se produzcan los efectos del silencio administrativo"
+    },
+    {
+        "pregunta": "22.     El plazo máximo para dictar y notificar la resolución de un recurso de alzada será de:",
+        "opciones": [
+            "10 días",
+            "1 mes",
+            "2 meses",
+            "3 meses"
+        ],
+        "correcta": "3 meses"
+    },
+    {
+        "pregunta": "1.     El recurso de alzada podrá interponerse:",
+        "opciones": [
+            "ante el órgano que dictó el acto que se impugna",
+            "ante el órgano competente para resolver el acto que se impugna",
+            "ante el órgano que dictó el acto que se impugna o ante el competente para resolverlo",
+            "ante el orden jurisdiccional contencioso-administrativo"
+        ],
+        "correcta": "ante el órgano que dictó el acto que se impugna o ante el competente para resolverlo"
+    },
+    {
+        "pregunta": "2.     Respecto al recurso de alzada, transcurrido el plazo para dictar y notificar resolución sin que se produzca, salvo en el supuesto previsto en el artículo 24.1, tercer párrafo:",
+        "opciones": [
+            "se podrá entender estimado el recurso",
+            "se podrá entender desestimado el recurso",
+            "se producirá la caducidad del recurso",
+            "se producirá la suspensión del recurso"
+        ],
+        "correcta": "se podrá entender desestimado el recurso"
+    },
+    {
+        "pregunta": "3.     Contra la resolución de un recurso de alzada:",
+        "opciones": [
+            "únicamente podrá interponerse recurso contencioso-administrativo",
+            "no cabrá ningún otro recurso administrativo, salvo el recurso potestativo de reposición, en los casos establecidos en el artículo 123.1",
+            "no cabrá ningún otro recurso administrativo, salvo el recurso extraordinario de revisión, en los casos establecidos en el artículo 125.1",
+            "no cabrá ningún otro recurso administrativo"
+        ],
+        "correcta": "no cabrá ningún otro recurso administrativo, salvo el recurso extraordinario de revisión, en los casos establecidos en el artículo 125.1"
+    },
+    {
+        "pregunta": "4.     Los actos administrativos que pongan fin a la vía administrativa podrán ser recurridos:",
+        "opciones": [
+            "en alzada",
+            "potestativamente en reposición",
+            "en alzada y potestativamente en reposición",
+            "ninguna es correcta"
+        ],
+        "correcta": "potestativamente en reposición"
+    },
+    {
+        "pregunta": "5.     Los actos administrativos que pongan fin a la vía administrativa podrán ser recurridos ante:",
+        "opciones": [
+            "el mismo órgano que los hubiera dictado",
+            "el órgano superior jerárquico del que los dictó",
+            "el orden jurisdiccional contencioso-administrativo",
+            "el mismo órgano que los hubiera dictado o ser impugnados directamente ante el orden jurisdiccional contencioso-administrativo"
+        ],
+        "correcta": "el mismo órgano que los hubiera dictado o ser impugnados directamente ante el orden jurisdiccional contencioso-administrativo"
+    },
+    {
+        "pregunta": "6.     No se podrá interponer recurso contencioso-administrativo hasta que sea resuelto expresamente o se haya producido la desestimación presunta del:",
+        "opciones": [
+            "recurso de alzada interpuesto",
+            "recurso de reposición interpuesto",
+            "recurso extraordinario de revisión interpuesto",
+            "ninguna es correcta"
+        ],
+        "correcta": "recurso de reposición interpuesto"
+    },
+    {
+        "pregunta": "7.     El plazo para la interposición del recurso de reposición si el acto fuera expreso será:",
+        "opciones": [
+            "cualquier momento a partir del día siguiente a aquel en que, de acuerdo con su normativa específica, se produzca el acto presunto.",
+            "1 mes",
+            "2 meses",
+            "3 meses"
+        ],
+        "correcta": "1 mes"
+    },
+    {
+        "pregunta": "8.     Transcurrido el plazo para la interposición del recurso de reposición:",
+        "opciones": [
+            "únicamente podrá interponerse recurso contencioso-administrativo",
+            "únicamente podrá interponerse recurso extraordinario de revisión, sin perjuicio, en su caso, de la procedencia de alzada",
+            "únicamente podrá interponerse recurso contencioso-administrativo, sin perjuicio, en su caso, de la procedencia del recurso extraordinario de revisión",
+            "únicamente podrá interponerse recurso de alzada"
+        ],
+        "correcta": "únicamente podrá interponerse recurso contencioso-administrativo, sin perjuicio, en su caso, de la procedencia del recurso extraordinario de revisión"
+    },
+    {
+        "pregunta": "9.     Si el acto no fuera expreso, el solicitante y otros posibles interesados podrán interponer recurso de reposición:",
+        "opciones": [
+            "en cualquier momento a partir del día siguiente a aquel en que, de acuerdo con su normativa específica, se produzca el acto presunto.",
+            "1 mes",
+            "2 meses",
+            "3 meses"
+        ],
+        "correcta": "en cualquier momento a partir del día siguiente a aquel en que, de acuerdo con su normativa específica, se produzca el acto presunto."
+    },
+    {
+        "pregunta": "10.     El plazo máximo para dictar y notificar la resolución del recurso de reposicion será de:",
+        "opciones": [
+            "10 días",
+            "1 mes",
+            "2 meses",
+            "3 meses"
+        ],
+        "correcta": "1 mes"
+    },
+    {
+        "pregunta": "11.     Contra la resolución de un recurso de reposición:",
+        "opciones": [
+            "no podrá interponerse de nuevo dicho recurso",
+            "no podrá interponerse de nuevo dicho recurso hasta pasados 3 meses",
+            "no podrá interponerse de nuevo dicho recurso salvo que aparezcan nuevos documentos de valor esencial para la resolución",
+            "podrá interponerse de nuevo dicho recurso hasta en dos ocasiones más"
+        ],
+        "correcta": "no podrá interponerse de nuevo dicho recurso"
+    },
+    {
+        "pregunta": "12.     Contra los actos firmes en vía administrativa, cuando concurra determinadas circunstancias podrá interponerse:",
+        "opciones": [
+            "el recurso de alzada ante el órgano superior jerárquico del que los dictó",
+            "el recurso extraordinario de revisión ante el órgano superior jerárquico del que los dictó",
+            "el recurso potestativo de reposición ante el órgano administrativo que los dictó",
+            "el recurso extraordinario de revisión ante el órgano administrativo que los dictó"
+        ],
+        "correcta": "el recurso extraordinario de revisión ante el órgano administrativo que los dictó"
+    },
+    {
+        "pregunta": "13.     Será competente para la resolución del recurso extraordinario de revisión:",
+        "opciones": [
+            "el órgano superior jerárquico del que los dictó",
+            "el órgano administrativo que los dictó",
+            "el orden jurisdiccional contencioso-administrativo",
+            "ninguna es correcta"
+        ],
+        "correcta": "el órgano administrativo que los dictó"
+    },
+    {
+        "pregunta": "14.     El recurso extraordinario de revisión podrá interponerse cuando (señala la incorrecta):",
+        "opciones": [
+            "al dictarlos se hubiera incurrido en error de hecho, que resulte de los propios documentos incorporados al expediente",
+            "aparezcan documentos de valor esencial para la resolución del asunto que, siendo anteriores, evidencien el error de la resolución recurrida",
+            "en la resolución hayan influido esencialmente documentos o testimonios declarados falsos por sentencia judicial firme, anterior o posterior a aquella resolución",
+            "la resolución se hubiese dictado como consecuencia de prevaricación, cohecho, violencia, maquinación fraudulenta u otra conducta punible y se haya declarado así en virtud de sentencia judicial firme"
+        ],
+        "correcta": "aparezcan documentos de valor esencial para la resolución del asunto que, siendo anteriores, evidencien el error de la resolución recurrida"
+    },
+    {
+        "pregunta": "15.     El recurso extraordinario de revisión se interpondrá, cuando hayan influido esencialmente documentos o testimonios declarados falsos por sentencia judicial firme dentro del plazo de:",
+        "opciones": [
+            "1 mes a contar desde el conocimiento de los documentos o desde que la sentencia judicial quedó firme",
+            "2 meses a contar desde el conocimiento de los documentos o desde que la sentencia judicial quedó firme",
+            "3 meses a contar desde el conocimiento de los documentos o desde que la sentencia judicial quedó firme",
+            "4 años a contar desde el conocimiento de los documentos o desde que la sentencia judicial quedó firme"
+        ],
+        "correcta": "3 meses a contar desde el conocimiento de los documentos o desde que la sentencia judicial quedó firme"
+    },
+    {
+        "pregunta": "16.     El recurso extraordinario de revisión se interpondrá, cuando al dictarlos se hubiera incurrido en error de hecho, que resulte de los propios documentos incorporados al expediente en el plazo de:",
+        "opciones": [
+            "1 mes siguientes a la fecha de la notificación de la resolución impugnada",
+            "2 meses siguientes a la fecha de la notificación de la resolución impugnada",
+            "3 meses siguientes a la fecha de la notificación de la resolución impugnada",
+            "4 años siguientes a la fecha de la notificación de la resolución impugnada"
+        ],
+        "correcta": "4 años siguientes a la fecha de la notificación de la resolución impugnada"
+    },
+    {
+        "pregunta": "17.     El órgano competente para la resolución del recurso extraordinario de revisión, cuando el mismo no se funde en alguna de las causas previstas en el artículo 125.1 o en el supuesto de que se hubiesen desestimado en cuanto al fondo otros recursos sustancialmente iguales, podrá acordar la inadmisión a trámite:",
+        "opciones": [
+            "motivadamente, previo dictamen del Consejo de Estado u órgano consultivo de la Comunidad Autónoma",
+            "sin necesidad de motivar, previo dictamen del Consejo de Estado u órgano consultivo de la Comunidad Autónoma",
+            "motivadamente, sin necesidad de recabar dictamen del Consejo de Estado u órgano consultivo de la Comunidad Autónoma",
+            "sin necesidad de motivar ni de recabar dictamen del Consejo de Estado u órgano consultivo de la Comunidad Autónoma"
+        ],
+        "correcta": "motivadamente, sin necesidad de recabar dictamen del Consejo de Estado u órgano consultivo de la Comunidad Autónoma"
+    },
+    {
+        "pregunta": "18.     Si desde la interposición del recurso extraordinario de revisión no se ha dictado y notificado la resolución:",
+        "opciones": [
+            "en el plazo de 1 mes se entenderá estimado",
+            "en el plazo de 3 meses se entenderá desestimado",
+            "en el plazo de 3 meses se entenderá estimado",
+            "en el plazo de 1 mes se entenderá desestimado"
+        ],
+        "correcta": "en el plazo de 3 meses se entenderá desestimado"
+    },
+    {
+        "pregunta": "19.     El Título V de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas:",
+        "opciones": [
+            "De la iniciativa legislativa y de la potestad para dictar reglamentos y otras disposiciones",
+            "De los actos administrativos",
+            "De las disposiciones sobre el procedimiento administrativo común",
+            "De la revisión de los actos en vía administrativa"
+        ],
+        "correcta": "De la revisión de los actos en vía administrativa"
+    },
+    {
+        "pregunta": "20.     El Título V de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas tiene:",
+        "opciones": [
+            "1 capítulo",
+            "2 capítulos",
+            "3 capítulos",
+            "4 capítulos"
+        ],
+        "correcta": "2 capítulos"
+    },
+    {
+        "pregunta": "21.     El Título V de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas comprende los artículos:",
+        "opciones": [
+            "102 a 124",
+            "101 a 130",
+            "112 a 125",
+            "106 a 126"
+        ],
+        "correcta": "106 a 126"
     }
 ]
